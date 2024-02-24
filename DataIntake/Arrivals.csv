@@ -1,0 +1,1001 @@
+flight_number,airline,arrival_time,departure_city,arrival_city,gate_number,status,baggage_claim,passenger_count,arrival_terminal
+2380,Southwest,4/12/2022 05:04,Wamba,Ceuta,45,On Time,18,123,Terminal B
+9242,Southwest,4/27/2022 03:13,Dawu Chengguanzhen,Boxholm,17,On Time,11,101,Terminal C
+5471,Delta,2/4/2022 17:25,Narol,Ordzhonikidze,34,On Time,12,382,Terminal C
+2175,Delta,7/14/2022 03:55,Rogoza,Mulifanua,44,Cancelled,5,309,Terminal C
+9611,JetBlue,9/19/2022 23:54,Sult,Mzuzu,6,Cancelled,3,461,Terminal A
+5317,Southwest,11/27/2022 00:33,Snizhne,Jingdang,42,On Time,20,165,Terminal B
+924,Southwest,5/8/2022 02:37,Sukoanyar,Ushuaia,31,On Time,4,388,Terminal C
+5886,American,5/2/2022 20:24,Litian,Miaojie,44,On Time,20,358,Terminal B
+791,JetBlue,12/25/2022 03:05,Puerto Ayacucho,Amerta,25,On Time,1,61,Terminal B
+976,Southwest,12/6/2022 18:29,Xinchengzi,Rasskazovo,30,Delayed,14,206,Terminal B
+3434,Southwest,6/21/2022 04:00,Laifang,Pokrzywnica,40,On Time,14,335,Terminal B
+1242,JetBlue,1/20/2022 15:46,Veiga,Beringovskiy,42,On Time,19,461,Terminal B
+6892,Southwest,4/13/2022 23:03,Concepción,Sävsjö,19,Delayed,5,65,Terminal C
+7960,American,4/17/2022 13:09,Hilotongan,Tríkala,32,On Time,12,218,Terminal A
+161,JetBlue,7/22/2022 21:43,Gandajika,Jalgung,13,Cancelled,16,198,Terminal C
+1660,United,5/31/2022 05:23,Amnat Charoen,Palamadu,18,Delayed,2,80,Terminal B
+712,Southwest,5/13/2022 23:55,Qumudi,Sewon,1,Cancelled,2,404,Terminal A
+8822,Delta,4/8/2022 02:21,Sukamantri Satu,Tuanfeng,19,On Time,10,426,Terminal A
+2343,American,8/24/2022 06:44,Strzelin,Manukau City,50,On Time,1,144,Terminal A
+9005,Southwest,11/11/2022 03:04,Enriquillo,Tikhvin,5,Cancelled,7,370,Terminal C
+8282,Delta,5/22/2022 23:39,Itapagé,Banjar Tegal Belodan,7,Cancelled,6,227,Terminal A
+7586,Delta,10/7/2022 11:21,Bandar Seri Begawan,Tân Việt,42,On Time,17,495,Terminal A
+6321,American,6/11/2022 10:25,Orzesze,Nanxiang,1,Delayed,13,83,Terminal A
+1683,Southwest,10/11/2022 17:25,Tanahedang,Gaoming,28,Cancelled,2,50,Terminal B
+9150,Southwest,9/1/2022 13:21,Mollās̄ānī,Caoyan,12,Delayed,3,370,Terminal A
+3914,American,7/15/2022 11:47,Santa Eulália,Magersari,37,On Time,2,60,Terminal C
+8045,American,11/2/2022 00:11,Kisangani,Akoupé,10,Delayed,10,370,Terminal B
+6234,JetBlue,1/15/2022 13:01,Wiyayu Barat,Xiaotang,30,On Time,19,372,Terminal C
+9723,Delta,1/18/2022 09:46,Iksha,Sambongpari,26,Cancelled,17,14,Terminal C
+5783,United,9/1/2022 05:50,Buštěhrad,Shankill,13,On Time,16,449,Terminal A
+8700,United,12/20/2022 16:35,Vawkavysk,El Hajeb,34,Delayed,11,347,Terminal B
+3326,United,8/6/2022 17:50,Nové Sedlo,Shujāābād,34,Cancelled,17,405,Terminal B
+547,Southwest,8/10/2022 22:01,Borovoy,Punta de Bombón,9,Cancelled,12,124,Terminal C
+6091,Delta,5/25/2022 07:26,Dongjiao,Ar Rifā‘,13,Delayed,12,432,Terminal C
+5682,American,2/17/2022 02:17,Jingzhou,Reisjärvi,12,Delayed,1,356,Terminal B
+7265,Delta,6/27/2022 18:52,Quimbaya,Leon,49,Cancelled,20,489,Terminal A
+2763,United,2/13/2022 01:39,Haapajärvi,Ostrov,18,Delayed,10,27,Terminal B
+1243,United,10/4/2022 10:30,Bentiu,Parczew,6,Cancelled,18,339,Terminal A
+3755,Delta,7/10/2022 21:21,Langádhia,Kirawsk,6,Delayed,2,391,Terminal A
+7955,Southwest,4/18/2022 07:37,Bāfq,Ratchathewi,22,Delayed,9,106,Terminal B
+9068,American,2/21/2022 19:31,Shifang,Nanjin,1,Delayed,3,344,Terminal C
+8475,Southwest,8/5/2022 17:25,Laohugang,Sila,38,Delayed,6,106,Terminal C
+5978,United,3/31/2022 19:02,Krajanjugosari,Varjota,21,Cancelled,20,278,Terminal A
+457,American,12/16/2022 17:29,Xiangfu,Krajan Kerjo,31,Cancelled,16,126,Terminal C
+5011,American,10/6/2022 18:04,Tríkala,Tintafor,3,On Time,18,222,Terminal C
+9990,Delta,5/5/2022 12:26,Liujiachang,Seixo de Manhoses,2,Delayed,7,490,Terminal B
+8189,JetBlue,10/29/2022 23:20,Pak Chong,Książki,46,Delayed,11,254,Terminal A
+6271,JetBlue,10/7/2022 07:00,São João dos Inhamuns,Hellevoetsluis,48,Cancelled,16,393,Terminal A
+8666,Southwest,9/15/2022 08:39,Yoiqag,Kawangu Satu,5,Cancelled,1,161,Terminal C
+698,Delta,9/9/2022 09:58,Lantapan,Lukou,8,On Time,16,168,Terminal C
+4771,Delta,10/11/2022 12:50,Szczecinek,Kurmanayevka,34,On Time,18,274,Terminal B
+9233,Southwest,8/1/2022 20:43,Darvi,Kapakabisa,29,Delayed,4,76,Terminal A
+4941,Southwest,9/4/2022 06:05,Kristinehamn,Guicheng,35,Cancelled,14,223,Terminal A
+230,JetBlue,2/26/2022 13:58,Talpe,Nanqiu,9,Cancelled,19,424,Terminal A
+766,Delta,9/18/2022 16:07,Miura,Purorejo,50,On Time,4,326,Terminal C
+4263,Southwest,3/8/2022 20:54,Belo sur Tsiribihina,Nîmes,28,Cancelled,17,251,Terminal C
+5042,United,3/10/2022 10:22,Zhatay,Kalej,4,Cancelled,14,413,Terminal C
+8573,JetBlue,7/1/2022 08:04,Zboriv,Awsīm,7,Cancelled,19,310,Terminal A
+6078,JetBlue,5/7/2022 11:31,Fenhe,Lamakera Dua,34,Delayed,10,97,Terminal B
+5795,United,11/5/2022 17:18,Shiyuetian,Gununganyartambak Tengah,16,On Time,9,427,Terminal A
+7282,Southwest,3/10/2022 12:02,Šestajovice,Yangji,17,On Time,11,103,Terminal A
+2140,JetBlue,2/16/2022 17:53,Xianzong,Abejorral,6,Delayed,18,180,Terminal C
+8636,JetBlue,10/20/2022 22:29,Pueblo,Shitan,13,Delayed,16,447,Terminal C
+5394,JetBlue,6/14/2022 16:38,Energodar,Lichtenburg,41,On Time,15,242,Terminal B
+4445,Delta,1/3/2022 21:01,Paicol,Tsaghkadzor,47,Cancelled,19,493,Terminal B
+2247,Southwest,9/30/2022 23:07,Shiqiao,Non Sung,36,On Time,20,254,Terminal C
+1137,Southwest,8/19/2022 01:16,Porangatu,Encontrados,34,Cancelled,10,226,Terminal B
+3524,JetBlue,5/27/2022 07:12,Ketangi,Santa Cruz do Bispo,28,On Time,14,13,Terminal B
+9650,JetBlue,4/4/2022 22:17,Hualian,Dongfu,27,Delayed,8,225,Terminal B
+8549,Delta,10/10/2022 23:35,Longtian,San José de Ocoa,42,Cancelled,14,262,Terminal C
+4435,Southwest,11/3/2022 03:14,Kutao,Tambir,23,Delayed,15,9,Terminal A
+8614,American,6/24/2022 21:37,Itacarambi,Gaoling,42,Delayed,11,270,Terminal B
+8880,American,6/29/2022 20:34,Dawang,Canavieiras,8,Delayed,5,180,Terminal C
+5463,American,2/3/2022 22:01,Caticugan,Dalonghua,46,On Time,20,289,Terminal B
+4540,Delta,8/3/2022 07:34,Lidingö,Köping,13,On Time,5,89,Terminal B
+4979,United,8/20/2022 07:10,La Aurora,Lushnjë,7,On Time,10,148,Terminal C
+1922,American,6/24/2022 18:08,Orly aérogare,Verkhnyaya Tura,41,Cancelled,15,328,Terminal A
+1104,United,10/29/2022 14:10,Huyuan,Malichang,31,Cancelled,4,29,Terminal B
+2813,JetBlue,3/21/2022 12:40,Heemskerk,Bacheng,18,Cancelled,1,424,Terminal A
+4322,Delta,8/7/2022 16:30,Jiwei,Cheonan,16,On Time,16,164,Terminal C
+466,JetBlue,8/16/2022 07:55,Roczyny,São Sebastião,38,On Time,3,486,Terminal A
+735,American,9/5/2022 09:48,Foz Sousa,Brudzew,19,Delayed,15,156,Terminal C
+5740,Southwest,10/13/2022 07:56,Camden,Amirdzhan,24,Cancelled,7,421,Terminal A
+4408,Southwest,10/4/2022 23:45,Bayan Uula Sumu,Carregueira,5,Delayed,19,365,Terminal A
+9334,American,1/29/2022 23:54,Plavsk,Tabu,26,Delayed,8,86,Terminal A
+3039,American,7/15/2022 15:03,Manika,San Jose,5,Cancelled,9,335,Terminal C
+1573,JetBlue,1/23/2022 06:40,Xiaosong,Shagamu,5,Delayed,12,313,Terminal A
+2801,JetBlue,1/24/2022 06:28,Sanlicheng,Camajuaní,6,Delayed,3,146,Terminal C
+4157,American,2/1/2022 21:29,Anápolis,Yiánnouli,20,Delayed,1,319,Terminal A
+1127,American,2/14/2022 08:38,Lutou,Visoko,10,Delayed,1,257,Terminal B
+6588,American,10/6/2022 00:14,Lubango,Pantanal,3,On Time,11,394,Terminal A
+1281,Southwest,4/12/2022 08:19,Anyar,Manonjaya,22,On Time,5,118,Terminal B
+7962,Southwest,5/30/2022 22:38,Rogoza,Jendouba,19,On Time,10,63,Terminal A
+5442,American,5/11/2022 23:08,Lutowiska,Victoria,29,Cancelled,14,77,Terminal B
+9611,Southwest,10/21/2022 07:08,Barcelona,Onsala,12,Cancelled,18,280,Terminal C
+3615,United,4/26/2022 18:30,Azenha,Raków,47,On Time,12,311,Terminal C
+7008,JetBlue,8/8/2022 05:35,Jingkou,Pakkat,49,On Time,10,174,Terminal C
+9940,Delta,11/7/2022 11:27,Niwiska,Qiancheng,7,On Time,16,160,Terminal C
+7808,United,10/1/2022 18:56,Gazojak,Joutsa,30,On Time,10,255,Terminal A
+2538,Southwest,5/28/2022 02:34,Chernoyerkovskaya,Sololá,31,Delayed,10,256,Terminal C
+6224,JetBlue,10/1/2022 12:54,Fovissste,Az̧ Z̧a‘āyin,9,Delayed,11,140,Terminal B
+3231,American,6/10/2022 08:23,Tanggung,Cibaregbeg Dua,34,Cancelled,4,69,Terminal A
+8855,American,10/21/2022 21:17,Meizhuang,Tiro,13,On Time,10,0,Terminal C
+8212,JetBlue,1/10/2022 12:36,Loandjili,Figueira dos Cavaleiros,13,Cancelled,19,381,Terminal C
+2866,Delta,6/12/2022 11:11,Si Satchanalai,Andalucía,43,On Time,15,199,Terminal C
+7059,JetBlue,6/5/2022 05:40,Lixiqiao,Puente Nacional,46,Delayed,12,99,Terminal A
+5718,Delta,4/4/2022 15:06,Ängelholm,Linmansangan,35,On Time,8,32,Terminal C
+220,American,10/12/2022 11:36,Helixi,San Vicente de Moravia,20,Delayed,7,260,Terminal A
+4511,American,11/24/2022 15:07,Heyan,Wenquan,14,On Time,14,346,Terminal A
+1,Southwest,3/7/2022 01:24,Songculan,Torbat-e Jām,32,Cancelled,12,102,Terminal B
+1481,Southwest,8/9/2022 17:29,Khlong Khuean,Zimovniki,44,Delayed,3,487,Terminal A
+4422,Southwest,9/28/2022 08:19,Vespasiano,Feuknoni,34,Delayed,6,271,Terminal A
+6310,Delta,2/12/2022 11:27,Loureiro,Qixia,7,Delayed,9,154,Terminal C
+6503,Delta,10/8/2022 01:33,Gwangtan,Cairani,33,Delayed,5,141,Terminal B
+1349,United,10/24/2022 17:04,Athlone,Kotikawatta,27,Cancelled,9,34,Terminal A
+9533,Delta,1/30/2022 14:01,Puning,Kurchatov,38,Cancelled,4,483,Terminal A
+7586,American,7/13/2022 22:35,Guadalupe,Cabricán,27,Delayed,5,250,Terminal C
+6111,Delta,5/31/2022 16:49,Ankazondandy,Washington,7,Cancelled,2,49,Terminal C
+2645,Southwest,10/26/2022 05:00,Veternik,Laylay,1,Delayed,15,316,Terminal A
+1712,Southwest,3/8/2022 00:15,Qiandong,Vitória de Santo Antão,37,Cancelled,17,285,Terminal C
+6128,Southwest,8/6/2022 17:28,Maevatanana,Złota,16,Cancelled,15,195,Terminal A
+9070,Southwest,10/21/2022 02:57,Blang Dalam,Jiaoxie,12,Delayed,16,148,Terminal C
+4658,United,4/12/2022 11:43,Valence,Washington,5,Delayed,8,156,Terminal C
+1559,Delta,8/30/2022 09:11,Cogreg Wetan,Johanneshov,8,On Time,19,312,Terminal B
+5588,United,4/9/2022 07:49,Shibīn al Kawm,Minyat an Naşr,35,On Time,17,255,Terminal B
+1966,United,1/22/2022 13:12,Matanza,Kraton,45,On Time,7,239,Terminal B
+2722,American,5/18/2022 14:41,Sucre,Dacun,48,Delayed,1,489,Terminal B
+9048,American,11/16/2022 17:42,Hinapalanan,Bakung Utara,4,Delayed,1,305,Terminal A
+8600,Southwest,6/8/2022 14:52,Fairbanks,Yanjiatai,3,Delayed,19,486,Terminal C
+7696,Southwest,10/31/2022 20:09,Zhangzhen,Mzuzu,35,Delayed,9,318,Terminal C
+475,American,9/20/2022 02:30,Nirgua,Gewanē,16,Cancelled,7,220,Terminal C
+2871,JetBlue,3/21/2022 21:26,Sattahip,Lundazi,25,Delayed,8,369,Terminal B
+7407,American,3/6/2022 12:06,Jargalant,Zouila,31,Delayed,15,70,Terminal A
+5861,JetBlue,5/3/2022 02:30,Taoyuan,Malibago,16,Cancelled,16,485,Terminal C
+4837,Delta,11/20/2022 22:15,Čortanovci,Makiyivka,30,On Time,18,365,Terminal C
+7686,JetBlue,3/19/2022 07:32,La Romana,Papatowai,33,Cancelled,11,415,Terminal B
+7448,Delta,11/29/2022 05:59,Tiebiancheng,Tiébo,22,On Time,5,444,Terminal A
+2722,Southwest,8/20/2022 17:17,Palue,Shuangjie,41,On Time,10,170,Terminal A
+2233,JetBlue,6/7/2022 19:30,Tianqian,Enjiang,39,Cancelled,12,436,Terminal A
+5362,Southwest,4/13/2022 15:14,Wolong,Narong,16,Cancelled,1,130,Terminal B
+2175,United,7/8/2022 22:19,Sumberrejo,Trzcianka,40,On Time,3,359,Terminal B
+7068,United,10/31/2022 19:35,Chiang Khan,Quimper,27,On Time,2,297,Terminal C
+8165,Delta,4/25/2022 07:54,Higashimurayama-shi,Sirib,31,On Time,3,350,Terminal A
+3606,Southwest,4/20/2022 23:26,San Antonio Oeste,Santa Lucia,33,Cancelled,20,191,Terminal B
+428,United,3/29/2022 09:48,Maebashi-shi,Dongshui,20,Delayed,8,292,Terminal B
+4703,United,3/22/2022 15:03,Sendangkemulian,Lapai,6,Delayed,13,206,Terminal A
+6126,Delta,6/17/2022 14:42,Tangxi,Liangdong,40,Delayed,10,159,Terminal C
+7503,United,3/27/2022 23:36,Poręba Spytkowska,Pinar del Río,18,On Time,13,190,Terminal B
+1548,JetBlue,8/20/2022 19:11,Bořetice,Buritama,22,Cancelled,2,278,Terminal B
+338,JetBlue,9/5/2022 11:57,Phu Khiao,Sudoměřice,10,Cancelled,6,267,Terminal B
+9903,JetBlue,11/21/2022 00:34,Chicago,Korolëv Stan,12,On Time,4,117,Terminal B
+8361,Delta,4/24/2022 03:27,Independencia,Beicang,10,Cancelled,13,317,Terminal A
+4931,Southwest,9/6/2022 21:56,Mirandela,Paris 01,36,On Time,4,479,Terminal A
+2355,American,8/21/2022 23:09,Nangong,Borek,19,Cancelled,5,410,Terminal C
+9463,Southwest,1/28/2022 06:34,Rudnichnyy,Abū Sunbul,43,Delayed,4,39,Terminal B
+404,Southwest,8/15/2022 13:21,Guanting,Marabá,4,Delayed,1,86,Terminal A
+3193,JetBlue,10/12/2022 04:56,Shangwuzhuang,"Las Vegas, Santa Barbara",19,On Time,5,149,Terminal C
+4778,United,7/5/2022 20:51,Yun’an,Diên Khánh,7,Delayed,15,309,Terminal A
+940,American,8/31/2022 11:28,Jansenville,Krajan,5,On Time,1,399,Terminal C
+6596,American,1/15/2022 09:40,Watuagung,Lapaz,46,Cancelled,17,30,Terminal B
+7948,American,2/27/2022 04:39,Hannover,San Carlos,9,On Time,10,418,Terminal B
+3743,Delta,2/21/2022 12:09,Qinghua,Nakatsu,28,Cancelled,20,82,Terminal A
+9857,American,8/17/2022 12:01,Tzaneen,Kavásilas,25,Delayed,17,182,Terminal B
+9596,American,11/10/2022 04:22,Rio Covo,Orekhovo-Borisovo,43,On Time,13,226,Terminal B
+4951,American,10/17/2022 20:05,Kivijärvi,Ginatilan,17,On Time,17,380,Terminal B
+7854,United,8/7/2022 17:52,Río Alejandro,Nonohonis,15,Delayed,4,77,Terminal A
+3931,American,11/12/2022 19:36,Gentilly,Thị Trấn Mường Tè,32,On Time,2,337,Terminal C
+108,Delta,2/6/2022 01:24,Sonquil,Magatos,43,Cancelled,19,74,Terminal A
+6570,American,5/11/2022 15:38,San Antonio,Karangpawitan,26,Delayed,10,306,Terminal A
+7659,Southwest,3/7/2022 22:00,Memphis,Jinze,8,On Time,6,59,Terminal A
+469,United,5/27/2022 01:40,Niquelândia,Lazo,22,Delayed,7,478,Terminal B
+3522,Delta,9/1/2022 09:21,Yuanyang,Votkinsk,22,Cancelled,19,54,Terminal C
+246,United,1/25/2022 21:08,Wanling,Rivera,22,On Time,7,421,Terminal A
+2035,Southwest,9/23/2022 19:24,Tayuan,Tengah,26,Delayed,3,447,Terminal B
+8138,Delta,9/8/2022 04:06,Ijuw,Miaoya,15,On Time,5,345,Terminal B
+8070,Southwest,6/7/2022 13:47,Buzen,Taganskiy,27,Delayed,10,90,Terminal C
+2829,Delta,9/2/2022 19:05,Wangda,Sahnaiya,46,Delayed,11,33,Terminal B
+5158,United,2/28/2022 20:35,Cikarang,Kupahandap,24,Delayed,18,390,Terminal C
+338,American,2/20/2022 15:01,Gaza,Laboulaye,20,Cancelled,17,330,Terminal B
+6418,American,4/28/2022 00:23,Hūn,Zhizhong,47,On Time,15,157,Terminal B
+284,JetBlue,7/12/2022 22:20,Santa Clara,Jeding,35,Cancelled,7,252,Terminal B
+2606,JetBlue,6/8/2022 04:59,Ramat Gan,Xinyang,35,Cancelled,7,3,Terminal B
+3740,United,2/12/2022 19:30,Ishurdi,La Cruz,22,On Time,8,384,Terminal B
+5198,American,12/19/2022 04:31,Miaofengshan,Kyzyl-Burun,13,Cancelled,15,289,Terminal B
+8409,United,4/1/2022 21:28,Karuri,Longping,32,On Time,6,138,Terminal A
+2201,Delta,2/15/2022 05:00,Arjawinangun,Sampagar,20,Delayed,17,401,Terminal B
+5219,American,12/29/2022 20:25,Jēkabpils,Konstantynów Łódzki,34,Delayed,18,313,Terminal A
+9786,JetBlue,12/22/2022 16:08,Oued Laou,Yanji,36,Cancelled,17,277,Terminal B
+9440,United,4/7/2022 11:07,Slovenski Javornik,Thaba Nchu,24,On Time,10,410,Terminal B
+7315,Southwest,4/28/2022 23:58,Watulabara,Arroyo Naranjo,18,On Time,10,372,Terminal A
+1849,JetBlue,12/24/2022 04:20,Tuanzhou,Amieirinha,1,Delayed,10,77,Terminal C
+4363,Southwest,11/11/2022 10:07,Ribeira das Taínhas,Basing,41,On Time,15,9,Terminal A
+3114,JetBlue,9/1/2022 00:17,Không,Kristinehamn,41,On Time,1,356,Terminal C
+8984,American,11/21/2022 22:14,Khāsh,Rača,49,On Time,6,87,Terminal B
+6611,American,10/19/2022 06:11,Kawaliwu,Montgomery,47,On Time,13,303,Terminal A
+4244,Delta,5/18/2022 06:35,Aībak,Luoting,6,Delayed,17,496,Terminal A
+3756,United,3/20/2022 01:55,São Mamede de Infesta,Karajeun,13,Cancelled,8,238,Terminal B
+6077,United,12/22/2022 23:06,Tarata,Lago da Pedra,38,On Time,17,294,Terminal A
+5346,JetBlue,10/5/2022 22:44,Kaniów,Malvern,30,Cancelled,4,437,Terminal C
+3315,American,5/25/2022 16:04,Dushu,Datarnangka,29,Cancelled,10,149,Terminal C
+3896,JetBlue,7/2/2022 07:59,Retorta,San Diego,23,Delayed,11,497,Terminal C
+399,Southwest,10/29/2022 02:40,Rochester,Zhucun,27,On Time,5,292,Terminal B
+4341,Southwest,1/10/2022 11:50,Calancuasan Norte,Tyszowce,25,On Time,19,357,Terminal B
+558,Southwest,9/14/2022 06:08,Dengnan,Cipaku,35,Delayed,6,387,Terminal B
+1749,JetBlue,9/22/2022 18:10,Verkhnya Syrovatka,Tianzishan,18,On Time,7,442,Terminal C
+9245,American,3/2/2022 08:48,Tongle,Adelaide,29,Cancelled,16,299,Terminal C
+1092,United,11/24/2022 21:33,Horodok,Castelões,45,Cancelled,20,121,Terminal C
+4796,United,2/5/2022 08:03,Castlepollard,Shixi,8,Cancelled,14,249,Terminal B
+8017,Southwest,4/24/2022 08:16,Paratunka,Villa Las Rosas,42,On Time,18,485,Terminal B
+9516,Southwest,12/7/2022 20:11,Shiyan,Provo,46,Cancelled,2,0,Terminal A
+5636,American,4/5/2022 07:03,Zhenshan,Jarinu,22,Cancelled,3,25,Terminal B
+1652,Southwest,3/4/2022 14:13,Tupesy,Domaradz,16,Delayed,1,35,Terminal B
+6265,Southwest,5/14/2022 07:25,Hengshan,Morioka-shi,27,On Time,6,345,Terminal A
+11,United,2/22/2022 17:43,Huangjia,Obubra,39,Cancelled,11,8,Terminal C
+7295,Delta,10/8/2022 14:02,Buracan,Yamoussoukro,14,On Time,6,39,Terminal A
+7341,Delta,1/16/2022 12:51,Xinshao,Amboasary,33,Cancelled,6,382,Terminal B
+2768,JetBlue,9/29/2022 08:02,Ono,Sambogunung,33,On Time,5,54,Terminal B
+9346,American,12/30/2022 10:37,Gabú,Parrita,39,Cancelled,19,197,Terminal B
+993,JetBlue,9/17/2022 15:02,Tajao,Srbinovo,48,Delayed,18,80,Terminal A
+1713,American,2/16/2022 18:21,Era,Monte-Carlo,10,Cancelled,3,318,Terminal B
+5844,Southwest,5/17/2022 04:17,Lolayan,Catania,36,Cancelled,7,211,Terminal B
+9384,United,10/10/2022 16:36,Den Haag,Suohe,20,Delayed,16,489,Terminal C
+5890,American,4/16/2022 05:33,Cinunjang,Granadero Baigorria,46,Cancelled,3,310,Terminal C
+9158,American,9/23/2022 11:11,San Cristóbal,Shuangxi,23,Delayed,5,340,Terminal B
+2384,United,1/12/2022 14:21,Sumqayıt,Goz Béïda,37,Cancelled,16,89,Terminal C
+4210,Delta,5/19/2022 05:40,Dongshangen,Bojongnangka,17,On Time,10,90,Terminal C
+8814,American,10/23/2022 09:35,Mojo,Kirkop,20,Cancelled,17,170,Terminal B
+1681,United,9/10/2022 18:40,Balakasap,Shanggu,45,Delayed,18,325,Terminal B
+9820,JetBlue,12/29/2022 02:05,Saint Paul,Argithéa,48,Delayed,2,74,Terminal B
+3688,United,4/6/2022 21:50,Sruki,Incheon,19,Cancelled,20,222,Terminal B
+4322,American,1/1/2022 21:26,Kolodeznyy,Pengshi,23,Delayed,17,65,Terminal A
+9616,United,4/27/2022 02:47,Kansas City,Starcevica,45,Delayed,10,352,Terminal B
+3550,United,2/17/2022 03:17,Santa Rita,Chunmuying,21,Delayed,6,118,Terminal A
+2970,JetBlue,3/20/2022 10:22,Tinambacan,Macapsing,41,Delayed,16,38,Terminal C
+5747,JetBlue,2/4/2022 17:18,Mīrpur Sakro,Aktau,44,Delayed,6,53,Terminal B
+1648,Delta,1/26/2022 23:06,Montgomery,Brits,17,On Time,10,41,Terminal C
+3305,JetBlue,2/4/2022 04:56,Niemodlin,Little Baguio,3,Cancelled,1,325,Terminal A
+3871,American,8/9/2022 01:09,Bafoussam,Cidade Velha,19,Delayed,5,246,Terminal C
+3335,Southwest,6/28/2022 20:04,Mufushan,Bankaw,14,Cancelled,20,369,Terminal B
+8955,Delta,1/29/2022 23:05,Pandat,Horní Stropnice,47,Cancelled,16,344,Terminal A
+528,American,10/8/2022 16:05,Orléans,Limon,7,Delayed,17,421,Terminal C
+8677,Southwest,4/17/2022 14:02,Łobżenica,Vendas de Galizes,11,Delayed,1,191,Terminal A
+7237,JetBlue,4/20/2022 23:04,Hefu,Horodyshche,9,Delayed,20,342,Terminal B
+803,JetBlue,12/3/2022 22:16,Wierzchucino,Pliska,14,Cancelled,10,478,Terminal C
+8869,United,10/1/2022 16:31,Seixezelo,Al Qadarif,5,On Time,20,130,Terminal A
+2885,Southwest,11/24/2022 14:55,Eastern Suburbs Mc,Sumberkemuning,23,On Time,18,134,Terminal B
+4172,United,9/29/2022 01:13,Circasia,Bulu,45,Delayed,19,158,Terminal A
+2033,JetBlue,6/26/2022 08:48,Bebedouro,Nyköping,33,Cancelled,20,90,Terminal A
+2345,United,4/12/2022 06:22,Tô Hạp,Xianxi,44,Cancelled,20,59,Terminal C
+8281,American,1/11/2022 20:02,Zhangping,Zaymishche,7,On Time,16,473,Terminal B
+3822,Delta,12/19/2022 00:20,San Vicente,Muang Pakxan,14,Cancelled,14,61,Terminal B
+298,Delta,4/18/2022 21:33,Camaçari,Quezon,29,Delayed,20,18,Terminal B
+6787,American,8/19/2022 03:12,Hangwula,Bozhou,17,Delayed,19,460,Terminal B
+2408,Delta,6/22/2022 08:54,Mojorejo,Tallahassee,30,Delayed,19,424,Terminal B
+381,United,11/26/2022 09:36,Cibanten,Tanakbeak Daye,22,Cancelled,16,241,Terminal C
+6165,Southwest,9/13/2022 15:17,Jingzi,Heshang,10,Delayed,10,393,Terminal C
+6112,JetBlue,12/7/2022 10:40,Anwen,Lebak,9,On Time,13,256,Terminal B
+1235,JetBlue,3/11/2022 12:48,Famões,Sancha,46,Delayed,8,77,Terminal C
+2050,JetBlue,9/18/2022 05:48,Bulacnin,Urazovka,49,Delayed,5,62,Terminal B
+6771,United,9/13/2022 21:52,El Playón,Jojoima,46,Delayed,3,438,Terminal A
+2742,Delta,4/26/2022 14:23,Trondheim,Ludu,36,On Time,16,175,Terminal A
+6938,American,8/17/2022 23:11,North Cowichan,Bhimbar,33,On Time,16,428,Terminal C
+1450,United,10/20/2022 19:21,Secang Barat,Dongxi,23,On Time,15,431,Terminal B
+4510,JetBlue,8/16/2022 22:54,Wangcheng,Nice,6,On Time,9,174,Terminal B
+8142,JetBlue,4/23/2022 22:57,Ryazanskiy,Shahre Jadide Andisheh,32,On Time,3,143,Terminal B
+5601,Delta,7/19/2022 18:39,Hongshan,Espinal,45,Cancelled,18,19,Terminal C
+3061,Delta,7/25/2022 00:27,Sabang,Qijia,24,Cancelled,8,320,Terminal A
+4389,Southwest,11/11/2022 18:17,Jirjā,Lambangan Kulon,6,Cancelled,6,27,Terminal C
+9880,JetBlue,9/26/2022 12:55,Rio Grande,Peñarrubia,45,On Time,18,444,Terminal B
+2372,American,11/7/2022 00:55,Jagna,Sendangagung,45,On Time,19,490,Terminal B
+5908,JetBlue,2/10/2022 03:38,Jinjia,Ciriri,34,Delayed,11,331,Terminal C
+1700,Southwest,7/20/2022 15:00,Nizhniy Novgorod,Amaury,31,Cancelled,17,7,Terminal A
+9224,Southwest,11/20/2022 05:09,Birsa,Chang’an,19,Delayed,18,26,Terminal A
+3952,American,4/14/2022 20:05,Dziemiany,Orleans,42,Delayed,10,263,Terminal B
+8858,United,7/8/2022 23:06,Peranap,Yakovlevo,25,Delayed,14,70,Terminal B
+7600,United,9/16/2022 21:12,Rio das Ostras,Sapeken,9,Cancelled,14,122,Terminal C
+6910,Delta,7/14/2022 19:18,La Ronge,Novaya Derevnya,3,Cancelled,15,400,Terminal A
+5577,United,4/10/2022 16:05,Xiangqiao,Neftçala,15,Cancelled,17,418,Terminal A
+3799,United,4/26/2022 10:17,Cerro Colorado,Bergville,4,Delayed,4,256,Terminal A
+6156,JetBlue,1/15/2022 10:07,Yuncao,Zavidovo,5,On Time,13,112,Terminal B
+7888,United,8/30/2022 23:18,Wādī Raḩḩāl,Arcueil,22,Cancelled,7,184,Terminal B
+9325,Southwest,4/20/2022 19:31,Morrinhos,Mohale’s Hoek,47,Delayed,17,254,Terminal C
+2855,United,5/21/2022 18:09,Espinho,Tawan tawan,3,Delayed,9,146,Terminal A
+922,American,2/27/2022 22:07,Tucupita,São Mamede,22,Delayed,3,324,Terminal A
+1145,Delta,2/7/2022 16:38,Fengren,Seboruco,23,On Time,7,146,Terminal B
+334,American,12/11/2022 23:57,Tembeling,Koten,46,Delayed,16,468,Terminal A
+5586,Delta,10/15/2022 14:18,Philadelphia,Jayaraga Kaler,42,Delayed,6,286,Terminal B
+2603,United,3/12/2022 18:38,Ресен,Criciúma,12,On Time,12,145,Terminal C
+6766,Delta,2/13/2022 15:24,Yanling,Taibai,41,Cancelled,11,149,Terminal B
+1022,United,7/21/2022 04:28,Paris La Défense,Yangsan,10,Cancelled,7,498,Terminal C
+5703,JetBlue,7/15/2022 06:48,Bulianhe,Duba,40,Cancelled,11,145,Terminal A
+8231,Southwest,5/8/2022 12:49,Lincoln,Jadowniki,1,Delayed,8,50,Terminal B
+8029,Southwest,1/23/2022 06:17,Nanqiu,Lewograran,14,Cancelled,12,309,Terminal B
+9846,Delta,3/9/2022 22:55,Kristianstad,Itaberaí,37,Cancelled,19,485,Terminal C
+5158,American,10/31/2022 10:26,Dingcheng,Letuyi,4,Cancelled,10,310,Terminal B
+7901,Delta,1/27/2022 11:47,Asaka,Hendījān,12,On Time,16,302,Terminal C
+212,Southwest,12/22/2022 02:14,Huanza,Opoczno,7,On Time,5,146,Terminal C
+2916,Delta,3/10/2022 23:38,Huangtu,Kakegawa,22,Delayed,2,46,Terminal B
+8668,American,4/29/2022 09:38,Tianfu,Xiaoying,48,Delayed,11,300,Terminal B
+3814,Southwest,12/17/2022 06:47,Limen,Dera Bugti,1,On Time,19,365,Terminal C
+9949,United,4/23/2022 09:24,Kaem,Wyśmierzyce,26,Cancelled,4,322,Terminal B
+2622,American,11/11/2022 10:41,Sabanitas,Desovo,31,Cancelled,2,329,Terminal C
+6629,United,3/11/2022 23:46,Palhais,Gorbatov,7,Cancelled,12,317,Terminal B
+52,Southwest,4/4/2022 20:07,N’dalatando,Panaytayon,13,Delayed,11,1,Terminal A
+8293,United,10/17/2022 01:54,Toulouse,Karangbenda,24,On Time,9,190,Terminal B
+2504,Southwest,8/13/2022 03:00,Västerås,Bayuwan,25,On Time,19,284,Terminal C
+3392,American,5/7/2022 18:23,Albion,Rulenge,28,On Time,6,482,Terminal A
+8386,JetBlue,10/9/2022 10:46,Guanzhuang,Point Pedro,21,On Time,7,465,Terminal B
+3286,Southwest,8/2/2022 14:23,Sanying,Yanagawamachi-saiwaichō,48,On Time,18,295,Terminal A
+7970,Southwest,12/26/2022 05:21,Okcheon,Mahdalynivka,1,Delayed,19,357,Terminal C
+3136,JetBlue,3/28/2022 20:06,Mileb,Yukou,38,Cancelled,18,340,Terminal B
+2071,JetBlue,5/8/2022 12:58,Farafenni,Balekersukamaju,23,Delayed,8,468,Terminal A
+9413,American,3/5/2022 20:26,Brok,Nuing,24,On Time,1,189,Terminal A
+2168,United,2/1/2022 04:33,Floreşti,Surgut,27,Cancelled,17,74,Terminal B
+9204,Southwest,2/1/2022 04:26,Tizguine,Huajialing,30,Delayed,1,122,Terminal C
+6383,American,6/22/2022 02:12,Poconé,Budapest,24,Delayed,17,226,Terminal A
+3002,American,2/9/2022 22:24,Mateus Leme,Leticia,42,On Time,1,280,Terminal B
+6133,JetBlue,11/10/2022 11:05,San Rafael,Duotian,49,Delayed,17,215,Terminal B
+6980,Southwest,4/16/2022 04:01,Amgalang,Fruitvale,47,Cancelled,6,36,Terminal C
+5930,Delta,2/10/2022 12:11,Bilajari,Chateaubelair,24,Cancelled,4,145,Terminal B
+5562,Delta,9/19/2022 19:14,Rote,Joutsa,8,Cancelled,12,279,Terminal B
+3472,United,2/17/2022 15:31,Hägersten,Marechal Cândido Rondon,24,Cancelled,8,254,Terminal C
+5358,Delta,1/16/2022 19:16,Mashui,Mangere,15,Cancelled,10,388,Terminal B
+3601,United,8/26/2022 10:38,Liuji,Lugo,42,Delayed,20,419,Terminal A
+6814,American,1/9/2022 10:35,Bayanbaraat,Färjestaden,47,Cancelled,12,0,Terminal B
+3356,Southwest,8/2/2022 09:02,Yongxing,Ajoyani,34,On Time,2,17,Terminal A
+6310,Delta,8/17/2022 13:04,Baratan,Dzhalka,36,Delayed,12,164,Terminal A
+636,JetBlue,11/15/2022 11:10,Messina,Kuybyshevo,24,On Time,10,81,Terminal B
+1576,Delta,6/1/2022 17:11,Arbaoua,Cha-am,33,On Time,14,273,Terminal C
+7554,United,7/13/2022 07:14,Yanac,Gros Morne,5,Delayed,5,349,Terminal B
+6535,United,5/15/2022 17:11,Tcholliré,Póvoa,44,Delayed,8,408,Terminal A
+4011,Delta,8/1/2022 23:32,Xigangzi,Varnsdorf,49,On Time,13,142,Terminal A
+8552,United,9/21/2022 03:35,Lincoln,Yangiyŭl,10,On Time,18,2,Terminal B
+6503,JetBlue,5/13/2022 18:43,São Miguel,Cankuzo,8,Cancelled,6,229,Terminal B
+2761,United,7/2/2022 19:59,Saraburi,Bueng Kan,17,Delayed,7,378,Terminal A
+312,JetBlue,4/29/2022 06:00,New Haven,Villamaría,22,Delayed,18,337,Terminal C
+5386,American,10/18/2022 06:11,Jaroměřice,Piúma,15,Cancelled,16,153,Terminal A
+4205,American,10/14/2022 05:15,Junín,Murça,15,Cancelled,19,287,Terminal C
+7797,American,11/2/2022 03:50,Chino,Petro-Slavyanka,22,Delayed,8,422,Terminal B
+8102,United,9/19/2022 22:18,Xinhe,Ferraz de Vasconcelos,6,Cancelled,18,4,Terminal C
+5338,Delta,3/7/2022 14:27,Gombe,Coja,42,On Time,12,118,Terminal A
+9253,JetBlue,6/20/2022 11:03,Kousa,Montecarlo,45,Cancelled,19,93,Terminal B
+9663,JetBlue,2/5/2022 12:49,Khilok,Barrouallie,11,On Time,6,282,Terminal B
+9924,United,12/7/2022 01:28,Jijiga,Carregueira,25,On Time,15,390,Terminal C
+3973,JetBlue,6/6/2022 15:27,Lipie,Xinxian,1,On Time,19,407,Terminal A
+3859,United,1/26/2022 18:56,Timiryazevskiy,Mjölby,18,Cancelled,4,30,Terminal B
+8088,Southwest,12/20/2022 03:40,Vũ Quang,Vaasa,17,Cancelled,14,316,Terminal C
+7401,American,11/14/2022 21:10,Yarmolyntsi,Engenho,33,Delayed,1,232,Terminal B
+4774,Southwest,2/18/2022 09:54,Shuguang,Rochester,17,Cancelled,17,399,Terminal C
+2635,Southwest,6/14/2022 18:08,Živinice,Hadyach,4,Cancelled,6,141,Terminal A
+7102,United,11/3/2022 14:44,Elvas,Hufang,41,On Time,6,323,Terminal A
+9897,Southwest,11/30/2022 20:28,Orlando,Hasuda,46,Cancelled,9,151,Terminal C
+3371,American,5/20/2022 10:53,Boyeros,Saraza,10,On Time,7,121,Terminal A
+680,JetBlue,11/30/2022 02:00,Puerto Obaldía,Nanhuatang,5,On Time,19,281,Terminal B
+3793,Delta,9/28/2022 14:20,Sigay,Maebashi-shi,21,On Time,15,500,Terminal A
+9426,Delta,2/14/2022 16:09,Kazanlŭk,Vievis,18,On Time,3,446,Terminal B
+4145,American,4/23/2022 07:05,Majiang,Nice,22,Cancelled,7,385,Terminal C
+3524,Delta,12/10/2022 21:14,Zhongzi,Trosa,12,Delayed,15,152,Terminal C
+7296,United,12/20/2022 12:56,Santa Bárbara,Hailang,50,Delayed,13,100,Terminal A
+9190,Delta,5/5/2022 11:05,Kostyantynivka,An Nāşirah,16,Delayed,7,412,Terminal B
+8520,JetBlue,8/21/2022 14:21,Waterloo,Bujumbura,50,On Time,10,458,Terminal A
+7160,JetBlue,4/16/2022 06:47,Pingdingshan,Vargem Grande do Sul,41,Delayed,17,452,Terminal C
+9998,JetBlue,4/21/2022 11:32,Lālmohan,Soledade,11,Cancelled,19,400,Terminal B
+8705,JetBlue,12/19/2022 23:35,Yulong,Olival,43,Cancelled,7,384,Terminal C
+4966,American,4/7/2022 02:19,Sakassou,Adstock,31,Delayed,19,77,Terminal A
+5416,Southwest,3/13/2022 00:16,Aleksinac,Bapska,26,Cancelled,1,176,Terminal B
+2181,American,6/21/2022 05:26,Kitimat,Huangjingba,24,Cancelled,11,186,Terminal A
+479,JetBlue,11/27/2022 19:55,Zborovice,Trinidad,50,Delayed,5,259,Terminal C
+9780,JetBlue,4/24/2022 15:04,Vladimirskaya,Yuandianhui,49,On Time,1,301,Terminal B
+4877,JetBlue,6/7/2022 11:05,Nice,Khóra,2,Delayed,17,145,Terminal A
+3762,Southwest,8/12/2022 05:05,Diang,Fovissste,15,On Time,8,131,Terminal B
+5577,United,9/1/2022 06:33,Iwakuni,Buzovna,47,Delayed,2,487,Terminal A
+4559,Delta,5/29/2022 20:08,Soito,Gondang,27,On Time,19,136,Terminal C
+5472,American,4/3/2022 21:12,Summerside,La Cruz,43,Delayed,16,121,Terminal B
+7561,American,4/20/2022 14:39,Guadalupe,Guxian,26,Delayed,15,122,Terminal C
+1988,JetBlue,1/21/2022 04:52,Lijiapu,Bongued,44,On Time,5,467,Terminal C
+6583,Southwest,11/19/2022 06:13,Bang Racham,Semiletka,33,Delayed,5,14,Terminal B
+5051,United,3/27/2022 01:39,Tebara,Osiedle-Nowiny,8,Delayed,16,112,Terminal C
+9675,Delta,11/13/2022 19:35,Lizhuang,Dordrecht,8,Delayed,7,201,Terminal B
+77,Delta,1/12/2022 22:28,Oyem,Ribeirão Preto,4,Delayed,11,317,Terminal C
+6908,Delta,8/9/2022 01:16,Bidyā,Fort Liberté,50,On Time,9,348,Terminal B
+8859,United,8/11/2022 06:45,Nagua,Shun’ga,3,Cancelled,3,197,Terminal A
+6764,JetBlue,3/5/2022 05:26,Penha Longa,Meiktila,47,Delayed,17,76,Terminal C
+5451,JetBlue,12/11/2022 01:09,Gierłoż,Rača,38,On Time,10,141,Terminal C
+1169,JetBlue,1/9/2022 15:08,Karangwaru,San Juan Bautista,21,Cancelled,14,289,Terminal C
+9104,American,4/19/2022 17:33,Znojmo,Sokółka,17,Cancelled,3,42,Terminal B
+1464,Delta,6/9/2022 12:18,Tangzhai,Marinha,15,Delayed,6,381,Terminal C
+812,JetBlue,6/29/2022 04:33,Kaduluhur,Wakefield,44,Delayed,10,490,Terminal B
+3666,JetBlue,5/13/2022 04:31,Ombul Barat,Al Jamīmah,17,Delayed,10,351,Terminal C
+7203,Delta,5/20/2022 07:15,Voinjama,Viseu,12,On Time,17,80,Terminal C
+2765,American,10/19/2022 00:57,Fuerte,Meixi,46,On Time,15,432,Terminal B
+6232,Southwest,7/10/2022 18:41,Oesena,Dafengdui,1,On Time,6,227,Terminal C
+8286,Delta,8/25/2022 11:32,Dongxi,Wangji,13,On Time,15,95,Terminal B
+4467,Delta,1/1/2022 20:57,Ruda-Huta,Aulnay-sous-Bois,8,Delayed,17,378,Terminal A
+597,American,4/27/2022 22:54,Murça,Utrecht (stad),48,Delayed,12,56,Terminal A
+2034,JetBlue,6/24/2022 12:26,Charagua,Besisahar,40,On Time,20,380,Terminal B
+9493,Delta,10/25/2022 16:19,Krajan,Oratorio,16,Cancelled,11,143,Terminal B
+3559,American,3/14/2022 14:39,Unden,Lasiana,37,On Time,9,10,Terminal A
+362,United,8/9/2022 04:11,Brikama Nding,Columbia,15,On Time,9,350,Terminal C
+5715,American,5/9/2022 22:57,Charenton-le-Pont,Orsha,4,Delayed,16,116,Terminal A
+608,American,9/24/2022 18:15,Zeist,Bugo,33,Delayed,8,323,Terminal C
+6976,American,7/13/2022 14:09,Quchomo,Zouma,27,Cancelled,5,469,Terminal A
+2549,United,8/20/2022 23:19,Quatro Barras,Lunyuk Ode,42,Cancelled,16,474,Terminal B
+5394,United,4/6/2022 14:11,Mavingouni,Nglego,13,On Time,5,4,Terminal B
+3616,United,4/27/2022 02:40,Rehoboth,Granadero Baigorria,37,Cancelled,2,406,Terminal A
+2085,Delta,5/20/2022 04:44,Hanjia,Nan’an,34,Delayed,6,470,Terminal B
+9000,Southwest,2/12/2022 18:52,Sukawening,Belomorsk,40,Delayed,8,124,Terminal B
+5262,United,7/2/2022 00:02,Sathing Phra,Lille,17,On Time,3,475,Terminal A
+2553,United,4/24/2022 20:16,Gorshechnoye,Otaniemi,14,Delayed,20,256,Terminal C
+3933,Delta,10/5/2022 05:57,Al Munīrah,Chłapowo,45,On Time,8,431,Terminal C
+9599,JetBlue,11/15/2022 12:01,Langue,Phunphin,10,Cancelled,9,56,Terminal B
+2864,American,12/3/2022 10:55,Usarin,Burauen,28,Delayed,18,294,Terminal C
+525,Southwest,9/5/2022 07:51,Tangyu,Beitou,39,Delayed,2,336,Terminal B
+1021,Southwest,8/17/2022 05:49,Smolenka,Dolní Bojanovice,31,On Time,20,442,Terminal B
+8273,JetBlue,12/4/2022 14:50,Lamalewar,Qionghai,28,Delayed,7,190,Terminal B
+9722,United,11/22/2022 18:19,Makarov,Ngundaan,34,On Time,4,172,Terminal B
+9641,American,5/27/2022 03:15,Panguruan,Taibai,6,Delayed,9,326,Terminal A
+8371,JetBlue,12/14/2022 21:42,Loreto,Marabahan,18,Delayed,9,166,Terminal C
+253,American,8/22/2022 03:21,Norrköping,Kokaj,50,Cancelled,14,11,Terminal A
+4696,Southwest,6/20/2022 04:40,Petaling Jaya,Sungai Nyamuk,38,Cancelled,4,209,Terminal B
+6956,Southwest,8/5/2022 11:12,Pasongsongan,Fangyan,26,On Time,19,68,Terminal C
+517,Delta,1/28/2022 09:51,Doushan,Bilhorod-Dnistrovs’kyy,3,Delayed,15,118,Terminal C
+9551,JetBlue,9/21/2022 02:22,Mujur,Moita da Roda,34,Delayed,19,360,Terminal A
+9726,Southwest,9/19/2022 16:43,Angers,Itaberaí,39,Delayed,10,141,Terminal C
+8437,Southwest,10/28/2022 21:11,Al Mayādīn,Cartago,28,Cancelled,12,59,Terminal A
+9815,Southwest,2/20/2022 07:19,Al Hufūf,General Enrique Godoy,42,On Time,20,25,Terminal B
+8399,JetBlue,3/10/2022 11:43,Margarita,Guanchi,1,Delayed,13,360,Terminal B
+6032,Southwest,2/25/2022 22:48,Narva,Millet,19,On Time,4,485,Terminal A
+6169,JetBlue,11/1/2022 11:16,Pingdingshan,Uusikaupunki,33,Delayed,1,449,Terminal B
+870,United,4/25/2022 11:51,Kimakamak,Chepareria,13,Cancelled,8,341,Terminal B
+7935,Delta,3/16/2022 18:44,Yangirabot,Karadaglije,28,Delayed,20,432,Terminal C
+5549,Delta,7/13/2022 08:13,Samamiya,Sindangsuka,34,Cancelled,20,78,Terminal A
+1881,American,5/19/2022 11:15,Sihe,Nunsena,2,Cancelled,10,2,Terminal A
+1521,United,3/1/2022 13:57,Escola,Bílovec,32,Delayed,20,122,Terminal A
+509,JetBlue,1/28/2022 11:25,Xinxu,Mananara,30,Delayed,18,477,Terminal A
+5824,Southwest,7/7/2022 00:39,Kozyatyn,Maia,5,Cancelled,10,449,Terminal A
+2341,United,9/21/2022 00:49,Saint-Herblain,Sibubuhan,35,Cancelled,10,380,Terminal B
+1303,JetBlue,11/30/2022 03:45,Haikoudajie,Sangmu,20,Cancelled,14,489,Terminal C
+9247,United,11/1/2022 05:54,Winburg,Ōtsu-shi,13,On Time,10,350,Terminal A
+2432,United,10/4/2022 20:07,Ghār al Milḩ,Huangtukuang,42,Delayed,20,201,Terminal C
+4301,United,1/20/2022 22:29,Moita,Maindang,25,Cancelled,2,94,Terminal C
+4690,JetBlue,11/28/2022 18:54,Panadtaban,Tabasalu,5,On Time,9,232,Terminal A
+5543,United,4/5/2022 06:08,Bieligutai,Villanova,42,Cancelled,9,178,Terminal C
+8736,JetBlue,3/25/2022 15:09,Lugulu,Vesëlyy,33,On Time,11,335,Terminal B
+3670,Delta,11/26/2022 07:07,Bastia,Ciparay,36,Cancelled,9,473,Terminal A
+1364,Southwest,11/10/2022 04:21,Dowlatyār,Pontal,29,Cancelled,20,36,Terminal B
+957,Southwest,5/31/2022 10:27,Benniu,Yitulihe,46,Delayed,5,316,Terminal C
+4604,United,11/18/2022 08:43,Synya,Naru,44,On Time,2,499,Terminal C
+7135,Delta,10/2/2022 17:28,Viseu,Ōhara,39,Cancelled,20,220,Terminal A
+8245,Southwest,6/3/2022 00:29,Le Raincy,Tanjiaqiao,25,Delayed,18,470,Terminal A
+9292,United,12/24/2022 22:23,Qingnianlu,Hobaramachi,27,On Time,5,457,Terminal A
+7160,American,7/15/2022 01:27,Capim Grosso,Fosca,28,Cancelled,5,47,Terminal C
+8270,Southwest,5/15/2022 22:31,Sangiang,Tahe,3,On Time,6,35,Terminal C
+1567,Delta,11/28/2022 15:11,Louis Trichardt,Petrijevci,6,Delayed,19,237,Terminal B
+5041,American,9/9/2022 05:05,Sindangpanji,Ifakara,22,On Time,2,189,Terminal A
+9447,JetBlue,4/20/2022 02:54,Xiatang,São Vicente,20,Delayed,11,210,Terminal A
+5074,American,7/24/2022 07:14,Haizhouwobao,Amassoma,17,On Time,19,380,Terminal C
+6068,American,1/1/2022 06:12,Wenshang,Bahir Dar,40,Cancelled,19,271,Terminal A
+1511,Southwest,8/27/2022 11:07,Mampong,Muara Siberut,5,Delayed,15,143,Terminal C
+6750,American,5/7/2022 06:08,Kafarati,Eséka,5,Delayed,19,179,Terminal A
+2014,Southwest,5/11/2022 00:03,Kalloní,Metapán,23,On Time,7,7,Terminal B
+1052,American,4/5/2022 04:34,Tarangnan,Bacolod,21,Cancelled,9,97,Terminal C
+6658,JetBlue,1/22/2022 23:39,Áno Kalentíni,Mbocayaty,19,On Time,5,193,Terminal A
+4312,JetBlue,9/22/2022 19:13,Bassar,Vienna,16,On Time,1,334,Terminal A
+1215,Southwest,9/28/2022 16:23,Messina,Bal’shavik,16,Delayed,19,101,Terminal C
+8095,JetBlue,7/30/2022 20:07,Albacete,Zuénoula,44,On Time,8,417,Terminal C
+7544,American,3/11/2022 08:37,Stenungsund,Gwio Kura,42,Cancelled,4,179,Terminal C
+5523,Southwest,3/26/2022 04:59,Marull,Matsue-shi,22,Delayed,2,490,Terminal A
+9207,United,12/7/2022 02:59,Shabo,Cilated,22,Delayed,13,159,Terminal B
+2115,Southwest,2/18/2022 07:37,Pakapasan Girang,Neochóri,35,Cancelled,14,182,Terminal C
+2462,United,12/9/2022 09:11,Zouiat ech Cheïkh,Vidzy,49,Delayed,17,68,Terminal A
+3888,Delta,2/18/2022 05:22,Al Jīzah,Funafuti,11,Delayed,5,88,Terminal C
+6425,United,3/30/2022 08:35,Đống Đa,Guankou,20,On Time,3,45,Terminal B
+2208,JetBlue,10/18/2022 05:53,Richmond,Nice,14,Delayed,2,423,Terminal A
+166,United,1/19/2022 09:13,Hưng Yên,Krebetkrajan,32,Delayed,1,329,Terminal C
+184,American,11/25/2022 10:47,Tangxi,Taber,22,Delayed,3,467,Terminal C
+7241,American,1/22/2022 16:31,Pepayan,Aguas del Padre,45,On Time,20,219,Terminal B
+7925,American,11/18/2022 04:47,Santo Domingo,Candelaria,37,Cancelled,9,300,Terminal C
+2118,United,1/14/2022 10:49,Killorglin,Xibing,30,On Time,20,270,Terminal B
+5509,American,2/2/2022 11:34,Xam Nua,Gorelki,13,Delayed,11,269,Terminal B
+1003,Delta,8/14/2022 23:07,Oekero,Wangyi Zhendian,40,Cancelled,1,264,Terminal B
+9140,Delta,10/3/2022 09:46,Kangdong-ŭp,Pondokunyur,1,Delayed,6,475,Terminal A
+5290,United,9/30/2022 17:43,Kara-Balta,Berëzovyy,33,Cancelled,12,13,Terminal A
+6540,Delta,9/20/2022 09:56,Västerås,Sanjiazi,27,Cancelled,7,45,Terminal A
+2106,American,5/26/2022 15:20,Gabès,Yiánnouli,35,On Time,6,118,Terminal C
+2384,Delta,11/8/2022 07:53,Kemijärvi,Hwaseong-si,42,Delayed,16,454,Terminal B
+8423,United,10/6/2022 20:51,Waśniów,Lamoso,46,On Time,3,471,Terminal A
+3514,American,7/1/2022 18:51,Prabuty,Nancy,19,On Time,14,40,Terminal B
+2823,JetBlue,9/19/2022 08:50,Gornji Milanovac,Šenov,16,On Time,2,217,Terminal A
+2386,American,8/23/2022 00:13,Guaramirim,Nickby,43,Delayed,2,131,Terminal A
+8480,American,9/17/2022 23:51,Ritchie,Vilarelho,24,On Time,10,230,Terminal B
+2316,Southwest,9/21/2022 17:52,Aimin,Pampanito,24,On Time,11,387,Terminal B
+9329,JetBlue,8/13/2022 00:32,Liudu,Eastern Suburbs Mc,19,On Time,3,76,Terminal B
+5599,JetBlue,8/12/2022 10:25,Jiading,Hejiang,45,Cancelled,4,479,Terminal A
+4880,Southwest,1/7/2022 16:16,Wiskitki,Hongshanyao,1,Cancelled,11,354,Terminal A
+9088,Southwest,7/28/2022 09:10,Foros de Salvaterra,Lashkar Gāh,25,On Time,7,232,Terminal A
+152,American,1/6/2022 03:50,San Antonio,Independencia,19,Delayed,20,194,Terminal C
+3219,American,10/10/2022 10:40,Ovruch,Pavlovsk,4,On Time,9,234,Terminal A
+3635,United,1/6/2022 16:39,Chaiyo,Maluanluan,36,On Time,10,340,Terminal A
+9963,JetBlue,4/12/2022 15:46,Dunyāpur,Saatlı,37,On Time,13,98,Terminal A
+3788,American,9/16/2022 15:41,Mar’’ina Horka,Tangtuzhui,18,On Time,20,105,Terminal C
+1261,American,5/16/2022 07:01,Goianira,East Migpulao,25,Delayed,18,475,Terminal B
+8262,Delta,2/22/2022 17:41,Chenxikou,Vukovije Donje,31,Delayed,11,436,Terminal A
+8864,JetBlue,11/29/2022 23:20,Geshan,Yanzhou,43,Cancelled,15,483,Terminal C
+753,United,12/21/2022 23:09,El Aguilar,São Pedro do Estoril,37,On Time,8,414,Terminal A
+2610,JetBlue,1/3/2022 10:32,Bagay,Bohorodchany,28,On Time,16,22,Terminal C
+8083,United,12/21/2022 04:38,Seshcha,Sūrān,36,On Time,18,356,Terminal C
+3548,Delta,12/18/2022 21:02,Tānsen,Poroj,11,Cancelled,10,389,Terminal A
+9745,United,4/28/2022 02:26,Starigrad,Pujocucho,11,Cancelled,4,374,Terminal C
+5793,Southwest,8/14/2022 11:39,Noupoort,Piła,28,Cancelled,4,211,Terminal A
+4118,Southwest,5/31/2022 01:15,Muslyumovo,Al Jarādīyah,46,Delayed,13,169,Terminal A
+9134,Southwest,2/8/2022 04:28,Svenljunga,Zheleznodorozhnyy,34,Cancelled,6,340,Terminal C
+3394,Southwest,4/8/2022 14:37,Watuka,Dongjin,14,Delayed,6,116,Terminal C
+3055,Delta,5/10/2022 07:24,Shazhouba,Wujiayao,7,Delayed,16,246,Terminal B
+4025,Delta,9/3/2022 04:09,Umeå,Cimuncang,46,Cancelled,12,372,Terminal A
+481,American,6/18/2022 11:10,East London,Encruzilhada do Sul,7,Delayed,9,120,Terminal A
+7862,Southwest,1/27/2022 00:11,Hesperange,Podosinovets,21,Delayed,10,129,Terminal B
+6505,Southwest,8/19/2022 17:55,Caála,Radamata,27,Delayed,8,421,Terminal C
+5163,JetBlue,2/27/2022 23:18,Kotatengah,Derventa,20,Cancelled,12,297,Terminal C
+9074,United,6/28/2022 10:30,Krasnopillya,Zgornje Bitnje,45,Delayed,3,3,Terminal B
+1965,Delta,8/4/2022 19:25,Tomingad,Ko Samui,18,Delayed,2,139,Terminal C
+6929,Delta,5/22/2022 04:25,Stronie,Kebonagung,36,Delayed,11,258,Terminal A
+9674,United,12/2/2022 10:51,Nzérékoré,Ulaan Khat,22,Delayed,15,442,Terminal B
+7149,American,9/18/2022 11:23,Grigiškės,Daxindian,37,Delayed,3,440,Terminal B
+6821,Delta,2/16/2022 07:03,Fernández,Pilar,14,Cancelled,5,85,Terminal A
+8133,American,7/14/2022 16:53,Thung Song,Alegre,43,On Time,20,491,Terminal C
+9296,JetBlue,5/15/2022 13:12,Pak Chom,Depapre,29,Cancelled,17,265,Terminal A
+6669,Southwest,7/19/2022 13:32,Зуунмод,Rizal,30,On Time,17,422,Terminal A
+6832,Delta,8/11/2022 11:47,Ageoshimo,Langensari,42,On Time,19,276,Terminal B
+6449,United,8/24/2022 17:04,Nanpiao,Lille,7,Cancelled,12,48,Terminal A
+710,United,1/12/2022 08:18,Hostavice,Lintan Chengguanzhen,49,On Time,4,312,Terminal C
+4449,United,8/28/2022 07:50,Cernik,Valencia,37,Cancelled,4,496,Terminal C
+4109,Southwest,3/7/2022 03:45,Xianghua,Asker,50,Delayed,14,202,Terminal A
+1028,Delta,7/13/2022 22:08,Harembo,Paris 07,11,Delayed,18,154,Terminal C
+5466,United,8/10/2022 16:32,Yinkeng,San Jacinto,6,Cancelled,12,368,Terminal A
+7879,United,12/8/2022 08:22,Zhengmo,Kufa,13,On Time,2,317,Terminal A
+4748,Delta,9/1/2022 10:41,Halteu,Évry,33,On Time,10,15,Terminal B
+6974,Delta,6/2/2022 10:21,Springfield,Rudnichnyy,1,Delayed,8,97,Terminal B
+872,JetBlue,10/14/2022 06:46,Corticeiro de Baixo,Luokou,22,Cancelled,20,448,Terminal A
+3502,JetBlue,1/3/2022 01:49,Lianhua,Catende,39,On Time,16,492,Terminal B
+746,United,9/27/2022 23:06,San Rafael,Chor,10,Delayed,11,348,Terminal A
+2904,American,5/16/2022 07:12,Oodweyne,Sydney,20,Delayed,3,185,Terminal A
+4220,American,6/13/2022 08:11,Belung Satu,Pajagan,50,Delayed,9,18,Terminal C
+2557,Delta,7/30/2022 00:38,Zheleznodorozhnyy,Obiliq,30,Cancelled,10,405,Terminal C
+749,JetBlue,12/5/2022 22:26,Phatthaya,Changtang,8,On Time,5,276,Terminal A
+8087,Southwest,12/3/2022 03:37,Monastir,Kafr Dān,45,Cancelled,5,186,Terminal B
+9709,Southwest,3/5/2022 21:25,Chandmanĭ,Dolany,20,Delayed,11,450,Terminal B
+8617,Delta,1/5/2022 06:01,Sukamulya,Shang Boingor,49,Delayed,18,490,Terminal B
+7514,American,6/14/2022 15:03,Novyy Urengoy,Jiworejo,33,Cancelled,6,23,Terminal B
+2004,American,4/28/2022 22:12,Guanxi,Södra Sandby,25,On Time,20,448,Terminal C
+9411,Delta,7/29/2022 04:20,Marvdasht,Bundibugyo,8,On Time,2,407,Terminal B
+6069,United,2/16/2022 07:02,Arbaoua,Tirana,30,On Time,15,476,Terminal C
+5328,Delta,4/1/2022 17:13,Oitui,Rājo Khanāni,40,On Time,15,70,Terminal C
+351,American,9/14/2022 06:18,Satovcha,Liangnong,9,Cancelled,8,52,Terminal C
+5222,United,8/17/2022 22:32,Silveiros,Limoeiro do Norte,36,On Time,13,3,Terminal B
+8116,JetBlue,6/22/2022 15:34,Chacarita,Sukadami,45,Cancelled,10,443,Terminal C
+9362,Southwest,9/23/2022 14:40,Bāsht,Pucón,10,Cancelled,17,233,Terminal B
+8476,Delta,11/6/2022 06:20,Pokhara,Baima,49,On Time,1,180,Terminal C
+5350,Southwest,12/6/2022 13:06,Zhangyelu,Lunao,35,Cancelled,14,393,Terminal B
+667,JetBlue,2/19/2022 09:56,Ludvika,Ahmadpur Siāl,13,Cancelled,1,2,Terminal A
+4933,United,7/9/2022 10:12,Mpigi,Shuanggang,39,Delayed,7,210,Terminal A
+9718,United,11/26/2022 03:19,Qiziltepa Shahri,Rundeng,2,Delayed,16,268,Terminal A
+7525,JetBlue,1/2/2022 02:41,Quinta de Valadares,Orsay,42,Delayed,14,489,Terminal A
+3926,American,6/18/2022 23:42,Povorino,Heyin,43,Delayed,16,236,Terminal B
+6221,American,6/28/2022 13:42,Anzi,Şabyā,9,Delayed,19,351,Terminal A
+4795,JetBlue,9/6/2022 16:00,Congkar,Ribeirão,17,Delayed,14,108,Terminal C
+8558,United,10/18/2022 12:21,Ludvika,Miechów Charsznica,36,Cancelled,11,88,Terminal B
+9246,American,8/13/2022 00:34,Xinsheng,Taesal-li,9,Cancelled,9,43,Terminal A
+6879,JetBlue,7/14/2022 13:36,Donetsk,Kajuru,19,Delayed,2,156,Terminal C
+4113,JetBlue,6/2/2022 22:50,Bida,Qaşr Hallāl,23,On Time,2,79,Terminal A
+3282,Delta,9/30/2022 19:46,Jönköping,Francisco J Mujica,18,Cancelled,3,289,Terminal C
+7655,Delta,6/18/2022 05:22,La Unión,Arras,8,Cancelled,14,116,Terminal B
+9562,United,11/6/2022 04:44,Fukushima-shi,Xiapu,10,Delayed,15,284,Terminal A
+1111,United,2/25/2022 12:19,Yiliu,Promissão,26,Delayed,4,342,Terminal B
+7231,JetBlue,1/11/2022 18:34,Arvayheer,Atlanta,48,On Time,12,498,Terminal A
+5037,American,9/23/2022 21:06,Богданци,Taklale,24,Cancelled,2,262,Terminal B
+7704,Delta,10/7/2022 14:46,Jianchang,Zhenzhushan,35,Delayed,2,461,Terminal A
+2950,United,9/29/2022 20:39,Gaide,Shimen,39,Delayed,7,122,Terminal B
+7375,Southwest,9/12/2022 12:13,Kuncen,Zuobude,38,On Time,4,22,Terminal B
+7480,Southwest,10/19/2022 16:55,Ayapel,Black River,1,On Time,4,402,Terminal A
+5848,Southwest,12/2/2022 10:32,Denver,Hengli,28,Cancelled,17,412,Terminal B
+6952,Southwest,2/7/2022 17:09,Torsås,Morazán,23,Cancelled,12,393,Terminal B
+1382,Delta,5/18/2022 04:34,Colonia Wanda,Taguing,11,On Time,14,439,Terminal C
+7145,Delta,11/8/2022 09:06,Jindaoxia,Nîmes,28,Delayed,1,249,Terminal A
+2228,Delta,11/1/2022 16:06,Isiolo,Casal Novo,44,Delayed,8,158,Terminal C
+3878,Delta,9/7/2022 15:46,Pamplona/Iruña,Yingjiang,40,Cancelled,13,13,Terminal B
+3099,American,3/17/2022 15:27,Stuttgart,Chasŏng,22,Delayed,4,467,Terminal B
+1571,Delta,10/12/2022 20:45,Bandar-e Torkaman,Atocha,35,On Time,2,260,Terminal C
+3411,Delta,9/3/2022 17:37,Paraíso,Tumpakkepuh,45,Cancelled,1,149,Terminal C
+2104,Delta,7/30/2022 16:34,Bystrytsya,Horlivka,27,Cancelled,17,435,Terminal C
+9026,JetBlue,8/27/2022 14:20,Shuangtang,Moholm,29,Delayed,2,213,Terminal C
+750,United,7/7/2022 02:01,Nacka,Al Bīrah,23,Cancelled,19,189,Terminal B
+5010,Southwest,1/15/2022 23:20,Hegarsari,Bhairāhawā,12,Cancelled,1,290,Terminal B
+5852,United,3/26/2022 22:15,Guaraciaba do Norte,Oss,14,Delayed,2,71,Terminal B
+8311,American,2/3/2022 14:53,Priob’ye,Bosobolo,15,On Time,4,119,Terminal B
+4003,American,6/27/2022 20:06,Rzhavki,Zhongjiapu,34,On Time,17,278,Terminal B
+8186,JetBlue,11/14/2022 08:25,Tapacocha,Laliki,30,Cancelled,7,371,Terminal C
+9554,Delta,12/26/2022 19:14,Jinjiang,Niverville,36,Delayed,10,128,Terminal C
+9725,JetBlue,1/6/2022 07:05,Chenyangzhai,Thanh Chương,39,Cancelled,1,235,Terminal C
+3648,American,9/27/2022 16:07,Yawata,Ban Takhun,43,Delayed,16,98,Terminal A
+7644,United,9/28/2022 09:10,Sochaux,Przodkowo,40,On Time,13,245,Terminal C
+1579,Southwest,11/17/2022 11:39,Blangkejeren,Obsza,20,Cancelled,4,230,Terminal C
+3218,United,9/8/2022 05:08,Tân An,Gunung Sugih,40,Delayed,2,351,Terminal B
+3756,Delta,6/30/2022 03:31,La Asunción,Rialma,8,On Time,5,182,Terminal C
+3631,Delta,7/7/2022 01:46,Wangzha,Pedra Furada,24,Delayed,5,49,Terminal A
+8623,Southwest,7/29/2022 21:05,Lirang,Kavalerovo,50,Delayed,18,452,Terminal B
+7434,Delta,5/7/2022 09:03,Jiadingzhen,Anlu,1,Cancelled,14,57,Terminal B
+1302,JetBlue,3/22/2022 22:46,Nusajaya,Halamendu,24,Cancelled,18,497,Terminal C
+5694,JetBlue,9/3/2022 20:24,Ban Mai,Saint-Félicien,15,Cancelled,16,243,Terminal A
+7645,American,11/26/2022 01:47,Jincheng,Bayonne,40,Cancelled,3,145,Terminal A
+3456,JetBlue,11/9/2022 01:34,Flagstaff,Horred,35,On Time,1,7,Terminal A
+4911,Delta,12/16/2022 22:29,Al ‘Ashshah,Kairouan,13,On Time,14,444,Terminal C
+9127,American,2/27/2022 15:06,Taounate,Almalaguês,12,Cancelled,18,321,Terminal C
+5622,Delta,2/23/2022 15:25,Wujiao,Georgīevka,47,On Time,16,456,Terminal A
+9038,JetBlue,12/3/2022 12:28,Jantake,Trąbki,21,Delayed,13,431,Terminal A
+8545,United,12/30/2022 09:37,Annecy,Pexiligais,12,On Time,12,210,Terminal A
+6189,United,11/9/2022 18:25,Mūdīyah,Nakhon Luang,28,Cancelled,7,330,Terminal C
+6523,United,12/6/2022 13:17,København,Mariano Moreno,13,Delayed,3,231,Terminal C
+9310,Delta,7/24/2022 07:18,Maradi,Lebel-sur-Quévillon,36,Delayed,4,294,Terminal C
+927,United,12/29/2022 13:23,Caqu,Qixia,38,On Time,10,161,Terminal A
+1811,American,9/29/2022 20:27,São Roque,Tobruk,36,Cancelled,11,21,Terminal A
+6741,Delta,10/9/2022 03:33,Rurrenabaque,Pushkino,2,Cancelled,3,405,Terminal C
+7879,Delta,8/19/2022 17:28,Bharatpur,Ondo,21,Delayed,11,70,Terminal B
+4809,Delta,4/16/2022 14:23,Montpellier,Buaran,17,On Time,13,270,Terminal C
+274,American,1/11/2022 08:49,Loma Bonita,Chapelton,5,On Time,16,385,Terminal C
+7488,JetBlue,10/8/2022 21:04,Glencoe,Caoping,36,Delayed,8,347,Terminal C
+1087,Delta,6/23/2022 21:54,Komatsu,Khān Yūnis,25,Cancelled,2,12,Terminal B
+3747,Delta,12/25/2022 05:55,Maoya,Paseka,19,On Time,12,152,Terminal B
+882,American,9/28/2022 04:21,Nanlang,Pālang,46,Delayed,2,452,Terminal B
+3934,Delta,5/16/2022 10:34,Cayambe,Dula’er Ewenke Minzu,44,Cancelled,4,18,Terminal C
+2179,United,9/6/2022 16:17,Železniki,Chongxing,27,Cancelled,3,262,Terminal A
+3139,American,3/19/2022 15:12,Kangin,Pingtian,38,On Time,14,396,Terminal C
+5004,United,8/1/2022 10:29,Fakaifou Village,Mayma,2,Cancelled,5,369,Terminal A
+2141,American,1/10/2022 16:20,Luoqiao,Kelungkung,36,Delayed,2,293,Terminal A
+5342,American,4/3/2022 19:09,Yesan,Twyford,18,On Time,13,500,Terminal B
+5655,Delta,3/28/2022 23:24,Valdivia,Concepción de La Vega,15,Cancelled,3,148,Terminal C
+7537,Southwest,8/21/2022 09:20,Bacnotan,Norfolk,18,On Time,18,448,Terminal B
+8227,Southwest,10/14/2022 15:59,Partang,Karanglincak,16,On Time,6,312,Terminal C
+1639,JetBlue,4/26/2022 02:00,Alue Glumpang,Victoria West,4,Delayed,16,296,Terminal C
+5413,Delta,8/20/2022 15:19,Bilhó,Burayevo,10,Cancelled,15,65,Terminal B
+1687,Southwest,10/22/2022 15:09,Aráchova,Zhaoguli,29,Delayed,11,378,Terminal B
+3686,Delta,6/6/2022 10:37,Palangue,Brétigny-sur-Orge,11,On Time,13,58,Terminal B
+5475,Southwest,4/8/2022 15:51,Sande São Martinho,Vorzel’,23,Cancelled,7,308,Terminal C
+2603,Delta,4/13/2022 14:46,Wushi,Macinhata da Seixa,36,Delayed,8,409,Terminal A
+4818,United,11/20/2022 02:07,Del Rosario,Kawęczyn,16,Delayed,6,428,Terminal C
+8803,United,7/17/2022 17:24,Suicheng,Bayān,9,Cancelled,8,259,Terminal B
+1655,Southwest,7/20/2022 03:53,Tuguanpu,Punaauia,28,Cancelled,10,213,Terminal A
+6937,JetBlue,12/21/2022 22:02,Lawdar,Orito,29,Cancelled,1,355,Terminal B
+1750,Delta,6/25/2022 18:24,Maripa,Mancilang,46,Delayed,1,328,Terminal A
+3798,JetBlue,6/16/2022 09:29,Kawalimukti,Sosnogorsk,17,Delayed,18,70,Terminal C
+5284,American,12/9/2022 12:09,Dek’emhāre,Puyuan,27,Delayed,10,32,Terminal A
+8736,American,7/24/2022 17:38,Tanjungpecinan Utara,Sigetec,30,Delayed,11,417,Terminal B
+7367,American,2/15/2022 03:20,Biljača,Mae Sai,36,Cancelled,1,188,Terminal B
+1613,Southwest,3/31/2022 05:42,Bahay Pare,Khurriānwāla,18,Delayed,10,376,Terminal A
+2272,JetBlue,5/12/2022 16:09,Marogong,Amberd,15,Cancelled,19,215,Terminal C
+1371,Southwest,4/9/2022 03:44,Grand Rapids,Juripiranga,6,Delayed,2,482,Terminal C
+4934,JetBlue,6/26/2022 16:09,Sanhui,Zhizhong,37,Delayed,19,168,Terminal A
+4900,Delta,8/3/2022 12:29,Fenyan,Mahdishahr,48,Cancelled,16,251,Terminal B
+7630,United,3/11/2022 03:06,Lokossa,Cipari,14,On Time,20,262,Terminal B
+1936,JetBlue,7/23/2022 17:32,Dizhai,Návsí u Jablunkova,26,On Time,10,73,Terminal C
+707,American,2/21/2022 17:47,Sairam,Azaruja,19,Delayed,20,155,Terminal B
+5683,Delta,8/27/2022 10:00,Maych’ew,Lianrao,17,Cancelled,18,243,Terminal C
+6752,Delta,9/29/2022 22:46,Chambéry,Marintoc,24,Delayed,3,313,Terminal C
+350,Southwest,6/26/2022 06:34,Mel’nikovo,Fengli,3,Cancelled,17,433,Terminal B
+5158,Southwest,5/19/2022 07:40,Lebak,Nanqiao,38,On Time,5,11,Terminal A
+8046,JetBlue,9/23/2022 08:35,General Cabrera,Ijuí,8,Cancelled,15,177,Terminal A
+3168,Delta,7/16/2022 10:14,Wuli,Sofiyivka,9,Cancelled,12,5,Terminal C
+639,Southwest,12/14/2022 22:53,Jinxiang,Kamyshevatskaya,25,Cancelled,9,221,Terminal B
+3775,Delta,8/31/2022 07:55,Chichigalpa,Póvoa do Valado,37,Delayed,12,229,Terminal B
+5237,United,4/25/2022 06:46,Sölvesborg,Wufeng,45,On Time,8,378,Terminal C
+2225,United,2/17/2022 13:53,Mahdia,Sanhui,25,Cancelled,10,48,Terminal B
+5198,Delta,10/7/2022 00:11,Peteranec,Rowokangkung,1,Delayed,8,119,Terminal C
+9917,United,8/11/2022 02:05,Pueblo,Peabiru,44,Cancelled,11,214,Terminal A
+4831,United,5/25/2022 03:11,Chiguayante,Los Andes,47,On Time,7,370,Terminal C
+5666,United,5/8/2022 14:55,Rukem,Huité,44,Cancelled,13,295,Terminal B
+9321,Southwest,11/14/2022 15:06,Kuala Lumpur,Neftegorsk,15,Delayed,9,58,Terminal B
+9677,JetBlue,5/27/2022 16:22,Maxixe,Paamiut,4,Delayed,17,383,Terminal A
+5453,Delta,4/10/2022 00:07,Sinisian,Krajan Satu,40,On Time,6,413,Terminal A
+8274,JetBlue,2/6/2022 21:41,Shangdongjie,Ogod,24,Cancelled,3,68,Terminal C
+153,Southwest,8/23/2022 07:31,Hulutao,Shiozawa,3,Delayed,14,104,Terminal B
+2919,Southwest,2/1/2022 12:53,Kopang Satu,Wan’an,40,Cancelled,16,57,Terminal B
+2800,American,11/18/2022 23:55,Yushan,Aulnay-sous-Bois,46,Cancelled,1,232,Terminal C
+7565,JetBlue,5/26/2022 12:28,Deskáti,Altuf’yevskiy,46,On Time,10,240,Terminal A
+4097,American,3/5/2022 09:00,Acolla,Salamá,3,Cancelled,19,50,Terminal B
+698,American,1/2/2022 08:29,Huiqi,Palangan,14,Delayed,9,45,Terminal C
+3144,United,2/18/2022 20:14,Milovice,Monteros,6,Delayed,14,342,Terminal C
+5013,JetBlue,11/6/2022 18:55,Lyon,Shiguai,12,Delayed,3,288,Terminal B
+3855,JetBlue,11/27/2022 14:11,Yangyong,Zarya,19,Cancelled,11,392,Terminal B
+6181,Delta,3/7/2022 22:43,Bagiktinggang,Baimaqiao,18,On Time,16,394,Terminal A
+7761,JetBlue,2/20/2022 05:31,Zarzal,Falun,42,Delayed,2,46,Terminal C
+8944,Delta,7/6/2022 04:39,Bilicenii Vechi,Łaskarzew,36,Cancelled,7,142,Terminal A
+4590,Delta,4/5/2022 13:39,Sorochuco,Chişinău,25,Cancelled,5,423,Terminal C
+511,JetBlue,1/27/2022 21:08,Pokhara,Fengshan,45,Cancelled,17,150,Terminal C
+1415,Delta,9/12/2022 06:49,Uyskoye,Petrokamenskoye,46,Delayed,3,200,Terminal B
+7053,JetBlue,8/26/2022 20:21,Ciomas,Yaxi,22,On Time,2,137,Terminal C
+3338,United,12/10/2022 23:49,Oslo,Tucheng,40,On Time,20,313,Terminal C
+2592,Delta,6/13/2022 01:15,Paris 09,Baykit,17,Delayed,1,144,Terminal B
+5223,Southwest,2/13/2022 10:33,Wulong,Ilhabela,10,On Time,5,86,Terminal B
+5437,Delta,7/16/2022 21:33,Begang,Dobryanka,38,On Time,9,424,Terminal C
+3427,United,6/20/2022 19:50,Dongyang,Xiashu,13,Delayed,6,394,Terminal C
+9002,United,6/28/2022 01:23,Lillers,Tabālah,43,On Time,9,57,Terminal A
+8570,JetBlue,4/30/2022 16:40,Cantoria,Emiliano Zapata,14,Delayed,10,322,Terminal B
+3947,Southwest,1/18/2022 10:54,Nanping,Kashiwa,24,Delayed,9,172,Terminal A
+7639,Delta,1/29/2022 20:37,Tungao,Limen,15,Delayed,3,422,Terminal B
+8808,American,10/17/2022 12:57,Aryiropoúlion,Auch,36,Delayed,14,16,Terminal C
+3891,American,2/26/2022 20:13,Budakovo,Benito Juarez,30,Delayed,8,430,Terminal C
+8517,Southwest,10/31/2022 04:19,Slunj,Yudaikelike,35,Cancelled,19,68,Terminal B
+5753,United,1/17/2022 21:23,Shuiyang,Charleston,16,Delayed,6,453,Terminal C
+8879,United,3/30/2022 09:43,Communal,Turpo,36,On Time,14,151,Terminal A
+3392,United,1/13/2022 12:11,Koga,Dongguang,42,On Time,16,327,Terminal C
+6311,JetBlue,9/9/2022 19:47,Laúndos,Uruzgān,25,On Time,9,35,Terminal B
+8229,United,12/18/2022 12:30,Plumbangan,Linköping,3,Delayed,16,101,Terminal B
+2443,Southwest,9/19/2022 05:17,Ndom,Dallas,23,Cancelled,14,388,Terminal C
+9235,JetBlue,2/23/2022 21:39,Sujiatuo,Lais,15,Cancelled,7,469,Terminal A
+8476,United,3/15/2022 18:54,Satka,Memphis,20,Cancelled,15,53,Terminal A
+1472,Southwest,3/11/2022 22:58,Zuobude,Arroyo Seco,25,On Time,14,471,Terminal B
+2004,American,7/4/2022 15:08,Dukuhpicung,Žirovnica,36,On Time,7,399,Terminal A
+3549,American,10/26/2022 03:01,Huayuan,Gereneng,49,Delayed,19,73,Terminal B
+2980,Delta,7/28/2022 22:10,Piracaia,Luxi,18,Delayed,6,110,Terminal A
+6681,Southwest,9/7/2022 01:34,Xinshi,Kostinbrod,12,Delayed,4,403,Terminal A
+2985,Delta,7/31/2022 20:14,Trogan Barat,Valašská Bystřice,7,Cancelled,10,118,Terminal A
+9522,Southwest,11/5/2022 21:12,Toluviejo,Fianarantsoa,2,On Time,2,67,Terminal C
+9947,United,5/21/2022 21:51,Rainis,Posse,42,On Time,17,254,Terminal A
+3331,JetBlue,5/17/2022 08:22,Nyköping,Huifeng,39,Delayed,5,349,Terminal A
+2096,Delta,10/9/2022 02:01,Pangkalan,Golubinci,28,On Time,10,468,Terminal A
+2222,Delta,12/19/2022 04:37,Mandal,Adolfo Lopez Mateos,35,Cancelled,1,239,Terminal B
+2168,JetBlue,2/3/2022 06:00,Liangkou,Yangiyŭl,14,Delayed,15,166,Terminal A
+8620,Delta,10/26/2022 13:59,Korolev,Jīroft,50,On Time,18,31,Terminal A
+957,Southwest,7/1/2022 00:37,Qindu,Yudong,45,Delayed,19,359,Terminal B
+5217,Southwest,7/4/2022 17:34,Chotcza,Kíti,14,Cancelled,13,342,Terminal B
+1096,American,5/5/2022 13:23,Arthur’s Town,Itaporanga,23,On Time,13,366,Terminal A
+4007,United,3/17/2022 05:32,Huangli,Konëvo,8,Delayed,6,274,Terminal A
+9689,American,9/11/2022 14:21,São Gabriel,Antonio Toledo Corro,5,On Time,12,119,Terminal B
+71,Delta,1/28/2022 22:20,Chojna,Daming,13,On Time,4,398,Terminal A
+2116,Southwest,2/6/2022 18:43,Kajansi,Pule,19,Cancelled,7,288,Terminal B
+4557,Delta,1/7/2022 10:11,Malabar,Outeiro,29,On Time,14,45,Terminal B
+1654,Southwest,8/10/2022 03:14,Zumiao,Cielądz,9,Delayed,1,118,Terminal A
+3192,United,7/1/2022 08:08,Viesīte,Khiv,19,Delayed,15,29,Terminal B
+8299,United,12/24/2022 12:07,Kieta,Lumbatan,11,Delayed,2,294,Terminal A
+4349,United,12/29/2022 13:20,Paços,Petite Anse,1,Delayed,4,409,Terminal C
+3166,United,7/31/2022 08:08,Lingxi,Bor Ondor,32,Delayed,7,372,Terminal B
+7281,Southwest,9/17/2022 21:05,Kouango,Jiangtou,33,Cancelled,17,76,Terminal B
+5769,JetBlue,3/28/2022 04:32,Severomorsk,Ohafia-Ifigh,44,On Time,16,498,Terminal C
+3440,United,10/26/2022 21:17,Rābigh,Brzeźnica,47,Cancelled,9,487,Terminal C
+5865,Delta,9/28/2022 14:46,Witkowo,Inhambupe,16,Delayed,1,308,Terminal B
+682,American,2/14/2022 00:49,Ensanche Luperón,Dengmingsi,32,Delayed,18,311,Terminal A
+7430,American,5/9/2022 17:02,Outokumpu,Mucurapo,18,On Time,13,110,Terminal B
+7221,Southwest,3/14/2022 23:51,Hualin,Qīr Moāv,39,Delayed,5,468,Terminal B
+2821,JetBlue,10/14/2022 06:56,Karlskoga,Nanganumba,1,On Time,6,460,Terminal B
+6786,Southwest,3/9/2022 15:31,Xijiadian,Tycheró,48,On Time,10,113,Terminal B
+5254,United,8/19/2022 13:09,Elimäki,Ekasapta,26,On Time,17,222,Terminal C
+7588,United,3/30/2022 06:55,Pinhal de Frades,El Asintal,42,Delayed,13,494,Terminal C
+5551,United,7/1/2022 00:39,Gunziying,Sanyang,43,Cancelled,18,236,Terminal A
+6638,JetBlue,10/2/2022 00:32,Bambas,Karangtanjung,16,Cancelled,3,317,Terminal C
+1522,United,3/6/2022 23:07,Gulod,Uyuni,37,Delayed,15,409,Terminal B
+6212,JetBlue,5/2/2022 04:59,Uppsala,Boleszkowice,8,Delayed,7,471,Terminal C
+1111,Southwest,7/14/2022 06:44,Masparrito,Räpina,14,Delayed,13,297,Terminal B
+9640,Delta,10/28/2022 05:35,Jocotán,Francisco Beltrão,31,Cancelled,1,179,Terminal A
+3427,Delta,1/17/2022 07:14,Budapest,Monze,37,Delayed,13,348,Terminal B
+6294,Southwest,3/7/2022 20:03,Dole,Shangyi,22,Cancelled,17,81,Terminal A
+1982,Southwest,5/28/2022 06:54,Pomabamba,Mungging,16,Delayed,17,219,Terminal B
+286,Delta,9/27/2022 12:30,Kozloduy,San Pablo,8,Cancelled,10,228,Terminal C
+4100,Delta,9/10/2022 08:39,Hejiang,Boroko,36,Delayed,2,185,Terminal B
+5426,JetBlue,6/20/2022 08:55,Majan,Zhangye,41,Cancelled,13,499,Terminal B
+3309,Delta,5/31/2022 13:31,Xinhua,Zavety Il’icha,12,Delayed,19,84,Terminal B
+1092,United,4/30/2022 21:44,Junqueiro,Tlogowetan,8,Cancelled,19,476,Terminal B
+4968,United,8/20/2022 20:51,København,Khulna,25,Delayed,2,190,Terminal A
+103,JetBlue,11/13/2022 16:57,Giebułtów,Františkovy Lázně,1,On Time,20,385,Terminal C
+7904,American,12/23/2022 03:54,Glinojeck,Pskov,40,On Time,5,210,Terminal B
+5278,United,2/17/2022 12:14,Bāsht,Kostyantynivka,3,Delayed,17,4,Terminal B
+9256,JetBlue,6/12/2022 00:43,Temryuk,Hai’an,3,On Time,20,125,Terminal A
+588,Southwest,3/8/2022 13:26,Tsuen Wan,Daixi,15,On Time,13,137,Terminal B
+4210,Delta,5/9/2022 18:31,Ishëm,Pongol,16,Delayed,9,266,Terminal B
+4150,Southwest,4/12/2022 01:06,Sandaohezi,Charleston,43,Delayed,5,453,Terminal A
+6151,JetBlue,1/19/2022 14:40,Solntsevo,Vágia,32,On Time,19,197,Terminal C
+9791,JetBlue,5/22/2022 04:53,Owando,Shelopugino,13,Cancelled,14,426,Terminal B
+6903,JetBlue,6/3/2022 23:30,Santiago De Compostela,Sabana Grande de Boyá,18,On Time,16,147,Terminal C
+8607,United,7/18/2022 05:21,Orléans,Bahāwalnagar,21,On Time,1,363,Terminal B
+9732,JetBlue,6/13/2022 09:33,Momignies,Jiumen,39,On Time,5,376,Terminal A
+5130,JetBlue,10/13/2022 19:12,Geidam,Zuoxi,26,Delayed,6,316,Terminal C
+3074,JetBlue,4/7/2022 01:45,Toulouse,San Agustin,50,On Time,3,96,Terminal A
+1870,American,6/1/2022 16:20,Shalkar,Hepu,4,On Time,20,128,Terminal B
+1270,Southwest,10/4/2022 09:17,Colorado Springs,Herrera,11,On Time,2,371,Terminal A
+9178,Delta,8/26/2022 08:55,Bīr Nabālā,Alemanguan,14,Delayed,11,251,Terminal C
+7321,American,12/17/2022 12:46,Outeiro,Shangde,5,On Time,3,269,Terminal C
+7392,United,8/4/2022 06:34,Kebonagung,Jazovo,24,Delayed,20,13,Terminal C
+909,Southwest,9/27/2022 13:31,Sandaohezi,Ḩalḩūl,44,Delayed,11,495,Terminal C
+7330,JetBlue,11/18/2022 16:11,Waina,Mannheim,23,Cancelled,20,464,Terminal C
+8789,American,3/28/2022 20:54,Bolnisi,Cilongkrangpusaka,18,On Time,2,141,Terminal B
+3945,Delta,4/7/2022 21:52,Hamburg,San Pedro,17,Delayed,4,41,Terminal C
+5885,JetBlue,2/1/2022 01:37,Tsuruga,Zhugang,17,On Time,17,88,Terminal A
+7316,JetBlue,4/20/2022 21:53,Kathu,Shencun,11,Cancelled,12,447,Terminal B
+8221,JetBlue,7/1/2022 22:30,Tuchkovo,Terjan,13,Delayed,13,330,Terminal C
+7493,United,4/13/2022 18:42,Aramayuan,Novovoronezh,36,Delayed,1,107,Terminal B
+4641,Delta,2/9/2022 10:17,Głogówek,Kuryłówka,42,Delayed,1,478,Terminal C
+9187,American,1/31/2022 03:02,Il’inskiy,Châlons-en-Champagne,32,Cancelled,12,74,Terminal A
+4036,Southwest,6/30/2022 06:55,Lamont,Salanegara,19,On Time,7,476,Terminal C
+7257,Delta,4/15/2022 17:44,Changfeng,Matingain,1,Delayed,3,380,Terminal A
+5435,JetBlue,10/13/2022 01:25,Firmat,Palikir - National Government Center,10,On Time,6,347,Terminal B
+4146,JetBlue,6/30/2022 00:26,Gložan,Anle,4,Delayed,10,114,Terminal B
+9287,JetBlue,12/11/2022 15:35,Quangang,Zeewolde,10,Delayed,3,118,Terminal B
+3876,United,2/19/2022 07:28,Marsa Alam,Belomorsk,27,Delayed,9,350,Terminal B
+4537,United,11/7/2022 12:08,Ash Shuqayrah,K’olīto,5,On Time,15,190,Terminal A
+9177,United,2/13/2022 18:32,Kristinehamn,Fanzhen,23,On Time,16,278,Terminal C
+9437,American,1/15/2022 19:58,Krajan Demit,Boudinar,35,Cancelled,16,385,Terminal C
+1378,American,2/22/2022 07:33,Karlstad,Jinotepe,22,Delayed,8,66,Terminal C
+3894,United,3/23/2022 05:56,Yuxin,Šmartno pri Litiji,43,Delayed,18,160,Terminal B
+7331,United,7/17/2022 13:08,Guruyan,Santa Rita do Passa Quatro,1,Cancelled,18,321,Terminal C
+7698,American,2/20/2022 18:19,Tha Uthen,Mingshui,20,On Time,7,66,Terminal A
+9427,United,5/15/2022 10:08,Salvacion,Simpanganduwet,36,Delayed,13,123,Terminal C
+3842,Delta,8/6/2022 13:03,Kadukaung,Mýto,38,Cancelled,9,428,Terminal C
+1680,Southwest,2/1/2022 13:41,Bi’r Ḩāt,Kota Kinabalu,23,Cancelled,6,119,Terminal B
+5586,Delta,11/1/2022 16:22,Shireet,Malaya Purga,24,Delayed,17,189,Terminal A
+5237,Delta,3/2/2022 10:48,Dagushan,Remolino,12,Cancelled,19,22,Terminal B
+4803,United,3/22/2022 08:31,Ngadipuro,Abelheira,7,On Time,13,257,Terminal B
+3140,Delta,5/10/2022 20:14,Neochóri,Santo Rosario,35,Delayed,19,408,Terminal A
+5097,United,1/26/2022 09:01,Terneuzen,Huangpi,36,On Time,18,215,Terminal B
+2843,Southwest,7/15/2022 21:21,Tarbes,Saryaghash,50,Delayed,12,219,Terminal C
+1366,Southwest,8/13/2022 02:45,Tārūt,Napel,13,On Time,16,480,Terminal C
+1569,United,12/18/2022 08:43,Al Miqdādīyah,Koźle,39,Delayed,15,94,Terminal A
+8867,Southwest,2/22/2022 03:55,Miass,Zhuanqiang,15,On Time,11,133,Terminal C
+9461,JetBlue,4/29/2022 20:10,Hangkou,Chervonohryhorivka,50,Cancelled,16,393,Terminal B
+7675,Southwest,12/9/2022 07:54,Bianxiong,Nancy,25,Cancelled,8,112,Terminal B
+8246,Delta,3/23/2022 04:55,Wiphawadi,Xingxi,1,Cancelled,19,208,Terminal C
+1548,JetBlue,1/10/2022 03:33,Montenegro,Taohua,19,Cancelled,18,378,Terminal C
+901,JetBlue,1/28/2022 05:33,Monte Azul Paulista,Villa Carlos Paz,5,On Time,19,370,Terminal B
+9123,American,7/7/2022 13:13,Ciomas,Chavárion,46,Cancelled,4,432,Terminal B
+1464,United,7/5/2022 10:06,Båstad,Zuya,40,Cancelled,15,135,Terminal C
+6751,JetBlue,11/30/2022 18:39,Pryazha,Pasauran,48,Delayed,5,345,Terminal C
+9235,United,12/16/2022 02:03,Shuangcheng,Datangzhuang,41,Cancelled,11,238,Terminal B
+7754,JetBlue,3/14/2022 03:29,Kinkala,Malakwal City,47,On Time,13,442,Terminal A
+792,United,7/28/2022 16:14,Tabwakea Village,Simpang,5,Delayed,2,451,Terminal B
+9056,JetBlue,10/18/2022 19:26,Charqueadas,Al Ḩusayn,11,On Time,1,187,Terminal A
+7233,American,2/24/2022 20:41,Krynki,La Loma,42,On Time,14,428,Terminal A
+9867,American,11/26/2022 00:24,Shanling,Thị Trấn Ngan Dừa,17,On Time,18,336,Terminal B
+6397,Delta,6/22/2022 03:38,Waterbury,Driefontein,37,Cancelled,2,363,Terminal A
+4436,Delta,6/29/2022 10:23,Haikoudajie,Ulset,37,Cancelled,16,191,Terminal B
+720,Southwest,12/17/2022 22:10,Changsheng,George Town,32,Cancelled,12,311,Terminal A
+9188,American,7/17/2022 08:23,Shcherbinka,La Paz de Oriente,2,On Time,3,370,Terminal C
+1045,Delta,9/30/2022 11:40,Dumbéa,Muchkapskiy,4,On Time,1,31,Terminal A
+4487,United,10/1/2022 18:06,Drobin,Taketoyo,4,On Time,14,438,Terminal C
+5248,Southwest,10/4/2022 22:37,Itaparica,Shuangfeng,22,On Time,11,480,Terminal B
+4145,Delta,8/14/2022 02:38,Malec,Victoria,31,Delayed,8,361,Terminal C
+5149,Delta,5/24/2022 22:37,Jinqiao,Chandmanĭ,24,On Time,20,455,Terminal A
+610,Delta,8/8/2022 19:26,Jakobstad,Mbanga,2,On Time,2,194,Terminal A
+2890,Delta,1/10/2022 19:00,Pogranichnyy,Iracemápolis,25,Cancelled,17,172,Terminal B
+3490,Southwest,11/30/2022 08:49,Łaziska Górne,Remscheid,42,On Time,8,413,Terminal C
+8775,Southwest,6/11/2022 03:24,Sulangan,Belford Roxo,26,On Time,17,158,Terminal C
+3813,JetBlue,3/23/2022 08:21,Sobang,Zeya,46,On Time,17,424,Terminal B
+7896,United,1/17/2022 05:13,Aduo,Fonte,23,Delayed,3,274,Terminal C
+8390,United,2/18/2022 20:04,Hưng Yên,Shlissel’burg,28,Delayed,3,436,Terminal B
+5122,Southwest,11/30/2022 11:32,Puerto Berrío,Sangesi,9,On Time,2,278,Terminal B
+8098,United,4/24/2022 22:29,Veselí nad Moravou,Fontana,45,Delayed,5,16,Terminal B
+3370,Delta,5/3/2022 09:27,Rovira,Greensboro,7,On Time,14,409,Terminal C
+7112,American,3/29/2022 15:53,Pasirhuni,Terang,44,On Time,6,302,Terminal C
+87,American,3/1/2022 07:52,Bairro dos Marinheiros,Singgugu,46,Delayed,17,383,Terminal A
+1106,JetBlue,7/28/2022 15:59,Biny Selo,Franca,13,Delayed,17,166,Terminal C
+1159,JetBlue,12/6/2022 17:40,Oyan,Rio do Sul,43,On Time,14,193,Terminal A
+9213,Delta,1/27/2022 20:36,Twardawa,Kafr al Labad,38,Delayed,12,484,Terminal A
+6150,Southwest,9/2/2022 09:22,Kizhinga,Marseille,9,Cancelled,1,154,Terminal A
+5252,United,4/28/2022 17:04,Hongchun,Midrand,31,Delayed,15,304,Terminal C
+3290,JetBlue,2/10/2022 06:53,Linköping,Queluz,47,Cancelled,6,203,Terminal C
+5899,American,4/19/2022 01:39,Huangjinjing,Cherskiy,31,Cancelled,12,301,Terminal A
+788,Southwest,11/5/2022 19:48,Haruman,Cherga,27,On Time,10,226,Terminal B
+5397,United,9/27/2022 00:37,Lucheng,Khānaqāh,32,Cancelled,6,418,Terminal A
+3708,Delta,3/5/2022 17:31,Ladozhskaya,Wuku,6,Delayed,19,489,Terminal B
+2557,Southwest,9/23/2022 17:56,San Martín Zapotitlán,Verkhniye Kigi,7,On Time,3,11,Terminal C
+3280,Delta,7/2/2022 10:33,Al Ḩazm,Atalhada,8,Delayed,10,211,Terminal C
+1557,American,9/16/2022 21:58,Vary,Sant Cugat Del Valles,48,On Time,8,180,Terminal A
+7346,American,10/20/2022 14:52,Shentong,Honglai,7,Cancelled,3,313,Terminal C
+5333,Southwest,12/9/2022 20:07,Bašaid,La Motte-Servolex,22,Cancelled,16,207,Terminal A
+9121,JetBlue,4/29/2022 08:33,Ondoy,Dayrūţ,20,Delayed,19,137,Terminal C
+9247,American,4/4/2022 22:43,Kirkland,Sujiazhuang,12,Delayed,18,117,Terminal A
+2362,JetBlue,12/8/2022 20:47,Guruyan,Maralal,14,On Time,19,43,Terminal A
+13,Southwest,7/9/2022 17:28,Pule,Jalalaqsi,13,Cancelled,11,73,Terminal B
+455,JetBlue,6/11/2022 13:59,Zhujiapu,Hongqi,47,On Time,5,79,Terminal B
+7198,American,3/26/2022 08:25,Aguazul,Älvängen,44,Delayed,18,418,Terminal C
+6911,Delta,12/21/2022 01:36,Tunduma,Sysert’,23,Delayed,9,80,Terminal B
+280,JetBlue,8/21/2022 00:12,Jiutai,Uliastay,1,Cancelled,3,456,Terminal A
+4617,Delta,7/20/2022 23:15,Sudoměřice,Dapdap,36,On Time,10,12,Terminal B
+7305,JetBlue,10/7/2022 19:34,Acao,Obo,8,Cancelled,19,23,Terminal B
+1844,JetBlue,9/20/2022 20:20,Berehomet,Gjoçaj,15,On Time,17,127,Terminal C
+4873,JetBlue,4/3/2022 18:21,Lyuboml’,Margarita,27,Cancelled,16,452,Terminal C
+2873,American,4/18/2022 02:50,Anjozorobe,Cañas,24,Delayed,5,58,Terminal B
+106,Delta,2/16/2022 04:13,Punta del Este,Orekhovo-Zuyevo,27,Cancelled,16,416,Terminal B
+3786,Southwest,1/5/2022 20:56,Betzdorf,Telpaneca,15,On Time,8,48,Terminal A
+8648,United,10/21/2022 23:56,Surgut,Miribanteng,19,Delayed,20,77,Terminal B
+4816,Delta,5/22/2022 03:27,Bīrganj,Aveiras de Cima,19,Delayed,17,70,Terminal B
+437,Delta,2/13/2022 00:14,Alagoinhas,Angra dos Reis,28,Cancelled,16,350,Terminal B
+3229,JetBlue,9/4/2022 17:33,Maiorca,Wanga,1,Delayed,12,488,Terminal A
+2553,United,9/8/2022 05:21,Jiuchenggong,Altuf’yevskiy,47,Delayed,18,163,Terminal C
+8413,JetBlue,9/19/2022 22:30,Tanggung,Carvalhos,1,Cancelled,19,29,Terminal A
+5054,Southwest,3/13/2022 12:25,Longxian Chengguanzhen,Banjar Petak,47,Cancelled,5,348,Terminal B
+1842,Southwest,1/1/2022 00:58,Konispol,Soriano,36,Cancelled,9,318,Terminal C
+2145,United,8/30/2022 11:43,Katovice,Artémida,47,On Time,14,486,Terminal C
+2767,Southwest,11/20/2022 02:19,Strasbourg,Pinhais,35,Cancelled,11,183,Terminal C
+7645,Southwest,7/16/2022 21:06,Limoges,Tianmuhu,35,Delayed,3,280,Terminal C
+4610,United,5/26/2022 19:39,Kapitanivka,Voinjama,2,Cancelled,8,379,Terminal B
+9905,United,2/8/2022 09:38,Astorga,Sukamaju,27,Delayed,16,491,Terminal B
+1548,United,7/5/2022 22:05,Fornos,Xuefeng,37,Cancelled,16,104,Terminal B
+6341,United,11/6/2022 09:07,Jembangan,Lecheng,19,Delayed,15,355,Terminal B
+9586,JetBlue,11/18/2022 02:15,Yanglinwei,Wolonio,7,Delayed,20,360,Terminal B
+9401,JetBlue,6/28/2022 09:16,Zungeru,Ganhe,6,Cancelled,11,154,Terminal B
+1891,Delta,12/6/2022 18:59,Malangwa,Bongandanga,23,On Time,5,179,Terminal A
+3020,Delta,2/14/2022 17:16,Poputnaya,Stettler,44,Delayed,12,44,Terminal A
+4210,Delta,12/6/2022 10:03,Monjarás,Saltsjö-Boo,10,Cancelled,6,295,Terminal C
+4325,Southwest,7/28/2022 23:02,El Fasher,Puerto Montt,9,On Time,5,431,Terminal B
+537,American,9/7/2022 15:55,Borkowice,Pasirgaru,5,On Time,20,76,Terminal A
+8473,Delta,8/24/2022 00:28,Sakhipur,Ariana,8,On Time,9,250,Terminal B
+5837,United,6/4/2022 10:30,Jayyūs,Sangoleng,36,On Time,4,342,Terminal B
+8949,United,6/10/2022 00:53,Batallas,Savitaipale,5,On Time,7,253,Terminal C
+5221,Delta,2/20/2022 19:09,Qiganjidie,Córdoba,35,Delayed,12,346,Terminal A
+5284,Southwest,10/27/2022 12:08,Silvino Lobos,Parang,40,Cancelled,8,339,Terminal C
+3927,American,12/25/2022 12:23,Bandungan Timur,Lansing,49,Delayed,18,436,Terminal C
+9563,Delta,9/22/2022 10:30,Ransang,Kuala Lumpur,12,Cancelled,18,309,Terminal C
+4211,United,10/3/2022 12:03,Campo Alegre,Revelstoke,47,Delayed,18,13,Terminal B
+5088,Southwest,6/16/2022 17:10,Tečovice,Sumberkrajan,1,Delayed,15,99,Terminal A
+6225,Southwest,9/8/2022 01:14,Dolinsk,Smara,21,Cancelled,4,186,Terminal B
+9161,Delta,6/8/2022 11:55,Ino,Milltown,13,Cancelled,7,264,Terminal B
+3723,Delta,5/28/2022 20:40,Bhakkar,Seda,19,Delayed,13,316,Terminal C
+8688,JetBlue,1/28/2022 20:16,Jiatou,Sayama,45,Delayed,7,271,Terminal A
+4187,Delta,8/17/2022 03:08,Gialo,Rosmalen,3,On Time,1,437,Terminal C
+1331,United,8/10/2022 18:45,Guojiaba,Huangcai,39,Cancelled,15,53,Terminal A
+3300,United,1/17/2022 06:14,Épinal,Põltsamaa,14,On Time,17,403,Terminal A
+3523,American,4/1/2022 11:52,Jianchang,Petrovo-Dal’neye,37,Delayed,18,254,Terminal A
+3849,Delta,5/25/2022 16:27,Mikró Monastíri,Krajan Satu,46,Cancelled,4,440,Terminal C
+345,JetBlue,12/11/2022 06:24,Hanshou,Harrismith,40,On Time,15,244,Terminal B
+5727,Southwest,12/14/2022 19:52,Yuyue,Ayapel,34,Delayed,20,142,Terminal A
+2582,Delta,10/7/2022 01:47,Zhulebino,La Ronge,40,Cancelled,1,335,Terminal C
+3872,Delta,3/16/2022 01:48,Calsib,Mosoc Llacta,38,Cancelled,3,147,Terminal C
+6360,American,3/13/2022 15:59,Sunne,Budziszewice,39,Cancelled,17,373,Terminal B
+694,United,11/18/2022 22:51,Kara Suu,Bapska,11,On Time,3,309,Terminal B
+7999,United,8/11/2022 03:46,Yeyik,Rejanegara,16,On Time,6,47,Terminal A
+6252,United,12/2/2022 08:45,Perushtitsa,El Jícaro,31,Cancelled,10,6,Terminal C
+2199,United,6/17/2022 08:50,Xiacang,Huanggang,2,Cancelled,4,248,Terminal C
+6803,JetBlue,2/3/2022 01:15,Were,Qiaolin,7,On Time,3,90,Terminal C
+1999,United,8/1/2022 15:26,Rio Novo do Sul,Narowlya,45,On Time,3,270,Terminal B
+2070,Southwest,11/26/2022 11:50,Jāti,Rincón,25,Delayed,3,424,Terminal C
+8981,Southwest,4/21/2022 05:08,Vegreville,San Pedro Pinula,4,On Time,12,498,Terminal B
+8792,American,9/3/2022 18:13,Leteki,Svislach,23,On Time,19,271,Terminal C
+5484,American,8/30/2022 12:15,Aldeia do Bispo,Ratenggoji,47,On Time,4,229,Terminal A
+5153,Delta,3/30/2022 22:29,Baitang,Doushaguan,20,On Time,16,464,Terminal A
+1087,JetBlue,2/21/2022 05:31,Bissorã,Weligama,19,Cancelled,3,264,Terminal B
+4898,Delta,2/11/2022 16:36,Garland,Xinxu,49,Cancelled,5,123,Terminal B
+2879,American,7/16/2022 01:59,Brejo da Madre de Deus,Sukadami,45,On Time,3,176,Terminal A
+5907,Delta,12/12/2022 02:13,Psachná,Marignane,8,Delayed,20,225,Terminal C
+947,American,10/11/2022 20:05,Grajaú,Milano,10,Delayed,8,89,Terminal A
+2145,Delta,4/24/2022 23:21,Pithoro,Courbevoie,5,Delayed,15,403,Terminal A
+9351,JetBlue,11/21/2022 06:58,Nikhom Phattana,Gävle,13,On Time,14,273,Terminal A
+9379,Southwest,8/12/2022 21:38,Nong Phok,Datarsitu,37,Delayed,17,355,Terminal A
+5911,American,1/27/2022 01:26,Jincun,Bandung,31,On Time,14,298,Terminal A
+4224,United,1/27/2022 03:01,Novoarkhanhel’s’k,Mafra,47,Cancelled,11,302,Terminal C
+7731,JetBlue,6/13/2022 22:00,Crauthem,Guaporé,40,Cancelled,5,283,Terminal C
+3968,American,11/16/2022 23:39,La Cruz,Onoda,50,Delayed,11,227,Terminal A
+2912,JetBlue,6/5/2022 20:28,Santo Amaro,Suphan Buri,6,On Time,17,441,Terminal C
+4489,JetBlue,1/5/2022 11:25,Acevedo,Schellenberg,23,Delayed,5,91,Terminal B
+443,Delta,7/22/2022 03:40,Bakungan,Rawannawi Village,11,Cancelled,19,353,Terminal C
+1813,Southwest,1/4/2022 19:42,Falun,Xinjie,49,Delayed,17,341,Terminal B
+8836,United,10/6/2022 07:52,Marialva,Koryukivka,45,Delayed,17,465,Terminal A
+4894,Southwest,8/27/2022 06:49,Marcabamba,Ābyek,14,Cancelled,20,329,Terminal B
+9768,JetBlue,1/17/2022 21:06,Pengwan,Brušperk,23,Delayed,18,258,Terminal C
+8924,Delta,6/6/2022 17:52,Vyaz’ma,Xipu,46,Delayed,17,15,Terminal B
+5946,Southwest,2/22/2022 12:04,Kafr az Zayyāt,Créteil,22,Delayed,11,168,Terminal B
+375,JetBlue,6/25/2022 23:47,Gijon,Floda,42,Cancelled,3,383,Terminal C
+501,Southwest,6/30/2022 13:55,Kupahandap,Phanat Nikhom,49,Delayed,3,117,Terminal B
+3628,United,4/16/2022 10:13,Wola Sernicka,Pylaía,33,On Time,20,134,Terminal A
+4326,JetBlue,2/27/2022 16:35,Fengyang,Huilong,14,On Time,6,166,Terminal C
+2707,Delta,9/10/2022 04:58,Vrbno pod Pradědem,Nkoteng,45,Cancelled,3,153,Terminal B
+3478,JetBlue,12/19/2022 06:05,Västra Frölunda,Aíyira,19,Delayed,16,272,Terminal C
+7628,United,6/20/2022 10:12,Monte Alegre,Vargön,19,Cancelled,9,421,Terminal A
+841,United,1/10/2022 07:25,Dazhongzhuang,Jianba,36,Delayed,10,66,Terminal A
+6137,United,4/11/2022 19:30,Altavista,Masarayao,17,Cancelled,2,185,Terminal A
+9286,Southwest,8/27/2022 15:01,Timezgadiouine,Quán Hàu,33,Cancelled,15,228,Terminal C
+4150,Delta,1/8/2022 01:42,Otrokovice,Rixinhe,12,On Time,2,462,Terminal B
+8118,JetBlue,4/9/2022 16:59,Tsu-shi,Marquard,26,Cancelled,14,75,Terminal B
+1861,Delta,7/18/2022 17:46,Lembongan Kawan,Pīr jo Goth,46,On Time,1,459,Terminal A
+9916,Delta,11/28/2022 16:45,Sapucaia,Sumuragung,32,Cancelled,7,28,Terminal C
+8773,American,10/22/2022 08:23,Duanjia,Dzoraghbyur,5,Delayed,19,165,Terminal C
+9859,Delta,10/5/2022 19:40,Narong,Koungou,27,Cancelled,5,124,Terminal C
+9916,Delta,5/6/2022 15:34,San Pablo,Estique,48,Cancelled,13,121,Terminal B
+9524,Southwest,6/24/2022 12:45,Gulbene,Wangpu,9,Delayed,15,406,Terminal C
+2505,Delta,1/21/2022 11:54,Katipunan,Cần Giờ,45,Delayed,18,322,Terminal C
+1561,Southwest,10/13/2022 05:44,Kowalewo Pomorskie,Gang,24,Delayed,6,23,Terminal A
+6355,American,10/17/2022 15:35,Herrera,Tonghu,45,On Time,18,311,Terminal C
+9449,American,3/18/2022 03:50,Babahoyo,Salvacion,12,Cancelled,18,480,Terminal A
+8984,American,12/24/2022 12:26,Gaofeng,Portela,42,Cancelled,2,388,Terminal C
+7274,American,8/8/2022 23:32,San Francisco,Dikou,25,Cancelled,16,298,Terminal B
+4211,American,7/5/2022 15:59,Brongkalan,Sulak,34,Cancelled,14,144,Terminal A
+9968,Southwest,10/23/2022 10:55,Talitsa,Gävle,24,Cancelled,7,232,Terminal A
+7772,JetBlue,2/4/2022 19:02,Beranci,Krajan Timur Mlokorejo,43,On Time,16,381,Terminal A
+583,Delta,12/29/2022 08:55,Cap Malheureux,Argayash,31,Delayed,12,303,Terminal C
+4724,Delta,9/14/2022 14:53,Hampton,Hagonoy,42,Delayed,8,443,Terminal A
+4458,JetBlue,3/3/2022 03:39,Tan-Tan,Razan,29,On Time,7,124,Terminal C
+7791,Delta,4/12/2022 02:05,Winburg,Quinta,26,Cancelled,10,22,Terminal A
+8308,Southwest,6/30/2022 19:17,Albany,Independencia,49,Cancelled,17,228,Terminal B
+8511,American,12/7/2022 11:39,Caçador,Dutsin Ma,21,Cancelled,16,59,Terminal C
+1183,Southwest,11/9/2022 06:38,Chashan,Tsagaandörvölj,38,Cancelled,4,397,Terminal C
+6426,American,11/3/2022 22:01,Jinanten,Pregradnaya,41,Cancelled,10,285,Terminal C
+188,Delta,10/1/2022 14:05,Hoima,Ormož,27,Cancelled,4,390,Terminal A
+8631,Southwest,12/3/2022 19:43,Xinxing,Qingdao,25,On Time,9,287,Terminal B

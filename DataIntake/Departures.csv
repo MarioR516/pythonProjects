@@ -1,0 +1,1001 @@
+flight_number,airline,destination,departure_time,gate_number,boarding_status,passenger_count,flight_status,delay_duration,departure_terminal
+3020,Southwest,Ålesund Airport,8/13/2022 13:55,D4,Delayed,69,In Air,304,Terminal 4
+5000,JetBlue,Peenemünde Airport,9/14/2022 23:59,C3,Boarding,112,Scheduled,136,Terminal 1
+3293,JetBlue,Francis S Gabreski Airport,3/12/2022 08:26,B2,Departed,487,In Air,353,Terminal 2
+9734,United,Alfredo Vásquez Cobo International Airport,10/21/2022 16:14,B2,On Time,430,In Air,73,Terminal 1
+359,Southwest,Kamarang Airport,3/30/2022 17:55,A1,Boarding,117,Landed,5,Terminal 2
+1661,American,Axum Airport,10/26/2022 19:53,D4,Boarding,410,In Air,89,Terminal 4
+2539,Southwest,Levelock Airport,5/31/2022 21:12,B2,Departed,305,Scheduled,185,Terminal 4
+860,Southwest,Saint Louis Airport,11/2/2022 02:38,B2,Delayed,171,Cancelled,273,Terminal 2
+8949,Southwest,Tte. Julio Gallardo Airport,5/18/2022 23:53,C3,On Time,378,In Air,263,Terminal 1
+8977,Delta,Omkalai Airport,3/14/2022 04:39,B2,On Time,16,In Air,88,Terminal 3
+4453,United,Departi Parbo Airport,12/17/2022 09:02,B2,Departed,430,Cancelled,60,Terminal 2
+5496,JetBlue,Mkuze Airport,7/29/2022 17:20,B2,On Time,398,Scheduled,43,Terminal 2
+6506,Southwest,San Carlos De Bariloche Airport,3/16/2022 20:34,C3,Boarding,386,Scheduled,275,Terminal 4
+8794,Delta,Cavern City Air Terminal,10/5/2022 07:15,D4,On Time,361,In Air,192,Terminal 1
+5042,Delta,Khost Airport,3/26/2022 09:50,B2,Departed,82,Cancelled,2,Terminal 1
+6023,Delta,Qayyarah West Airport,8/5/2022 06:43,B2,On Time,417,Scheduled,31,Terminal 2
+9265,Delta,Doomadgee Airport,10/15/2022 06:23,A1,Boarding,208,Cancelled,17,Terminal 3
+9937,Southwest,Albury Airport,2/22/2022 18:06,D4,On Time,397,Cancelled,46,Terminal 1
+6129,American,Shinyanga Airport,8/20/2022 08:30,C3,Departed,268,Scheduled,358,Terminal 3
+6477,Delta,Los Chiles Airport,12/13/2022 04:42,D4,Delayed,246,Cancelled,300,Terminal 3
+1102,Delta,Gods Lake Narrows Airport,10/7/2022 05:04,B2,Delayed,428,In Air,257,Terminal 2
+3047,American,Tulcea Airport,9/21/2022 06:59,C3,Departed,402,Cancelled,196,Terminal 4
+1773,American,Nephi Municipal Airport,5/14/2022 02:26,C3,Departed,303,In Air,219,Terminal 4
+7129,Delta,San Nicolas Airport,2/9/2022 02:56,B2,On Time,56,Scheduled,56,Terminal 1
+9945,American,Lawrenceville Brunswick Municipal Airport,4/24/2022 03:57,E5,On Time,29,In Air,123,Terminal 3
+2523,JetBlue,Podgorica Airport,1/5/2022 18:13,D4,Delayed,152,Scheduled,315,Terminal 3
+4333,JetBlue,Herat Airport,8/13/2022 16:11,C3,Boarding,364,Cancelled,88,Terminal 3
+4505,United,Marsa Brega Airport,8/5/2022 19:49,B2,Delayed,227,Scheduled,312,Terminal 2
+1879,United,La Grande/Union County Airport,1/1/2022 06:19,A1,On Time,223,In Air,228,Terminal 1
+8005,Southwest,Yola Airport,9/17/2022 06:46,A1,Boarding,154,Scheduled,299,Terminal 4
+5191,Southwest,Silangit Airport,10/15/2022 22:47,D4,Delayed,205,Cancelled,266,Terminal 2
+5510,Delta,Cudal Airport,4/19/2022 02:21,C3,Departed,321,Cancelled,49,Terminal 3
+284,American,Inverway Airport,12/9/2022 08:13,E5,Departed,423,In Air,310,Terminal 4
+3968,Southwest,Walnut Ridge Regional Airport,7/9/2022 04:07,B2,Boarding,174,Landed,228,Terminal 3
+7056,Southwest,University Oxford Airport,12/6/2022 13:28,E5,Boarding,29,Cancelled,278,Terminal 4
+6810,Southwest,Sedalia Memorial Airport,5/22/2022 16:02,D4,On Time,429,Landed,308,Terminal 4
+3970,Delta,Roebourne Airport,5/1/2022 20:59,B2,On Time,496,Landed,66,Terminal 1
+9743,American,Vunisea Airport,4/22/2022 21:21,E5,Departed,52,Cancelled,72,Terminal 2
+7893,JetBlue,Ajaccio-Napoléon Bonaparte Airport,11/14/2022 06:41,C3,On Time,191,In Air,192,Terminal 1
+8551,JetBlue,Grenoble-Isère Airport,1/3/2022 00:57,E5,Boarding,477,Scheduled,27,Terminal 1
+7996,Southwest,Basanth Nagar Airport,8/27/2022 17:56,B2,Boarding,431,Scheduled,241,Terminal 4
+9833,United,Mossel Bay Airport,12/9/2022 10:22,A1,Boarding,427,Scheduled,179,Terminal 4
+3428,JetBlue,Comandante Espora Airport,5/17/2022 13:57,D4,Departed,244,Landed,150,Terminal 3
+8707,Southwest,İncirlik Air Base,8/16/2022 17:51,C3,Departed,179,In Air,158,Terminal 2
+7914,JetBlue,Drift River Airport,8/2/2022 19:58,B2,On Time,435,Cancelled,276,Terminal 4
+7827,Delta,Mirny Airport,7/4/2022 03:54,B2,On Time,317,Cancelled,314,Terminal 4
+5136,JetBlue,Granville Airport,4/21/2022 06:26,A1,Departed,483,Cancelled,240,Terminal 2
+3280,American,Boulia Airport,7/20/2022 01:01,C3,On Time,474,Scheduled,267,Terminal 2
+7682,American,Pocono Mountains Municipal Airport,9/2/2022 10:18,E5,Departed,142,Scheduled,129,Terminal 3
+6362,United,General Santos International Airport,10/19/2022 11:17,B2,On Time,488,Cancelled,276,Terminal 4
+117,Delta,Alghero-Fertilia Airport,10/26/2022 09:14,E5,Boarding,3,In Air,347,Terminal 1
+6295,American,Yaoqiang Airport,3/3/2022 19:54,A1,Departed,381,Cancelled,40,Terminal 2
+9300,JetBlue,Portoroz Airport,6/20/2022 13:41,A1,Departed,168,Scheduled,112,Terminal 1
+3821,United,Johnson County Executive Airport,5/14/2022 08:29,B2,Boarding,309,In Air,342,Terminal 1
+679,United,Snohomish County (Paine Field) Airport,4/15/2022 23:37,E5,Delayed,212,Scheduled,60,Terminal 4
+9179,United,Coondewanna Airport,9/2/2022 01:23,B2,Boarding,449,In Air,36,Terminal 4
+3327,Southwest,Tokachi-Obihiro Airport,10/16/2022 18:53,A1,Departed,201,Cancelled,285,Terminal 2
+8338,Delta,Samangoky Airport,8/30/2022 05:28,E5,Delayed,350,Cancelled,330,Terminal 4
+2450,Southwest,Valdez Pioneer Field,8/26/2022 13:18,B2,Delayed,299,Scheduled,292,Terminal 4
+1594,United,Alferez Armando Rodriguez Airport,8/20/2022 13:01,B2,On Time,363,Scheduled,317,Terminal 4
+874,Southwest,Lauriston Airport,1/13/2022 11:09,E5,On Time,317,Cancelled,288,Terminal 4
+9539,Delta,Newman Airport,1/11/2022 19:18,B2,Departed,438,Cancelled,259,Terminal 3
+7644,United,Ralph Wien Memorial Airport,7/20/2022 12:42,B2,Departed,287,Cancelled,89,Terminal 3
+6774,JetBlue,Northeast Kingdom International Airport,11/29/2022 10:28,B2,Delayed,149,Cancelled,27,Terminal 3
+9993,Delta,Vivigani Airfield,8/27/2022 01:52,D4,Departed,312,Scheduled,178,Terminal 4
+3293,Delta,Heglig Airport,11/25/2022 04:37,A1,On Time,147,In Air,122,Terminal 1
+7069,American,Makkovik Airport,10/26/2022 03:41,A1,Departed,399,Scheduled,195,Terminal 3
+4569,Delta,Asau Airport,12/21/2022 09:34,C3,Delayed,177,Scheduled,19,Terminal 3
+2466,American,Mejit Atoll Airport,5/3/2022 02:14,E5,Departed,200,Scheduled,23,Terminal 3
+3121,Delta,Vance W. Amory International Airport,6/12/2022 13:16,A1,Delayed,341,Landed,3,Terminal 2
+8061,Delta,Wiesbaden Army Airfield,5/16/2022 07:14,C3,Delayed,495,Landed,314,Terminal 2
+4592,American,Kennett Memorial Airport,9/19/2022 18:46,B2,Departed,118,In Air,129,Terminal 4
+5689,JetBlue,Rocha Airport,6/12/2022 22:08,C3,Delayed,488,Scheduled,184,Terminal 2
+2534,United,Kearney Regional Airport,1/8/2022 13:20,A1,Delayed,5,Cancelled,30,Terminal 1
+2791,United,Kuwait International Airport,2/23/2022 03:47,A1,Boarding,134,Landed,35,Terminal 1
+8635,American,Komako Airport,6/26/2022 11:28,D4,Departed,225,Cancelled,192,Terminal 4
+9741,United,Salt Cay Airport,5/14/2022 10:01,A1,Boarding,228,Scheduled,235,Terminal 1
+657,American,Ziguinchor Airport,2/15/2022 21:36,A1,Departed,272,In Air,64,Terminal 4
+9373,American,Jaipur International Airport,5/28/2022 20:52,C3,Delayed,494,Landed,218,Terminal 2
+7215,Delta,Heiweni Airport,12/6/2022 21:56,A1,Delayed,354,Scheduled,305,Terminal 1
+8606,Delta,Sliač Airport,8/17/2022 00:04,A1,Boarding,370,Landed,152,Terminal 3
+453,JetBlue,Lindu Airport,4/8/2022 01:40,D4,Departed,144,Landed,297,Terminal 2
+5119,Southwest,Sardar-e-Jangal Airport,4/3/2022 06:03,D4,Delayed,71,Landed,170,Terminal 2
+9632,Delta,Basankusu Airport,8/9/2022 02:56,A1,On Time,333,Scheduled,176,Terminal 1
+5154,American,Klagenfurt Airport,11/27/2022 16:46,D4,Boarding,376,Scheduled,235,Terminal 4
+355,JetBlue,Sambu Airport,4/22/2022 11:49,A1,On Time,105,Scheduled,90,Terminal 1
+1963,United,Ponta Pelada Airport,7/22/2022 07:02,E5,Boarding,161,Scheduled,45,Terminal 2
+3887,United,Arxan Yi'ershi Airport,11/29/2022 03:28,A1,Departed,392,Cancelled,359,Terminal 2
+9752,United,Hartsfield Jackson Atlanta International Airport,10/20/2022 23:09,E5,On Time,148,Cancelled,355,Terminal 4
+4012,American,Boscobel Aerodrome,2/12/2022 22:00,D4,On Time,69,Landed,182,Terminal 2
+149,JetBlue,General Pedro Jose Mendez International Airport,7/26/2022 22:23,D4,Boarding,157,Scheduled,135,Terminal 4
+2809,United,El Porvenir Airport,7/31/2022 06:47,E5,Boarding,368,Landed,212,Terminal 3
+2210,Delta,Lamerd Airport,5/24/2022 03:25,C3,Departed,88,Landed,141,Terminal 4
+1992,Southwest,Luang Phabang International Airport,6/21/2022 02:00,A1,Departed,424,Landed,144,Terminal 4
+145,Southwest,Chinggis Khaan International Airport,11/21/2022 18:45,A1,Departed,105,In Air,171,Terminal 2
+5111,United,Asahikawa Airport,6/22/2022 10:15,C3,Delayed,372,Landed,301,Terminal 2
+7230,American,Vinh Long Airfield,4/4/2022 17:27,E5,On Time,168,In Air,274,Terminal 2
+3579,Delta,Leknes Airport,4/18/2022 06:38,A1,Departed,355,Landed,310,Terminal 4
+8996,Delta,Arenal Airport,6/3/2022 19:14,C3,Delayed,440,Scheduled,317,Terminal 2
+3937,United,New River Valley Airport,1/22/2022 20:22,D4,Delayed,19,In Air,161,Terminal 4
+871,American,Smith Field,2/24/2022 05:11,C3,Delayed,131,Cancelled,166,Terminal 1
+4368,United,Upiara Airport,8/2/2022 21:23,B2,Delayed,337,Landed,189,Terminal 1
+7215,United,Gemena Airport,10/22/2022 18:18,A1,On Time,405,Cancelled,327,Terminal 1
+2963,United,San Antonio International Airport,4/22/2022 16:13,D4,Delayed,256,In Air,204,Terminal 1
+8261,American,Khujirt Airport,7/31/2022 07:05,B2,Delayed,340,Scheduled,316,Terminal 2
+7395,American,Imperial Municipal Airport,3/3/2022 15:01,D4,Departed,64,Landed,286,Terminal 3
+8673,American,Fullerton Municipal Airport,9/27/2022 10:42,D4,Boarding,480,In Air,269,Terminal 2
+9751,Delta,Ubari Airport,2/28/2022 15:19,D4,Boarding,165,In Air,17,Terminal 3
+300,United,Kasama Airport,6/22/2022 13:47,B2,On Time,28,Cancelled,230,Terminal 2
+9960,Southwest,Sukhumi Dranda Airport,9/9/2022 06:39,C3,On Time,319,Landed,57,Terminal 2
+8593,United,Ingeniero Alberto Acuña Ongay International Airport,10/18/2022 07:04,D4,Boarding,409,Scheduled,34,Terminal 3
+7558,JetBlue,Puerto Rico Airport,2/15/2022 19:53,D4,On Time,387,Cancelled,289,Terminal 3
+4197,American,North Caicos Airport,12/5/2022 07:56,A1,Delayed,257,Landed,38,Terminal 1
+8679,American,Hihifo Airport,2/13/2022 12:01,B2,Boarding,88,In Air,162,Terminal 4
+5899,Southwest,Auburn Municipal Airport,12/14/2022 16:26,B2,Departed,444,Cancelled,222,Terminal 2
+2900,JetBlue,RAF Linton-On-Ouse,8/21/2022 09:39,B2,On Time,54,Landed,276,Terminal 2
+6743,JetBlue,Oranjemund Airport,1/21/2022 03:08,D4,Boarding,216,Cancelled,9,Terminal 1
+4343,Southwest,Lubang Airport,12/21/2022 02:21,C3,Boarding,288,Landed,187,Terminal 1
+6565,JetBlue,Winter Haven Regional Airport - Gilbert Field,7/9/2022 13:41,E5,Boarding,156,Landed,330,Terminal 2
+6189,JetBlue,Rostov-on-Don Airport,9/17/2022 22:05,B2,On Time,499,Scheduled,26,Terminal 2
+2093,Southwest,Paranaíba Airport,3/2/2022 18:56,E5,Departed,461,Scheduled,246,Terminal 4
+3085,United,Okadama Airport,5/30/2022 03:21,B2,On Time,249,Scheduled,214,Terminal 4
+425,JetBlue,Kōchi Ryōma Airport,3/26/2022 05:23,E5,Boarding,186,In Air,61,Terminal 3
+7003,Southwest,Yes Bay Lodge Seaplane Base,9/29/2022 01:09,E5,Departed,431,Scheduled,212,Terminal 2
+319,American,Kursk East Airport,4/23/2022 11:14,C3,Departed,45,Landed,122,Terminal 2
+8306,United,Jask Airport,9/10/2022 07:48,D4,Delayed,377,Scheduled,267,Terminal 1
+675,Delta,Fazenda São João Airport,6/17/2022 02:32,B2,Departed,194,Cancelled,305,Terminal 2
+8697,Delta,Beja Airport / Airbase,9/21/2022 03:23,D4,Boarding,283,Landed,213,Terminal 2
+6612,Southwest,D. Casimiro Szlapelis Airport,12/18/2022 09:54,D4,On Time,324,Cancelled,268,Terminal 4
+390,Delta,Mount Pleasant Municipal Airport,3/8/2022 21:46,D4,Boarding,43,Cancelled,216,Terminal 3
+8418,American,Sydney / J.A. Douglas McCurdy Airport,2/9/2022 19:51,D4,Departed,446,Landed,264,Terminal 2
+3445,JetBlue,Jamba Airport,2/2/2022 23:13,E5,Boarding,106,Cancelled,308,Terminal 1
+5220,United,Gordil Airport,11/15/2022 08:48,C3,Departed,311,Scheduled,72,Terminal 1
+9312,American,Brigadeiro Camarão Airport,9/13/2022 16:48,C3,Delayed,240,In Air,218,Terminal 3
+6840,Southwest,William R Fairchild International Airport,3/19/2022 01:48,C3,Boarding,322,Scheduled,310,Terminal 1
+8314,Delta,Spartanburg Downtown Memorial Airport,12/15/2022 00:48,D4,Boarding,378,Scheduled,84,Terminal 2
+5042,United,El Petén Airport,9/18/2022 18:42,A1,Delayed,103,Scheduled,188,Terminal 3
+6587,Southwest,Angoram Airport,9/21/2022 16:29,C3,Boarding,199,In Air,204,Terminal 2
+8474,United,Cascade Airport,7/13/2022 19:22,D4,Delayed,187,Landed,340,Terminal 3
+1887,Delta,Smith Field,9/27/2022 17:47,C3,On Time,337,Cancelled,126,Terminal 2
+1121,American,Lesobeng Airport,10/17/2022 20:52,E5,Departed,119,In Air,236,Terminal 2
+7187,JetBlue,Hughes Airport,12/16/2022 07:56,C3,Boarding,309,Landed,154,Terminal 3
+9776,Southwest,Lonorore Airport,5/12/2022 12:02,E5,Delayed,106,In Air,127,Terminal 2
+8535,United,Manono Airport,4/25/2022 22:21,A1,Delayed,280,Scheduled,350,Terminal 2
+8154,United,Yangon International Airport,4/26/2022 11:24,A1,Delayed,499,Landed,360,Terminal 3
+4173,JetBlue,"Wellsville Municipal Arpt,Tarantine Field",1/4/2022 09:00,D4,Delayed,389,In Air,180,Terminal 2
+2031,Southwest,Hamburg Airport,4/14/2022 12:44,A1,Boarding,121,Cancelled,116,Terminal 2
+4651,JetBlue,Banning Municipal Airport,7/14/2022 06:52,C3,On Time,272,Scheduled,208,Terminal 3
+9787,United,Oroville Municipal Airport,10/23/2022 22:40,D4,Delayed,248,Landed,127,Terminal 3
+696,Southwest,Bareilly Air Force Station,2/23/2022 13:22,D4,Departed,210,Cancelled,102,Terminal 1
+3397,United,Regional de Maringá - Sílvio Nane Junior Airport,11/2/2022 14:57,A1,Departed,498,Cancelled,276,Terminal 3
+7545,Southwest,Ofu Village Airport,12/7/2022 20:18,B2,Boarding,190,Scheduled,55,Terminal 3
+6316,Southwest,Benton Field,11/3/2022 15:11,A1,Departed,271,Landed,180,Terminal 4
+5260,United,Kiryat Shmona Airport,3/2/2022 11:45,E5,Delayed,241,Landed,138,Terminal 2
+632,American,Siglufjörður Airport,2/18/2022 12:29,A1,Delayed,364,Landed,258,Terminal 3
+210,Southwest,Iwo Jima Airport,12/14/2022 06:12,E5,Departed,190,Landed,202,Terminal 3
+479,Southwest,Glen Innes Airport,7/7/2022 10:13,D4,Departed,388,Scheduled,237,Terminal 1
+1697,United,Clarence A. Bain Airport,11/20/2022 13:36,A1,Departed,256,Cancelled,149,Terminal 2
+8444,American,Sheridan County Airport,9/20/2022 20:49,B2,On Time,342,Landed,349,Terminal 2
+2737,Delta,Pukaki Airport,6/12/2022 18:24,B2,Boarding,25,Cancelled,193,Terminal 1
+6508,Southwest,Manihiki Island Airport,6/8/2022 20:47,A1,On Time,497,Scheduled,117,Terminal 3
+1917,JetBlue,Ryan's Creek Aerodrome,3/1/2022 00:14,E5,Boarding,466,Scheduled,6,Terminal 1
+7668,Southwest,Valcheta Airport,9/16/2022 08:57,E5,Delayed,262,Landed,201,Terminal 1
+8747,United,Saint John Airport,3/9/2022 13:43,E5,Boarding,234,Cancelled,259,Terminal 4
+6587,Southwest,O'Neal Airport,10/3/2022 06:48,A1,On Time,254,Scheduled,331,Terminal 2
+6553,American,King Khaled Air Base,6/11/2022 23:50,E5,Departed,435,Cancelled,277,Terminal 2
+3616,JetBlue,Penza Airport,1/12/2022 09:21,B2,Delayed,179,Cancelled,81,Terminal 2
+654,American,Provo Municipal Airport,4/11/2022 08:01,A1,On Time,178,Landed,345,Terminal 1
+6418,United,Arapongas Airport,1/18/2022 09:42,E5,On Time,55,Landed,196,Terminal 2
+1474,United,Shun Tak Heliport,1/1/2022 09:37,E5,Delayed,67,In Air,38,Terminal 1
+8010,United,Usina Mandu Airport,4/30/2022 01:11,E5,Boarding,475,Cancelled,88,Terminal 3
+1673,JetBlue,Kololo Airstrip,7/1/2022 00:00,E5,Boarding,245,In Air,253,Terminal 2
+2439,Delta,Alto Molocue Airport,4/15/2022 05:52,B2,Delayed,263,Scheduled,6,Terminal 2
+8259,United,Hinthada Airport,10/28/2022 22:05,E5,On Time,218,Cancelled,190,Terminal 2
+8700,United,Amboseli Airport,6/16/2022 09:58,D4,On Time,181,Cancelled,85,Terminal 4
+6791,American,Reggio Calabria Airport,9/16/2022 16:24,B2,Boarding,475,In Air,160,Terminal 4
+2125,American,Bisho Airport,6/2/2022 02:06,E5,On Time,498,Scheduled,7,Terminal 1
+6066,Delta,Nukutavake Airport,12/19/2022 08:33,A1,Boarding,486,Landed,214,Terminal 2
+2168,JetBlue,Kirksville Regional Airport,1/25/2022 05:24,E5,Delayed,378,Scheduled,43,Terminal 3
+1948,Southwest,Tri-State/Milton J. Ferguson Field,7/19/2022 02:21,B2,Boarding,311,Scheduled,330,Terminal 2
+2210,Southwest,Elkhart Municipal Airport,2/21/2022 20:52,C3,Delayed,264,Landed,283,Terminal 3
+3349,United,Cushing Municipal Airport,2/13/2022 16:25,C3,Departed,495,In Air,147,Terminal 2
+4603,Southwest,Tuluksak Airport,7/17/2022 04:07,B2,Delayed,418,Cancelled,149,Terminal 4
+1896,Delta,Sandane Airport (Anda),11/10/2022 12:39,E5,Boarding,301,In Air,201,Terminal 2
+6552,American,Nuku Hiva Airport,5/17/2022 09:42,D4,On Time,393,Landed,80,Terminal 4
+8515,Delta,Namlea Airport,12/13/2022 02:03,E5,Delayed,38,Landed,170,Terminal 1
+6824,Southwest,Daniel Oduber Quiros International Airport,12/10/2022 11:09,C3,Departed,364,In Air,147,Terminal 4
+1433,Delta,Winter Haven Regional Airport - Gilbert Field,12/29/2022 01:38,B2,Boarding,191,Landed,164,Terminal 4
+4278,United,Rundu Airport,5/8/2022 02:48,A1,Delayed,254,In Air,27,Terminal 2
+8171,JetBlue,Harar Meda Airport,9/25/2022 13:01,E5,Departed,305,Cancelled,40,Terminal 1
+7327,JetBlue,Rafael Cabrera Airport,1/6/2022 13:24,C3,Boarding,148,Cancelled,265,Terminal 4
+6193,JetBlue,Port Simpson Seaplane Base,10/6/2022 02:17,C3,On Time,44,Landed,207,Terminal 2
+1855,United,Arly Airport,7/23/2022 13:49,D4,Delayed,412,In Air,218,Terminal 3
+3942,American,Splane Memorial Airport,5/10/2022 04:31,B2,Departed,332,Scheduled,139,Terminal 3
+4262,American,Daly River Airport,2/5/2022 23:34,A1,On Time,99,Cancelled,298,Terminal 2
+8227,United,Bursa Yenişehir Airport,12/10/2022 05:24,E5,Boarding,8,In Air,140,Terminal 2
+8295,Southwest,Tezu Airport,10/8/2022 00:00,D4,On Time,367,Cancelled,202,Terminal 4
+1695,American,Sandstone Airport,11/6/2022 00:18,C3,On Time,116,Scheduled,132,Terminal 4
+1968,United,Muskegon County Airport,3/10/2022 14:24,B2,Delayed,429,Landed,120,Terminal 4
+9885,American,Ngot Nzoungou Airport,7/18/2022 12:25,C3,On Time,285,Scheduled,214,Terminal 3
+6911,Southwest,Laurence G Hanscom Field,4/7/2022 21:07,D4,On Time,490,Landed,68,Terminal 2
+7347,American,Tampere-Pirkkala Airport,5/15/2022 11:42,E5,On Time,13,In Air,46,Terminal 2
+110,Southwest,David Constantijn Saudale Airport,2/8/2022 03:19,D4,Boarding,274,Landed,285,Terminal 3
+4271,Delta,Maranggo Airport,9/1/2022 23:27,B2,On Time,27,Cancelled,155,Terminal 1
+5058,American,Nkongsamba Airport,6/25/2022 10:51,A1,Boarding,10,In Air,296,Terminal 2
+6054,Southwest,Ndjili International Airport,11/9/2022 11:56,D4,Boarding,145,Landed,162,Terminal 3
+6979,United,Queenstown Airport,12/13/2022 00:49,C3,Delayed,485,In Air,291,Terminal 1
+1940,American,Batuna Aerodrome,6/27/2022 06:16,A1,Departed,163,Scheduled,270,Terminal 1
+6258,Delta,Hwange (Town) Airport,8/18/2022 14:52,D4,Departed,385,Landed,109,Terminal 3
+6055,American,Fabio Alberto Leon Bentley Airport,2/1/2022 20:40,D4,Delayed,358,Scheduled,14,Terminal 3
+4367,JetBlue,"Zakynthos International Airport ""Dionysios Solomos""",5/28/2022 22:37,B2,On Time,337,Cancelled,7,Terminal 3
+7304,United,Finley Airport,6/16/2022 18:34,D4,Boarding,352,Landed,285,Terminal 1
+7376,JetBlue,Tekadu Airport,5/12/2022 18:06,C3,Boarding,461,Cancelled,272,Terminal 2
+7593,JetBlue,Lake Brooks Seaplane Base,4/9/2022 19:15,C3,Boarding,395,Scheduled,312,Terminal 3
+6274,United,Northeast Ohio Regional Airport,9/23/2022 05:42,E5,Departed,280,Cancelled,19,Terminal 3
+9253,Southwest,Bowman Field,2/15/2022 08:05,D4,On Time,315,Landed,64,Terminal 1
+2318,Delta,Offutt Air Force Base,7/17/2022 16:30,A1,On Time,492,Scheduled,259,Terminal 4
+516,Delta,Magdalena Airport,12/26/2022 12:14,A1,On Time,326,Landed,194,Terminal 1
+1598,United,Catumbela Airport,9/16/2022 22:15,D4,Departed,195,In Air,158,Terminal 3
+2088,Delta,Flughafen München-Riem,4/23/2022 12:39,E5,Departed,74,Scheduled,229,Terminal 3
+7845,American,Ahe Airport,2/18/2022 13:57,E5,Departed,376,Landed,109,Terminal 2
+5000,United,Lamar Municipal Airport,5/15/2022 09:26,B2,Boarding,488,Landed,124,Terminal 1
+6683,Southwest,St Johns Industrial Air Park,3/22/2022 10:30,C3,Boarding,212,Scheduled,209,Terminal 3
+8013,Southwest,Kurgan Airport,4/29/2022 22:11,B2,On Time,358,Scheduled,179,Terminal 2
+1988,United,Heide-Büsum Airport,1/16/2022 12:35,D4,Delayed,436,In Air,116,Terminal 1
+3772,United,Junin Airport,7/6/2022 12:49,A1,Delayed,351,Scheduled,105,Terminal 1
+4442,JetBlue,Southport Airport,9/8/2022 15:19,B2,Delayed,258,Cancelled,17,Terminal 3
+7257,JetBlue,Ain Arnat Airport,11/22/2022 14:58,B2,Departed,152,In Air,45,Terminal 1
+794,United,Tatakoto Airport,1/27/2022 09:15,E5,Departed,451,Landed,317,Terminal 3
+7397,Delta,Saenz Peña Airport,7/12/2022 23:48,C3,Departed,252,In Air,283,Terminal 1
+6313,Delta,Sacheon Air Base/Airport,3/20/2022 13:45,E5,Boarding,386,Scheduled,227,Terminal 3
+1856,American,Sary-Arka Airport,5/5/2022 09:04,C3,Departed,82,Cancelled,121,Terminal 3
+7817,United,Zhanjiang Airport,5/21/2022 05:29,B2,Departed,192,Cancelled,86,Terminal 1
+2375,Southwest,Amado Nervo National Airport,2/11/2022 14:11,A1,On Time,302,In Air,351,Terminal 3
+3644,American,Tableland Homestead Airport,12/19/2022 00:14,E5,Departed,150,Scheduled,281,Terminal 4
+6513,American,Huangyan Luqiao Airport,9/24/2022 04:54,A1,Delayed,236,Scheduled,163,Terminal 3
+7518,United,Sardeh Band Airport,8/13/2022 17:17,B2,Delayed,444,Landed,149,Terminal 4
+7814,Delta,Koulamoutou Mabimbi Airport,6/1/2022 18:55,C3,Delayed,168,Scheduled,174,Terminal 3
+9320,Southwest,Warton Airport,1/13/2022 10:14,C3,Departed,112,Scheduled,94,Terminal 2
+4143,Southwest,Linköping City Airport,1/22/2022 18:16,B2,Delayed,65,Landed,178,Terminal 3
+1655,JetBlue,Mulege Airport,6/6/2022 17:14,D4,Delayed,98,In Air,196,Terminal 3
+9382,Southwest,Cuito Cuanavale Airport,3/29/2022 20:36,C3,On Time,164,In Air,100,Terminal 4
+218,American,Flotta Isle Airport,2/24/2022 08:50,B2,Delayed,275,In Air,137,Terminal 2
+3442,JetBlue,Norrköping Airport,4/5/2022 00:11,A1,Departed,160,Cancelled,61,Terminal 4
+142,American,Garaina Airport,4/29/2022 16:40,D4,Boarding,471,Landed,104,Terminal 4
+9727,United,Iokea Airport,2/3/2022 02:59,E5,Boarding,378,Cancelled,1,Terminal 1
+2220,Southwest,Yandina Airport,7/20/2022 02:42,A1,Delayed,187,Scheduled,38,Terminal 2
+7190,Delta,Mirassol Airport,3/28/2022 08:04,D4,Delayed,138,Cancelled,254,Terminal 2
+905,United,Jackson-Medgar Wiley Evers International Airport,4/19/2022 17:42,D4,Boarding,403,Scheduled,295,Terminal 4
+4266,American,El Recreo Airport,3/31/2022 03:53,D4,Delayed,349,Landed,327,Terminal 2
+2061,JetBlue,Loikaw Airport,9/1/2022 17:30,B2,On Time,209,Landed,87,Terminal 2
+116,United,Sept-Îles Airport,9/5/2022 11:29,C3,Boarding,332,Scheduled,132,Terminal 3
+8925,Delta,Valkenburg Naval Air Base,4/11/2022 17:16,E5,Boarding,364,Cancelled,273,Terminal 3
+918,United,Jasper County Airport-Bell Field,9/12/2022 22:45,B2,Delayed,173,Scheduled,59,Terminal 4
+8028,United,Gibraltar Airport,3/3/2022 13:24,B2,Delayed,148,Scheduled,132,Terminal 3
+3548,Southwest,Adampur Airport,7/25/2022 14:45,A1,On Time,211,Scheduled,89,Terminal 2
+3251,American,Aiambak Airport,11/21/2022 04:26,B2,Departed,410,Scheduled,168,Terminal 2
+3806,American,Beihai Airport,6/5/2022 16:28,A1,On Time,33,In Air,157,Terminal 1
+7187,American,Witu Airport,9/6/2022 05:01,A1,Boarding,290,Cancelled,356,Terminal 2
+8365,JetBlue,Bodaybo Airport,12/10/2022 17:38,B2,Boarding,85,Landed,304,Terminal 4
+9087,American,Çanakkale Airport,3/29/2022 09:39,B2,Delayed,155,In Air,296,Terminal 2
+3382,Southwest,Sendai Airport,4/23/2022 01:18,B2,On Time,171,Scheduled,352,Terminal 1
+6217,JetBlue,Matthew Spain Airport,10/14/2022 07:45,E5,Delayed,61,Scheduled,163,Terminal 4
+7631,United,Beverly Municipal Airport,11/13/2022 20:23,A1,On Time,128,Landed,201,Terminal 1
+4868,JetBlue,Narsaq Heliport,7/19/2022 05:24,A1,On Time,173,Scheduled,173,Terminal 1
+9875,United,Cowley Airport,7/17/2022 22:39,B2,Departed,426,In Air,99,Terminal 2
+1718,Delta,Nyingchi Airport,8/3/2022 00:52,D4,Delayed,249,Landed,76,Terminal 4
+2064,Southwest,Shahrekord Airport,3/24/2022 06:09,E5,Delayed,244,Landed,139,Terminal 1
+5058,American,Sardar-e-Jangal Airport,10/11/2022 22:52,C3,Boarding,296,In Air,223,Terminal 2
+7504,United,Fernando Luis Ribas Dominicci Airport,8/22/2022 10:02,D4,Departed,486,Cancelled,98,Terminal 1
+1075,United,Londolovit Airport,6/25/2022 10:58,D4,Departed,18,Cancelled,38,Terminal 3
+4385,Southwest,Kearney Regional Airport,8/10/2022 01:10,E5,Boarding,156,Cancelled,352,Terminal 1
+2561,Delta,Brigadier Antonio Parodi Airport,5/5/2022 03:59,E5,Boarding,405,Landed,82,Terminal 2
+33,United,Propriá Airport,8/19/2022 16:43,C3,Delayed,18,In Air,108,Terminal 1
+2968,Southwest,Gandajika Airport,6/13/2022 22:48,A1,On Time,9,In Air,202,Terminal 3
+796,United,Bendigo Airport,9/6/2022 03:32,E5,Boarding,308,Scheduled,301,Terminal 3
+4695,JetBlue,Yuncheng Guangong Airport,8/16/2022 18:58,D4,Delayed,12,Scheduled,257,Terminal 4
+2711,United,Detroit Metropolitan Wayne County Airport,6/21/2022 16:29,A1,Boarding,126,Scheduled,41,Terminal 4
+6121,Delta,Bagan Airport,10/5/2022 18:45,D4,On Time,207,Cancelled,33,Terminal 2
+8120,Southwest,Leonora Airport,8/9/2022 04:30,E5,Boarding,176,Cancelled,11,Terminal 3
+9906,United,Bunsil Airport,12/2/2022 21:37,D4,Departed,64,In Air,88,Terminal 1
+7178,American,Guernsey Airport,11/18/2022 01:58,C3,Delayed,74,Landed,72,Terminal 2
+4972,Southwest,Anvik Airport,11/14/2022 09:27,B2,Departed,151,Landed,251,Terminal 4
+2292,American,Fréjus Airport,5/20/2022 22:35,B2,On Time,111,Landed,236,Terminal 1
+7319,JetBlue,Angoon Seaplane Base,1/9/2022 11:59,D4,On Time,114,Landed,200,Terminal 4
+8922,Delta,Point Salines International Airport,6/17/2022 09:08,B2,On Time,8,Landed,223,Terminal 4
+313,Southwest,Óbidos Airport,1/23/2022 13:53,A1,Delayed,497,In Air,125,Terminal 2
+4287,JetBlue,Pattaya Airpark,11/19/2022 03:04,E5,On Time,138,Landed,62,Terminal 3
+6350,Southwest,Santos Dumont Airport,6/20/2022 23:43,B2,Boarding,3,Cancelled,13,Terminal 2
+3299,Southwest,Levelock Airport,1/1/2022 07:13,E5,Boarding,94,Cancelled,22,Terminal 3
+4718,Southwest,Frederick Municipal Airport,5/20/2022 11:19,A1,Boarding,105,Cancelled,113,Terminal 3
+4417,American,Toussus-le-Noble Airport,1/17/2022 04:24,C3,On Time,481,In Air,324,Terminal 3
+1300,Delta,Cottbus-Drewitz Airport,10/22/2022 21:16,B2,Departed,42,Cancelled,276,Terminal 2
+3475,United,Guajará-Mirim Airport,1/21/2022 22:25,B2,Delayed,223,Landed,220,Terminal 3
+6119,Southwest,Colon Airport,2/21/2022 14:12,A1,Departed,481,Cancelled,111,Terminal 4
+1651,American,Gillette Campbell County Airport,7/26/2022 21:25,C3,Departed,295,Scheduled,90,Terminal 4
+1339,American,Kickapoo Downtown Airport,3/28/2022 16:52,E5,On Time,140,In Air,333,Terminal 3
+1125,JetBlue,Ganja Airport,1/23/2022 03:04,B2,Boarding,208,Scheduled,351,Terminal 4
+9246,United,Saskylakh Airport,6/6/2022 20:08,E5,Delayed,366,In Air,118,Terminal 1
+9448,JetBlue,Malalaua Airport,2/15/2022 08:54,D4,Delayed,415,In Air,185,Terminal 2
+3166,American,Kimmirut Airport,5/7/2022 23:43,A1,Boarding,23,Scheduled,340,Terminal 2
+8049,JetBlue,Oconee County Regional Airport,1/31/2022 01:47,A1,Delayed,177,Landed,322,Terminal 4
+2282,Delta,Paraparaumu Airport,5/21/2022 04:57,D4,On Time,257,Landed,45,Terminal 2
+8140,JetBlue,Flora Valley Airport,12/1/2022 19:09,E5,Delayed,321,Cancelled,52,Terminal 2
+5373,Southwest,Saniat R'mel Airport,12/9/2022 10:38,E5,Departed,221,Cancelled,228,Terminal 2
+2576,United,Anthony Municipal Airport,1/1/2022 02:36,A1,Departed,489,Cancelled,115,Terminal 1
+5086,Delta,Port Walter Seaplane Base,1/26/2022 14:49,B2,Departed,280,Landed,291,Terminal 1
+833,JetBlue,Kapuskasing Airport,10/27/2022 05:23,B2,Delayed,81,In Air,307,Terminal 1
+2562,Delta,Hervey Bay Airport,12/9/2022 21:54,A1,Delayed,442,Scheduled,172,Terminal 3
+8393,American,Singita Safari Lodge Airport,6/21/2022 18:06,B2,Departed,485,In Air,242,Terminal 3
+5556,American,Forlì Airport,7/18/2022 13:16,C3,Boarding,444,Landed,183,Terminal 2
+4650,Southwest,Sultan Abdul Aziz Shah International Airport,1/28/2022 02:19,C3,Boarding,359,Scheduled,4,Terminal 4
+7804,JetBlue,Watertown Regional Airport,1/20/2022 05:29,B2,On Time,166,Landed,319,Terminal 2
+1925,United,Kaya Airport,11/16/2022 11:05,D4,On Time,61,Cancelled,305,Terminal 1
+3060,Southwest,Mayor General FAP Armando Revoredo Iglesias Airport,7/10/2022 07:11,C3,Departed,201,Cancelled,8,Terminal 4
+6325,American,Miri Airport,12/14/2022 23:14,C3,Boarding,410,Cancelled,234,Terminal 4
+7300,Delta,Carriel Sur Airport,10/18/2022 11:56,B2,Boarding,128,Scheduled,242,Terminal 3
+7154,JetBlue,Griswold Airport,2/3/2022 00:04,B2,On Time,364,Cancelled,311,Terminal 3
+339,Southwest,Corpus Christi International Airport,11/8/2022 23:33,A1,On Time,197,Landed,92,Terminal 3
+8288,Southwest,Coolibah Airport,7/29/2022 10:33,B2,On Time,35,Landed,109,Terminal 3
+3011,Delta,Baracoa Airport,1/23/2022 21:46,C3,Departed,51,Scheduled,81,Terminal 3
+8204,JetBlue,General Wayne A. Downing Peoria International Airport,10/26/2022 03:31,C3,On Time,143,Landed,318,Terminal 4
+2091,JetBlue,Kaitaia Airport,5/11/2022 00:07,C3,Departed,499,In Air,26,Terminal 2
+8136,Southwest,Pender Harbour Seaplane Base,3/16/2022 18:58,D4,Delayed,425,Cancelled,240,Terminal 4
+5728,United,Wonsan Kalma International Airport,4/5/2022 21:11,D4,On Time,495,Cancelled,122,Terminal 2
+8664,United,Bizant Airport,8/7/2022 08:20,D4,On Time,100,Landed,43,Terminal 1
+9297,Southwest,Coronel E Carvajal Airport,7/1/2022 12:39,A1,On Time,146,Landed,261,Terminal 2
+8375,Delta,Hyvinkää Airfield,11/4/2022 13:07,D4,Boarding,340,Cancelled,292,Terminal 4
+3301,United,Zagora Airport,10/8/2022 06:14,A1,On Time,337,Cancelled,21,Terminal 1
+317,Delta,Rae Lakes Airport,11/8/2022 14:50,E5,Departed,334,Scheduled,311,Terminal 4
+1520,JetBlue,Aldan Airport,10/5/2022 15:37,B2,Delayed,330,Landed,133,Terminal 2
+6563,United,Delaware County Johnson Field,8/22/2022 00:59,B2,Departed,67,In Air,107,Terminal 4
+2963,American,Akwa Ibom International Airport,8/7/2022 05:33,D4,On Time,243,In Air,5,Terminal 3
+4566,American,Dawei Airport,6/9/2022 05:43,E5,Departed,300,Cancelled,256,Terminal 4
+5903,Southwest,Kingaroy Airport,6/27/2022 05:21,C3,Boarding,428,Scheduled,178,Terminal 2
+4025,United,Tongareva Airport,8/15/2022 16:22,C3,Departed,312,Landed,92,Terminal 1
+2111,American,Krasnoselkup Airport,9/1/2022 23:54,A1,Departed,57,Scheduled,262,Terminal 4
+4266,Delta,Lviv International Airport,12/6/2022 21:26,C3,On Time,166,Cancelled,24,Terminal 2
+7953,American,Newport News Williamsburg International Airport,11/16/2022 03:21,C3,On Time,239,In Air,223,Terminal 2
+5782,United,Luzamba Airport,9/17/2022 22:15,A1,Delayed,469,Scheduled,301,Terminal 2
+1537,Southwest,Theodore Airport,10/3/2022 18:56,B2,Delayed,366,In Air,167,Terminal 4
+3866,United,Indagen Airport,9/15/2022 14:59,E5,Delayed,29,Landed,19,Terminal 2
+2403,Delta,Frank Miloye Milenkowichi–Marília State Airport,12/14/2022 21:20,C3,On Time,17,Scheduled,293,Terminal 2
+5626,JetBlue,Maria Reiche Neuman Airport,12/28/2022 19:58,B2,Departed,470,Cancelled,71,Terminal 4
+5750,Southwest,Victoria Airport,10/10/2022 05:09,A1,Departed,38,Landed,338,Terminal 1
+3680,United,Chaudhary Charan Singh International Airport,12/12/2022 07:12,C3,Departed,180,Scheduled,83,Terminal 4
+9486,Delta,Datong Airport,2/27/2022 11:13,C3,Boarding,404,Scheduled,170,Terminal 2
+5406,American,Iloilo International Airport,2/9/2022 17:22,A1,Delayed,282,Cancelled,179,Terminal 1
+2172,JetBlue,Dubrovnik Airport,9/19/2022 18:01,E5,Departed,375,Cancelled,13,Terminal 4
+3949,Delta,Siocon Airport,11/6/2022 18:16,A1,Boarding,207,Landed,260,Terminal 1
+1480,American,Idiofa Airport,9/12/2022 10:50,D4,Delayed,183,Cancelled,113,Terminal 2
+9692,Southwest,Anaa Airport,12/14/2022 17:38,C3,On Time,200,Scheduled,38,Terminal 4
+6051,Southwest,Wamena Airport,10/7/2022 20:40,D4,Departed,490,Cancelled,29,Terminal 1
+3759,United,Changzhi Airport,4/26/2022 10:54,D4,Departed,445,Scheduled,339,Terminal 3
+1622,Southwest,RAF Leuchars,9/12/2022 22:15,E5,Departed,258,Scheduled,144,Terminal 4
+3094,Southwest,Menyamya Airport,4/16/2022 01:21,E5,Boarding,341,In Air,112,Terminal 1
+9062,Southwest,Pender Harbour Seaplane Base,8/6/2022 13:27,D4,On Time,171,Landed,316,Terminal 1
+4594,Delta,Perry-Foley Airport,7/5/2022 16:06,C3,Delayed,363,In Air,34,Terminal 4
+262,Southwest,Robert Gabriel Mugabe International Airport,6/19/2022 15:44,D4,Departed,161,Scheduled,60,Terminal 3
+8146,United,Pocono Mountains Municipal Airport,5/30/2022 09:23,E5,Boarding,401,Landed,113,Terminal 3
+2011,Delta,Gatow Airport,1/7/2022 03:30,D4,On Time,129,Cancelled,206,Terminal 4
+5868,JetBlue,Elista Airport,8/15/2022 20:15,C3,On Time,125,Cancelled,136,Terminal 4
+8162,United,Gao Airport,9/29/2022 14:39,A1,Departed,239,Scheduled,184,Terminal 4
+1063,United,Dillant Hopkins Airport,9/3/2022 08:28,C3,Delayed,353,Scheduled,38,Terminal 4
+5247,JetBlue,Herat Airport,7/2/2022 13:34,C3,Boarding,233,Cancelled,353,Terminal 1
+643,Delta,Rodez-Marcillac Airport,2/10/2022 02:47,B2,On Time,33,In Air,269,Terminal 1
+5395,United,Patos de Minas Airport,7/30/2022 21:12,E5,Delayed,303,Cancelled,280,Terminal 4
+9565,Delta,Iwakuni Marine Corps Air Station,8/27/2022 11:48,D4,Boarding,262,Cancelled,309,Terminal 4
+1676,American,Sakon Nakhon Airport,6/22/2022 20:06,E5,On Time,276,Scheduled,315,Terminal 1
+1521,Southwest,Miandrivazo Airport,11/19/2022 19:08,D4,Delayed,147,In Air,209,Terminal 4
+1871,Delta,Ford Airport,12/29/2022 15:39,B2,Boarding,190,Scheduled,218,Terminal 1
+969,JetBlue,Young Airport,12/14/2022 18:10,B2,Delayed,224,Landed,6,Terminal 4
+3592,Southwest,Kokomo Municipal Airport,5/12/2022 12:26,D4,Delayed,173,Scheduled,188,Terminal 3
+5559,United,Silangit Airport,6/4/2022 06:35,B2,Departed,362,Cancelled,123,Terminal 3
+6590,American,Crested Butte Airpark,8/27/2022 12:57,C3,Boarding,147,Cancelled,323,Terminal 2
+6795,JetBlue,St Leonard Airport,3/20/2022 05:32,D4,Departed,474,Cancelled,179,Terminal 3
+9205,United,Beaver Creek Airport,10/20/2022 10:05,E5,Delayed,174,In Air,147,Terminal 4
+6222,JetBlue,Batman Airport,10/28/2022 03:29,C3,On Time,34,Landed,199,Terminal 4
+918,Southwest,General Abelardo L. Rodríguez International Airport,10/22/2022 02:40,C3,Boarding,207,Cancelled,117,Terminal 1
+57,Delta,Jindabyne Airport,4/6/2022 21:30,A1,Boarding,71,In Air,156,Terminal 2
+6087,JetBlue,Baimuru Airport,2/24/2022 07:50,C3,Boarding,370,In Air,277,Terminal 1
+9681,American,Juan Simons Vela Airport,7/22/2022 01:22,D4,Delayed,463,Landed,84,Terminal 3
+3542,JetBlue,Majors Airport,7/26/2022 11:50,D4,On Time,457,Landed,76,Terminal 3
+3291,Southwest,Ralph Wien Memorial Airport,11/2/2022 23:34,D4,On Time,458,Scheduled,67,Terminal 2
+9324,American,Girona Airport,8/13/2022 22:33,D4,Departed,235,Cancelled,205,Terminal 3
+3004,American,Kapalua Airport,3/31/2022 15:19,B2,Boarding,62,Scheduled,315,Terminal 2
+3035,United,Montrose Regional Airport,9/29/2022 23:55,B2,Departed,484,Cancelled,58,Terminal 3
+8218,Delta,Dadu Airport,12/24/2022 07:14,C3,On Time,437,Cancelled,339,Terminal 2
+8599,United,Yamoussoukro Airport,6/3/2022 16:38,A1,On Time,85,Scheduled,117,Terminal 1
+1997,American,Ellison Onizuka Kona International At Keahole Airport,10/6/2022 23:21,C3,Departed,353,In Air,91,Terminal 2
+8186,JetBlue,La Gomera Airport,11/21/2022 23:41,C3,Delayed,388,Cancelled,81,Terminal 3
+8576,Southwest,Pierre Van Ryneveld Airport,6/17/2022 02:21,D4,On Time,104,In Air,351,Terminal 2
+2080,Southwest,Stevens Field,4/9/2022 04:44,E5,Boarding,248,Cancelled,134,Terminal 3
+9130,American,Blubber Bay Seaplane Base,8/22/2022 15:18,E5,Departed,199,Landed,134,Terminal 4
+821,JetBlue,Niue International Airport,3/20/2022 15:25,A1,Departed,434,Cancelled,190,Terminal 2
+9734,Delta,Nonouti Airport,12/10/2022 14:38,D4,Delayed,438,Cancelled,107,Terminal 4
+7863,United,Léopold Sédar Senghor International Airport,2/3/2022 15:20,D4,Boarding,218,Scheduled,348,Terminal 2
+7607,Southwest,"Moss Airport, Rygge",8/2/2022 08:56,C3,On Time,354,Landed,110,Terminal 4
+3578,Southwest,Aitutaki Airport,10/5/2022 18:27,D4,Boarding,138,Cancelled,316,Terminal 3
+7924,JetBlue,Mokpo Airport,7/7/2022 16:53,D4,On Time,464,Cancelled,208,Terminal 1
+3736,United,Santa Rosa Airport,3/30/2022 19:20,E5,Departed,124,Scheduled,184,Terminal 3
+9598,United,Malindi Airport,9/17/2022 19:54,E5,On Time,456,In Air,52,Terminal 3
+4755,American,Glasgow Municipal Airport,7/19/2022 07:45,E5,Delayed,4,Cancelled,278,Terminal 4
+6844,United,Silchar Airport,1/24/2022 07:52,B2,On Time,40,In Air,13,Terminal 2
+8834,JetBlue,Gorgan Airport,8/6/2022 07:01,A1,Departed,358,In Air,127,Terminal 4
+641,Delta,Pastos Bons Airport,11/6/2022 19:54,E5,On Time,88,In Air,97,Terminal 1
+3927,American,Dubrovnik Airport,4/9/2022 23:36,A1,Delayed,398,Scheduled,292,Terminal 3
+7163,Delta,Vnukovo International Airport,11/21/2022 18:04,A1,Boarding,19,In Air,80,Terminal 3
+1198,United,Aguaclara Airport,3/10/2022 03:08,E5,Delayed,349,Landed,129,Terminal 1
+1892,Southwest,Kaitaia Airport,10/8/2022 08:35,C3,Boarding,44,In Air,124,Terminal 4
+3277,United,Arvidsjaur Airport,5/21/2022 05:09,B2,Departed,24,In Air,132,Terminal 2
+3473,Southwest,Mangla Airport,5/27/2022 18:47,A1,Boarding,111,Cancelled,134,Terminal 2
+5850,United,Amery Municipal Airport,12/8/2022 03:29,C3,Delayed,77,Landed,37,Terminal 1
+706,American,El Kharga Airport,2/17/2022 15:50,A1,On Time,416,Cancelled,189,Terminal 2
+867,Delta,Touat Cheikh Sidi Mohamed Belkebir Airport,6/20/2022 08:32,E5,Departed,384,Cancelled,276,Terminal 3
+4056,United,Po Airport,3/1/2022 13:58,D4,Departed,500,Scheduled,88,Terminal 1
+2068,Southwest,Uru Harbour Airport,4/8/2022 09:22,A1,Departed,440,Landed,268,Terminal 3
+2103,Southwest,Craig Field,3/3/2022 03:23,B2,On Time,21,In Air,185,Terminal 3
+7550,JetBlue,Yalgoo Airport,3/17/2022 06:12,D4,Delayed,192,Cancelled,127,Terminal 1
+976,Delta,Bassel Al-Assad International Airport,4/13/2022 04:46,C3,Departed,287,Landed,169,Terminal 2
+7615,Delta,Finley Airport,8/31/2022 00:25,E5,Departed,472,Scheduled,235,Terminal 2
+4840,American,Lakeba Island Airport,3/7/2022 19:44,B2,Boarding,256,In Air,101,Terminal 2
+9687,JetBlue,Smith Field,3/14/2022 02:24,D4,Departed,221,Scheduled,138,Terminal 4
+7879,American,St Angelo Airport,6/4/2022 13:48,E5,Departed,399,Scheduled,114,Terminal 3
+6340,Southwest,Berkley Municipal Heliport,12/7/2022 12:33,C3,On Time,127,Scheduled,293,Terminal 4
+6331,JetBlue,Kingsville Naval Air Station,4/26/2022 05:11,E5,Delayed,314,Landed,218,Terminal 1
+7911,Southwest,Kaniama Airport,3/23/2022 07:45,D4,On Time,352,Scheduled,253,Terminal 4
+38,Southwest,Fagurhólsmýri Airport,7/13/2022 15:16,E5,Departed,438,Scheduled,327,Terminal 3
+4786,United,Saarloq Heliport,2/28/2022 08:16,D4,Departed,328,In Air,335,Terminal 1
+2057,JetBlue,Wiluna Airport,8/31/2022 16:28,B2,On Time,203,Landed,185,Terminal 4
+9613,United,Shoreham Airport,4/5/2022 14:56,C3,On Time,71,Cancelled,220,Terminal 2
+3051,Southwest,Animas Air Park,7/24/2022 19:13,A1,On Time,88,In Air,201,Terminal 1
+9772,United,Diosdado Macapagal International Airport,10/8/2022 13:23,E5,Delayed,242,Cancelled,95,Terminal 4
+6026,JetBlue,Cardiff International Airport,5/26/2022 04:17,C3,Departed,131,Cancelled,20,Terminal 3
+6152,JetBlue,Mampikony Airport,10/10/2022 07:24,B2,On Time,379,Cancelled,266,Terminal 4
+9729,Delta,Hutchinson County Airport,12/12/2022 18:38,E5,Boarding,300,In Air,203,Terminal 3
+227,American,Bologna Guglielmo Marconi Airport,1/30/2022 01:29,B2,On Time,62,Landed,54,Terminal 4
+6154,JetBlue,Lagunillas Airport,11/16/2022 20:59,B2,On Time,73,Cancelled,70,Terminal 2
+4978,Southwest,Komako Airport,5/22/2022 07:27,D4,Departed,403,In Air,115,Terminal 3
+9678,Delta,Ulsan Airport,6/17/2022 04:22,A1,On Time,381,Landed,304,Terminal 4
+1321,Southwest,Dallas Fort Worth International Airport,12/3/2022 18:55,B2,Departed,62,Cancelled,339,Terminal 4
+3878,United,Ghazni Airport,4/10/2022 17:07,B2,Boarding,101,Scheduled,321,Terminal 4
+7860,Delta,Tunoshna Airport,2/15/2022 06:49,E5,Departed,417,Scheduled,197,Terminal 4
+3084,Southwest,Paso Caballos Airport,8/3/2022 14:06,E5,Delayed,122,Landed,139,Terminal 2
+731,American,Hartsville Regional Airport,11/28/2022 09:41,A1,Boarding,334,Landed,318,Terminal 1
+2823,Southwest,Luena Airport,3/8/2022 00:33,B2,Departed,178,Cancelled,328,Terminal 4
+1571,JetBlue,Summerside Airport,4/27/2022 06:35,B2,Delayed,9,In Air,69,Terminal 2
+8204,Delta,Cagliari Elmas Airport,4/5/2022 07:40,D4,Delayed,310,Landed,152,Terminal 3
+4546,United,Puerto Escondido International Airport,8/7/2022 15:24,C3,On Time,406,Scheduled,49,Terminal 2
+2211,Delta,Valcheta Airport,1/10/2022 07:02,B2,Departed,262,Scheduled,200,Terminal 3
+717,Delta,Istanbul Airport,1/7/2022 23:02,D4,Departed,246,Cancelled,239,Terminal 3
+5558,United,Trois-Rivières Airport,10/2/2022 00:47,A1,Boarding,163,Cancelled,337,Terminal 1
+1531,United,Pago Pago International Airport,4/4/2022 07:54,B2,Departed,156,In Air,182,Terminal 2
+3690,Southwest,Basanth Nagar Airport,8/7/2022 03:14,A1,Delayed,396,Cancelled,301,Terminal 2
+3702,American,Karasburg Airport,1/9/2022 21:40,A1,Delayed,150,Scheduled,13,Terminal 1
+2392,Delta,Hawthorne Industrial Airport,10/22/2022 17:10,D4,On Time,429,In Air,252,Terminal 4
+6912,Delta,Hanimaadhoo Airport,1/15/2022 05:00,C3,On Time,434,Cancelled,257,Terminal 2
+4035,United,Doylestown Airport,9/22/2022 21:51,B2,On Time,13,Cancelled,168,Terminal 2
+5086,Southwest,Federico Garcia Lorca Airport,11/15/2022 07:59,D4,On Time,202,Scheduled,48,Terminal 2
+8470,JetBlue,Zhijiang Airport,10/1/2022 06:54,E5,Delayed,262,Cancelled,254,Terminal 1
+4107,Southwest,Sicogon Airstrip,2/4/2022 14:35,D4,Boarding,364,Scheduled,304,Terminal 4
+1296,United,Waterloo Regional Airport,7/8/2022 10:39,D4,Delayed,55,Scheduled,324,Terminal 1
+9358,JetBlue,New Castle Airport,11/28/2022 14:06,D4,On Time,345,Cancelled,88,Terminal 2
+5661,American,Cupul Airport,5/24/2022 17:19,C3,Departed,315,Cancelled,292,Terminal 3
+8975,Southwest,Fatmawati Soekarno Airport,2/10/2022 14:26,A1,Boarding,21,Landed,149,Terminal 2
+8698,Delta,Grand Forks Airport,3/9/2022 02:02,B2,Boarding,13,In Air,54,Terminal 1
+4105,Southwest,Karlstad Airport,11/22/2022 10:57,A1,On Time,359,In Air,285,Terminal 4
+4793,JetBlue,Castlebar Airport,1/4/2022 03:49,D4,Boarding,220,Cancelled,167,Terminal 4
+6305,Delta,Geilo Airport Dagali,1/12/2022 04:48,E5,Departed,412,Cancelled,290,Terminal 3
+5238,JetBlue,Seattle Tacoma International Airport,8/10/2022 12:29,D4,On Time,388,Scheduled,295,Terminal 2
+6690,Southwest,Uru Harbour Airport,8/29/2022 19:34,B2,On Time,370,Cancelled,92,Terminal 4
+3112,Delta,Henry Tift Myers Airport,11/11/2022 00:52,A1,Delayed,122,Landed,44,Terminal 3
+5655,JetBlue,Asirim Airport,7/30/2022 21:46,B2,On Time,220,Scheduled,19,Terminal 2
+5839,American,Nelson Lagoon Airport,7/25/2022 21:16,D4,Delayed,273,Scheduled,59,Terminal 4
+2628,United,Stan Stamper Municipal Airport,7/30/2022 00:12,D4,Boarding,33,In Air,149,Terminal 2
+9052,Southwest,Portland Troutdale Airport,1/22/2022 05:07,B2,Delayed,316,In Air,347,Terminal 1
+8606,JetBlue,Cap FAP David Abenzur Rengifo International Airport,4/26/2022 15:03,C3,On Time,123,Scheduled,25,Terminal 2
+3757,Delta,Tikehau Airport,1/19/2022 04:20,D4,Boarding,139,Landed,305,Terminal 3
+9053,JetBlue,Liberal Mid-America Regional Airport,10/14/2022 09:01,C3,Departed,76,Scheduled,28,Terminal 2
+9538,JetBlue,Stenkol Airport,8/26/2022 02:44,E5,On Time,275,Scheduled,179,Terminal 4
+9731,Southwest,Tarfaya Airport,1/3/2022 01:37,D4,On Time,449,Cancelled,304,Terminal 2
+7583,United,West Point Village Seaplane Base,9/22/2022 16:21,D4,Departed,491,Scheduled,172,Terminal 3
+4793,Southwest,Zyryanka Airport,5/19/2022 07:07,D4,Boarding,136,In Air,338,Terminal 1
+2653,American,Lake County Airport,2/6/2022 03:28,C3,Delayed,468,Landed,188,Terminal 4
+6140,American,Gamal Abdel Nasser Airport,12/4/2022 18:04,C3,Departed,170,Landed,295,Terminal 4
+9201,American,Cadjehoun Airport,8/31/2022 04:18,A1,Boarding,160,In Air,332,Terminal 3
+9081,Southwest,Garuahi Airport,5/4/2022 04:43,C3,On Time,290,Scheduled,337,Terminal 4
+114,American,Mbandaka Airport,5/16/2022 23:11,A1,Delayed,36,Cancelled,179,Terminal 1
+176,Southwest,Perryville Airport,9/5/2022 20:43,E5,Boarding,328,Cancelled,318,Terminal 2
+6031,Southwest,Minchumina Airport,2/28/2022 14:33,A1,Delayed,200,In Air,283,Terminal 2
+4305,American,Waiheke Reeve Airport,11/14/2022 04:42,D4,Departed,320,In Air,212,Terminal 1
+2825,JetBlue,Jamba Airport,4/29/2022 10:31,A1,Delayed,456,Scheduled,111,Terminal 4
+6578,Delta,Ontario International Airport,5/23/2022 12:54,A1,On Time,290,Landed,132,Terminal 2
+2691,JetBlue,Bali Airport,8/21/2022 09:32,C3,Delayed,436,In Air,163,Terminal 1
+5902,JetBlue,Hannover Airport,7/21/2022 18:10,D4,On Time,156,Scheduled,149,Terminal 1
+3309,Delta,Simikot Airport,5/8/2022 00:27,D4,On Time,428,In Air,279,Terminal 3
+2260,American,Saúl Airport,3/14/2022 17:41,A1,Boarding,220,Landed,209,Terminal 4
+5813,American,Pendopo Airport,3/30/2022 03:12,A1,Delayed,226,Landed,360,Terminal 2
+4953,Southwest,Fairmont Municipal Airport,11/30/2022 16:35,D4,Boarding,294,Landed,267,Terminal 2
+6163,American,Chandigarh Airport,11/7/2022 17:03,C3,Boarding,81,Cancelled,340,Terminal 3
+9506,American,Fort Nelson Airport,6/10/2022 15:22,C3,On Time,217,In Air,30,Terminal 1
+8267,Southwest,Penn Valley Airport,2/9/2022 17:09,C3,Departed,1,Cancelled,318,Terminal 4
+8427,JetBlue,Musoma Airport,6/27/2022 06:08,E5,Departed,110,Cancelled,69,Terminal 1
+4699,Southwest,Bakouma Airport,12/23/2022 11:37,B2,Delayed,474,Landed,127,Terminal 3
+4959,JetBlue,Bella Yella Airport,2/14/2022 01:12,D4,On Time,179,Landed,136,Terminal 4
+5207,Southwest,Dornoch Airfield,12/15/2022 23:51,C3,Boarding,201,Cancelled,40,Terminal 1
+4980,Delta,Bragado Airport,12/29/2022 07:25,B2,Departed,434,Cancelled,254,Terminal 2
+219,United,Knox County Regional Airport,9/26/2022 21:07,E5,On Time,91,In Air,184,Terminal 4
+1382,Southwest,Tampa Padang Airport,3/31/2022 10:47,A1,On Time,354,Cancelled,102,Terminal 1
+3170,American,Long Banga Airport,2/3/2022 00:06,B2,Boarding,85,Cancelled,288,Terminal 3
+7128,Delta,Williams Lake Airport,4/14/2022 04:54,B2,Delayed,162,In Air,13,Terminal 4
+1051,Southwest,Carajás Airport,6/30/2022 17:49,D4,Delayed,27,In Air,145,Terminal 4
+5650,American,Ebon Airport,12/22/2022 09:51,E5,Delayed,497,Landed,27,Terminal 3
+4762,United,Laramie Regional Airport,9/20/2022 23:18,A1,Boarding,14,In Air,111,Terminal 2
+4838,United,Jabot Airport,1/21/2022 14:38,C3,On Time,234,Landed,239,Terminal 4
+5559,United,Colorado Creek Airport,1/13/2022 21:08,D4,Boarding,177,Landed,15,Terminal 2
+4986,American,Sidi Bel Abbes Airport,2/28/2022 11:22,E5,Boarding,287,In Air,310,Terminal 4
+5430,JetBlue,Tekadu Airport,5/3/2022 03:41,C3,Departed,174,Landed,71,Terminal 1
+160,American,Argyle International Airport,3/9/2022 02:53,E5,Departed,321,Landed,332,Terminal 1
+5340,Delta,Abu Rudeis Airport,11/28/2022 21:09,C3,Delayed,494,Landed,135,Terminal 4
+367,JetBlue,Shahroud Airport,8/11/2022 05:23,C3,Delayed,301,Scheduled,118,Terminal 3
+2343,JetBlue,Leros Airport,12/7/2022 09:01,B2,Delayed,100,Scheduled,310,Terminal 3
+7701,United,Chi Mei Airport,11/14/2022 07:12,D4,On Time,439,Scheduled,209,Terminal 3
+5841,Delta,Hydaburg Seaplane Base,7/30/2022 07:50,E5,Boarding,23,Scheduled,18,Terminal 3
+911,United,Muş Airport,6/15/2022 11:57,A1,On Time,225,Scheduled,309,Terminal 3
+4131,American,New York Skyports Inc Seaplane Base,3/6/2022 04:47,B2,Boarding,33,Cancelled,126,Terminal 4
+2520,United,Wilkes Barre Wyoming Valley Airport,3/17/2022 10:52,A1,Delayed,311,In Air,142,Terminal 4
+9436,Southwest,Philip S. W. Goldson International Airport,7/5/2022 01:09,C3,On Time,364,Landed,268,Terminal 4
+48,Southwest,Rexburg Madison County Airport,1/15/2022 12:58,B2,On Time,256,Cancelled,63,Terminal 2
+7540,JetBlue,Co Ong Airport,8/17/2022 16:44,E5,Departed,84,Cancelled,279,Terminal 1
+5985,JetBlue,Garuahi Airport,7/21/2022 20:12,C3,Boarding,34,Scheduled,171,Terminal 1
+8022,Delta,Roma Airport,11/17/2022 04:53,B2,Boarding,261,Landed,73,Terminal 4
+9934,Southwest,Takume Airport,12/13/2022 03:18,A1,Departed,25,In Air,155,Terminal 1
+8179,United,Piatã Airport,1/13/2022 21:43,E5,Departed,458,In Air,56,Terminal 4
+9595,Delta,Tripoli International Airport,2/16/2022 17:04,D4,On Time,292,Scheduled,219,Terminal 2
+6633,American,Neuchatel Airport,4/25/2022 01:48,B2,Delayed,395,Landed,13,Terminal 1
+8307,JetBlue,Winnemucca Municipal Airport,9/19/2022 14:26,B2,On Time,82,Cancelled,72,Terminal 3
+3220,Delta,Terre-de-Haut Airport,6/22/2022 20:03,D4,On Time,20,Scheduled,131,Terminal 2
+8134,Delta,Halali Airport,7/27/2022 15:44,A1,Boarding,241,Landed,145,Terminal 2
+9740,JetBlue,Tomanggong Airport,6/8/2022 10:15,B2,Departed,362,Cancelled,200,Terminal 4
+7079,Southwest,DLF Airport,11/9/2022 00:20,C3,Delayed,382,Landed,1,Terminal 1
+6134,United,Captain Auguste George Airport,8/21/2022 23:33,A1,Departed,209,Landed,36,Terminal 4
+2524,United,Anahim Lake Airport,1/5/2022 10:20,A1,Boarding,70,Landed,59,Terminal 3
+8686,Southwest,Brønnøysund Airport,5/29/2022 20:59,B2,Delayed,357,In Air,87,Terminal 2
+284,Delta,Sokcho (Mulchi Airfield) (G-407/K-50) Airport,11/8/2022 17:16,C3,Boarding,147,Scheduled,328,Terminal 1
+2054,Southwest,Belaga Airport,12/12/2022 18:55,C3,Delayed,265,Landed,201,Terminal 3
+573,American,Sungai Tiang Airport,11/7/2022 06:59,B2,On Time,410,Landed,234,Terminal 3
+2032,American,Vung Tau Airport,12/19/2022 11:08,B2,On Time,167,In Air,40,Terminal 4
+6300,American,Maroantsetra Airport,2/28/2022 20:46,D4,Delayed,203,Cancelled,91,Terminal 1
+4542,United,Patrocínio Airport,1/4/2022 01:34,D4,Delayed,310,Landed,135,Terminal 4
+7597,American,Manila Municipal Airport,1/20/2022 20:01,A1,Boarding,43,Landed,260,Terminal 4
+2723,American,Katowice International Airport,1/19/2022 12:22,D4,Boarding,8,Landed,338,Terminal 3
+6297,United,Durham Tees Valley Airport,12/20/2022 05:28,C3,Boarding,247,In Air,290,Terminal 4
+8178,JetBlue,Mytilene International Airport,7/18/2022 01:29,D4,Boarding,298,In Air,304,Terminal 4
+9692,JetBlue,Naxos Airport,8/15/2022 20:35,A1,On Time,479,Landed,310,Terminal 1
+712,United,Sócrates Rezende Airport,9/24/2022 21:08,C3,Delayed,328,In Air,40,Terminal 3
+1231,American,Gautam Buddha Airport,11/28/2022 15:28,D4,Boarding,366,Landed,257,Terminal 2
+6716,American,Presidente José Sarney Airport,8/10/2022 08:41,B2,Boarding,454,Cancelled,259,Terminal 2
+5596,American,Butler Co Regional Airport - Hogan Field,11/26/2022 16:35,C3,On Time,32,Cancelled,140,Terminal 1
+6263,Delta,Cibeureum Airport,3/14/2022 17:31,C3,Boarding,312,Scheduled,207,Terminal 2
+7858,United,Fazenda Palmital Airport,1/7/2022 20:11,C3,Boarding,455,Scheduled,141,Terminal 1
+6475,American,Zachar Bay Seaplane Base,1/7/2022 21:21,A1,Delayed,67,Landed,40,Terminal 3
+2455,American,Patuxent River Naval Air Station (Trapnell Field),9/21/2022 20:10,C3,Boarding,170,Cancelled,297,Terminal 4
+6394,United,Gagnoa Airport,6/24/2022 13:06,B2,Delayed,409,Cancelled,339,Terminal 3
+554,JetBlue,Smith Point Airport,10/11/2022 10:29,D4,Departed,285,Landed,51,Terminal 1
+30,Delta,Boké Baralande Airport,4/22/2022 07:01,C3,On Time,61,Landed,258,Terminal 3
+7113,JetBlue,Roberts Army Heliport,11/25/2022 22:10,B2,Boarding,133,Cancelled,22,Terminal 2
+6395,United,Adampur Airport,4/1/2022 18:30,E5,Delayed,112,Landed,225,Terminal 3
+1228,American,Angoram Airport,10/7/2022 21:52,E5,Departed,378,Cancelled,21,Terminal 1
+5187,JetBlue,Mary Airport,1/28/2022 23:38,D4,Departed,110,Cancelled,339,Terminal 4
+6108,Delta,Hardy-Anders Field / Natchez-Adams County Airport,1/20/2022 11:34,B2,Departed,485,In Air,346,Terminal 3
+8522,Southwest,Meghauli Airport,7/18/2022 15:34,E5,Delayed,342,Cancelled,356,Terminal 2
+5733,American,Grajaú Airport,12/16/2022 20:35,C3,Delayed,112,Scheduled,96,Terminal 1
+7283,American,Coolah Airport,1/27/2022 07:51,C3,On Time,71,In Air,192,Terminal 2
+9005,Delta,Merville-Calonne Airport,10/31/2022 12:18,B2,Departed,351,In Air,104,Terminal 1
+3789,Southwest,Mid Ohio Valley Regional Airport,3/3/2022 07:29,E5,Boarding,24,Cancelled,30,Terminal 3
+3155,JetBlue,Héroes De Malvinas Airport,5/13/2022 04:36,A1,Boarding,309,Landed,316,Terminal 1
+4778,JetBlue,Koggala Airport,2/25/2022 17:53,D4,Delayed,348,Cancelled,12,Terminal 1
+6359,Delta,Tarbes-Lourdes-Pyrénées Airport,6/29/2022 07:46,C3,On Time,497,Scheduled,107,Terminal 2
+8850,JetBlue,Havre City County Airport,11/29/2022 21:14,E5,Departed,183,Landed,23,Terminal 3
+8285,United,North Battleford Airport,11/7/2022 18:35,C3,Delayed,492,Scheduled,244,Terminal 2
+8768,American,Melilla Airport,1/21/2022 00:31,E5,Boarding,316,Cancelled,353,Terminal 2
+9984,United,Davis Monthan Air Force Base,5/28/2022 22:00,C3,On Time,181,In Air,271,Terminal 3
+9126,United,Böblingen Flugfeld,9/13/2022 09:54,E5,Delayed,372,In Air,313,Terminal 4
+1621,Delta,Raba Raba Airport,7/8/2022 23:04,C3,On Time,114,In Air,98,Terminal 2
+6511,Southwest,Bukhara Airport,9/26/2022 01:29,B2,On Time,221,Cancelled,94,Terminal 4
+7566,American,May Creek Airport,2/12/2022 09:49,A1,Delayed,350,Landed,299,Terminal 4
+278,American,Vatomandry Airport,7/2/2022 09:55,D4,On Time,90,Scheduled,331,Terminal 4
+1815,American,Blackpool International Airport,7/3/2022 05:47,A1,Departed,436,Scheduled,29,Terminal 4
+8561,Southwest,Chimoio Airport,4/28/2022 04:21,A1,Boarding,499,Cancelled,186,Terminal 1
+9294,United,Kankesanturai Airport,11/22/2022 12:32,A1,Boarding,67,Cancelled,159,Terminal 2
+2651,Southwest,Mid-Carolina Regional Airport,9/30/2022 15:10,E5,Delayed,347,In Air,249,Terminal 3
+6706,Delta,Fuerteventura Airport,11/5/2022 07:36,A1,On Time,277,In Air,201,Terminal 1
+500,American,Lanzhou Zhongchuan Airport,11/3/2022 12:06,E5,Departed,321,Scheduled,277,Terminal 4
+2214,Southwest,Kamloops Airport,1/10/2022 16:58,B2,On Time,334,Landed,230,Terminal 3
+1551,Delta,Capital City Airport,1/14/2022 23:01,D4,Boarding,475,In Air,353,Terminal 2
+9554,JetBlue,Bahja Airport,1/9/2022 02:16,E5,Boarding,158,Scheduled,270,Terminal 1
+4141,United,Moises Benzaquen Rengifo Airport,12/16/2022 10:18,A1,Delayed,465,Cancelled,340,Terminal 1
+2172,American,Lolland Falster Maribo Airport,5/27/2022 20:33,B2,Delayed,406,In Air,27,Terminal 3
+8367,Southwest,Malamala Airport,5/11/2022 15:47,C3,Boarding,76,In Air,198,Terminal 3
+2085,JetBlue,Sacramento International Airport,3/5/2022 00:57,C3,Delayed,218,Cancelled,22,Terminal 2
+8325,Delta,Atsinanana Airport,9/22/2022 23:55,B2,Delayed,212,Scheduled,333,Terminal 4
+2282,American,Tanda Tula Airport,9/16/2022 15:51,C3,On Time,156,Scheduled,174,Terminal 1
+8161,Southwest,Xavantina Airport,7/13/2022 15:26,B2,On Time,35,In Air,331,Terminal 1
+6136,United,Juancho E. Yrausquin Airport,3/4/2022 23:01,A1,Boarding,12,Scheduled,337,Terminal 2
+761,American,Luis Munoz Marin International Airport,4/7/2022 04:33,E5,Boarding,220,Scheduled,219,Terminal 1
+5605,JetBlue,Klokovo Airfield,10/18/2022 21:07,A1,Delayed,218,Landed,67,Terminal 2
+9194,American,Golden Triangle Regional Airport,10/25/2022 02:51,B2,Delayed,388,Scheduled,349,Terminal 1
+1202,JetBlue,Armando Schwarck Airport,4/21/2022 04:05,C3,Boarding,237,In Air,158,Terminal 4
+740,JetBlue,Ambunti Airport,11/9/2022 12:08,D4,On Time,491,Landed,178,Terminal 4
+5738,JetBlue,Djambala Airport,1/11/2022 21:58,A1,Delayed,290,In Air,346,Terminal 2
+3543,JetBlue,San Jose Airport,11/27/2022 10:16,E5,Boarding,312,Landed,41,Terminal 2
+8972,American,Denison Municipal Airport,9/17/2022 14:18,E5,On Time,123,Scheduled,297,Terminal 3
+8782,United,Eagle County Regional Airport,7/23/2022 16:55,A1,Departed,343,Cancelled,240,Terminal 2
+3076,American,Ocean City Municipal Airport,4/22/2022 10:52,A1,Delayed,285,In Air,173,Terminal 3
+5767,United,Estevan Airport,3/22/2022 00:49,A1,Departed,369,Cancelled,191,Terminal 1
+32,American,Djambala Airport,5/18/2022 03:59,B2,Delayed,356,In Air,198,Terminal 3
+5101,United,Shahrekord Airport,2/28/2022 05:00,D4,On Time,495,Scheduled,25,Terminal 3
+3322,JetBlue,Sandstone Airport,3/22/2022 07:09,E5,Boarding,255,Cancelled,144,Terminal 2
+5472,Southwest,North of Sixty Airport,10/23/2022 21:28,C3,Departed,363,In Air,272,Terminal 1
+7621,United,Ramechhap Airport,6/23/2022 07:02,D4,Boarding,33,Scheduled,36,Terminal 2
+7367,United,Naha Airport,10/18/2022 03:44,C3,Delayed,361,Landed,117,Terminal 4
+12,Southwest,Otu Airport,9/10/2022 11:06,C3,Departed,389,Cancelled,128,Terminal 1
+9025,American,John C. Munro Hamilton International Airport,1/26/2022 09:36,C3,Departed,489,Landed,253,Terminal 3
+7304,Southwest,Parry Sound Area Municipal Airport,10/10/2022 03:26,A1,Boarding,362,Landed,87,Terminal 2
+4232,American,Cortes Bay Water Aerodrome,3/3/2022 01:08,C3,On Time,383,In Air,356,Terminal 3
+5310,Delta,Nanwalek Airport,7/20/2022 12:06,A1,Departed,75,Scheduled,190,Terminal 4
+5716,JetBlue,Drummond Airport,2/9/2022 12:33,D4,Departed,92,In Air,195,Terminal 2
+3765,American,Cliff Hatfield Memorial Airport,2/20/2022 12:07,B2,On Time,65,Cancelled,255,Terminal 2
+9578,Southwest,Daniel Oduber Quiros International Airport,7/21/2022 23:46,E5,Delayed,164,In Air,137,Terminal 3
+5686,American,Pécs-Pogány Airport,9/21/2022 13:52,B2,Boarding,349,Scheduled,31,Terminal 4
+9833,American,Dangriga Airport,8/4/2022 15:30,C3,Boarding,60,In Air,342,Terminal 4
+4312,American,Dubuque Regional Airport,6/28/2022 19:45,E5,Departed,358,Scheduled,83,Terminal 2
+8872,Southwest,San Blas Airport,7/25/2022 05:27,E5,Boarding,2,Landed,321,Terminal 2
+8662,United,Süleyman Demirel International Airport,10/26/2022 10:50,C3,On Time,410,Cancelled,227,Terminal 2
+96,Southwest,Yuendumu Airport,4/22/2022 01:21,B2,On Time,446,Cancelled,19,Terminal 3
+9376,Southwest,New Bight Airport,2/28/2022 12:35,D4,Departed,282,Landed,73,Terminal 2
+7708,American,Nushki Airport,11/9/2022 03:45,A1,Departed,31,Landed,262,Terminal 4
+5018,United,Porbandar Airport,1/22/2022 04:55,C3,Boarding,32,Scheduled,272,Terminal 2
+304,United,Siwea Airport,7/31/2022 02:39,D4,Departed,200,Cancelled,2,Terminal 3
+5682,JetBlue,Tirana International Airport Mother Teresa,4/18/2022 13:25,D4,Delayed,75,In Air,239,Terminal 1
+6607,JetBlue,William T. Piper Memorial Airport,10/25/2022 18:50,A1,On Time,324,Scheduled,320,Terminal 3
+4835,Delta,Tahoua Airport,2/20/2022 22:51,D4,Departed,491,Cancelled,298,Terminal 4
+2222,JetBlue,Currillo Airport,1/26/2022 12:14,D4,Departed,99,Landed,23,Terminal 3
+2974,American,Grenoble-Isère Airport,6/11/2022 16:27,E5,On Time,260,Scheduled,3,Terminal 3
+37,American,Dillon Airport,4/21/2022 03:49,A1,Departed,416,In Air,290,Terminal 3
+4934,Delta,Torres Airport,12/13/2022 05:08,E5,On Time,158,Landed,91,Terminal 2
+7408,Delta,"Mo i Rana Airport, Røssvoll",2/18/2022 06:18,E5,Boarding,53,Scheduled,80,Terminal 2
+4376,United,Estevan Airport,11/11/2022 15:33,E5,Departed,318,Landed,24,Terminal 1
+5634,Delta,Pecos Municipal Airport,5/2/2022 22:43,B2,On Time,487,Cancelled,145,Terminal 4
+9848,United,Carlton Hill Airport,6/28/2022 11:36,C3,On Time,470,Landed,174,Terminal 1
+9438,Southwest,Nassau Paradise Island Airport,10/4/2022 20:04,B2,On Time,455,In Air,9,Terminal 4
+901,United,Jequié Airport,3/11/2022 23:42,E5,Departed,216,Scheduled,112,Terminal 1
+9602,American,Bar River Airport,2/1/2022 04:07,A1,Boarding,311,Scheduled,75,Terminal 2
+8853,JetBlue,Punta Colorada Airport,7/9/2022 14:21,B2,Departed,499,Cancelled,67,Terminal 3
+4688,Delta,Southern Wisconsin Regional Airport,3/27/2022 23:30,E5,Delayed,425,Landed,159,Terminal 4
+4999,Southwest,York Airport,2/1/2022 03:27,C3,Departed,280,In Air,4,Terminal 3
+7045,United,Adak Airport,3/15/2022 23:14,A1,Departed,18,Scheduled,301,Terminal 4
+7316,JetBlue,Thumrait Air Base,10/16/2022 05:21,C3,On Time,51,In Air,26,Terminal 1
+3464,Southwest,Lianshulu Airport,3/24/2022 01:42,B2,Boarding,18,Cancelled,300,Terminal 4
+7654,Southwest,Jenpeg Airport,11/5/2022 01:10,B2,Delayed,246,Cancelled,309,Terminal 1
+3963,Delta,Joensuu Airport,10/3/2022 04:51,C3,On Time,239,Cancelled,138,Terminal 4
+3815,Southwest,Purwokerto Airport,10/24/2022 18:04,E5,Boarding,492,Scheduled,90,Terminal 3
+3766,JetBlue,Tuscola Area Airport,9/14/2022 01:15,C3,On Time,275,In Air,183,Terminal 1
+4319,Southwest,Bolzano Airport,3/16/2022 15:01,E5,Departed,230,In Air,82,Terminal 3
+4376,Southwest,Wheeling Ohio County Airport,9/20/2022 14:53,C3,Boarding,100,Landed,261,Terminal 4
+5542,United,Stevens Field,3/30/2022 17:36,C3,Departed,218,Landed,145,Terminal 1
+7830,Southwest,Buraimi Airport,5/29/2022 20:03,C3,Boarding,356,In Air,286,Terminal 4
+5488,United,Losuia Airport,5/13/2022 18:47,C3,Delayed,62,Landed,111,Terminal 3
+4506,JetBlue,George Downer Airport,12/11/2022 23:28,E5,Delayed,209,Scheduled,146,Terminal 4
+1624,American,Kandahar Airport,9/20/2022 09:18,B2,On Time,237,Scheduled,103,Terminal 1
+644,United,Bunsil Airport,2/4/2022 13:33,C3,Departed,25,In Air,274,Terminal 4
+5627,American,Birjand Airport,1/20/2022 05:31,A1,On Time,27,Landed,188,Terminal 1
+2665,United,Seoul Air Base (K-16),12/24/2022 03:22,D4,On Time,494,Cancelled,82,Terminal 1
+6634,United,Casper-Natrona County International Airport,11/10/2022 16:39,A1,Delayed,205,In Air,66,Terminal 3
+220,Delta,Tottori Airport,12/4/2022 00:28,D4,Delayed,322,Landed,169,Terminal 3
+5074,Southwest,Paranaguá Airport,6/7/2022 06:18,D4,Delayed,487,Cancelled,130,Terminal 1
+6931,American,Mogilev Airport,1/14/2022 18:25,B2,On Time,184,Landed,234,Terminal 1
+2300,American,Rogue Valley International Medford Airport,5/28/2022 01:50,A1,Departed,409,Scheduled,341,Terminal 3
+6990,United,Jaffrey Airport Silver Ranch Airport,9/21/2022 07:10,B2,Boarding,448,Scheduled,142,Terminal 2
+3432,Southwest,Kalmar Airport,6/2/2022 02:59,C3,Delayed,42,Cancelled,34,Terminal 2
+1289,American,Ware Airport,2/9/2022 19:36,D4,Boarding,99,Landed,262,Terminal 2
+7709,Delta,Longdongbao Airport,9/13/2022 17:37,D4,On Time,444,Landed,117,Terminal 2
+3023,United,Pu'er Simao Airport,4/30/2022 06:02,A1,Delayed,264,In Air,359,Terminal 3
+5654,JetBlue,Senanga Airport,8/6/2022 13:18,D4,On Time,463,Landed,23,Terminal 3
+7239,JetBlue,Exuma International Airport,3/14/2022 17:09,B2,Departed,500,Scheduled,139,Terminal 2
+2035,JetBlue,Pecos Municipal Airport,4/7/2022 20:39,E5,On Time,466,In Air,2,Terminal 1
+1239,Southwest,Dori Airport,9/27/2022 22:33,D4,Departed,355,Scheduled,150,Terminal 4
+9069,American,Aba Tenna Dejazmach Yilma International Airport,12/15/2022 23:18,A1,Boarding,61,In Air,152,Terminal 2
+2892,American,Almirante Padilla Airport,12/14/2022 14:59,C3,Delayed,31,Landed,208,Terminal 2
+1696,American,Zanjan Airport,8/30/2022 01:03,C3,Boarding,61,Cancelled,77,Terminal 2
+2117,JetBlue,Mokuti Lodge Airport,11/4/2022 21:25,A1,Departed,173,Scheduled,144,Terminal 1
+9680,Southwest,Shoreham Airport,6/13/2022 03:06,D4,On Time,404,Cancelled,41,Terminal 1
+7943,Delta,Shaw River Airport,1/4/2022 20:21,B2,Departed,153,Cancelled,283,Terminal 1
+6049,Southwest,Wekweètì Airport,2/12/2022 01:18,C3,Boarding,100,In Air,201,Terminal 2
+3456,Delta,Teruel Airport,2/20/2022 22:36,A1,Boarding,275,In Air,47,Terminal 2
+9312,United,Wolter Monginsidi Airport,1/13/2022 05:21,A1,Boarding,113,Cancelled,264,Terminal 1
+1890,American,Gibb River Airport,3/16/2022 03:42,D4,On Time,232,Cancelled,154,Terminal 4
+728,Delta,Yorke Island Airport,3/16/2022 03:10,D4,Departed,391,Cancelled,179,Terminal 4
+7199,JetBlue,Nanuque Airport,9/16/2022 19:20,C3,Boarding,61,In Air,15,Terminal 2
+4125,United,Mc Alester Regional Airport,9/1/2022 10:50,B2,Boarding,85,Scheduled,294,Terminal 4
+1905,American,Bisha Airport,6/8/2022 19:47,C3,On Time,239,Scheduled,233,Terminal 3
+1673,Delta,Minot International Airport,2/19/2022 03:34,C3,Boarding,89,Cancelled,227,Terminal 4
+4063,United,Fort McMurray / Mildred Lake Airport,1/29/2022 11:41,B2,On Time,455,Scheduled,46,Terminal 3
+9241,Delta,Taltheilei Narrows Airport,8/4/2022 03:54,B2,Departed,186,Cancelled,10,Terminal 3
+1645,Southwest,Four Corners Regional Airport,4/12/2022 07:30,B2,On Time,243,In Air,313,Terminal 1
+220,Southwest,Skive Airport,2/24/2022 18:43,D4,Delayed,432,In Air,122,Terminal 4
+3213,JetBlue,Glenwood Springs Municipal Airport,3/29/2022 00:47,D4,Departed,5,Landed,152,Terminal 3
+5661,Southwest,Kamishly Airport,3/5/2022 13:22,A1,Boarding,189,Cancelled,79,Terminal 1
+8030,JetBlue,Diego Jimenez Torres Airport,12/7/2022 21:10,D4,Boarding,452,Scheduled,81,Terminal 3
+9695,JetBlue,Handan Airport,6/10/2022 14:02,B2,Delayed,33,In Air,306,Terminal 2
+7420,JetBlue,Lastourville Airport,3/29/2022 17:14,D4,On Time,223,Landed,230,Terminal 3
+5042,Delta,St Aubin Airport,4/10/2022 07:16,D4,On Time,163,Scheduled,104,Terminal 3
+1736,Delta,Djumu-Djomoe Airport,10/23/2022 22:41,D4,Boarding,419,Cancelled,104,Terminal 2
+2455,United,Kitsissuarsuit Heliport,6/9/2022 02:56,A1,Delayed,44,Cancelled,138,Terminal 3
+9846,United,Kwethluk Airport,2/15/2022 03:00,C3,Boarding,67,Cancelled,108,Terminal 2
+887,United,Bella Yella Airport,8/7/2022 11:21,A1,Delayed,254,Scheduled,112,Terminal 2
+7659,Southwest,Adelaide International Airport,7/30/2022 03:31,C3,Departed,114,Landed,80,Terminal 4
+6050,American,La Macarena Airport,6/15/2022 07:20,A1,Boarding,68,Scheduled,83,Terminal 1
+5422,United,Boku Airport,11/18/2022 20:06,A1,On Time,285,Landed,303,Terminal 4
+6078,United,Copernicus Wrocław Airport,5/19/2022 10:58,E5,Departed,493,Landed,234,Terminal 1
+7037,Delta,Two Harbors Amphibious Terminal,4/28/2022 09:25,A1,Boarding,69,Scheduled,304,Terminal 2
+2041,JetBlue,Comilla Airport,4/2/2022 19:29,C3,Delayed,69,Cancelled,211,Terminal 1
+661,Southwest,Takapoto Airport,4/12/2022 07:28,E5,Departed,420,Scheduled,278,Terminal 2
+3424,Southwest,Campbeltown Airport,11/9/2022 17:39,B2,On Time,412,Cancelled,34,Terminal 3
+244,American,Kuito Airport,8/23/2022 16:55,D4,Departed,220,Scheduled,325,Terminal 1
+7449,JetBlue,Clarksville–Montgomery County Regional Airport,10/21/2022 05:40,D4,Delayed,17,Landed,56,Terminal 3
+3977,JetBlue,Futaleufú Airport,5/19/2022 12:23,C3,Delayed,490,Cancelled,300,Terminal 3
+8948,American,Alice Springs Airport,9/28/2022 23:48,E5,Boarding,432,Landed,253,Terminal 4
+9909,American,San Antonio Copalar Airport,6/27/2022 04:40,A1,Departed,372,Cancelled,334,Terminal 2
+3120,United,Rafha Domestic Airport,6/19/2022 08:54,A1,Boarding,98,Scheduled,328,Terminal 4
+8908,Delta,Long Bawan Airport,1/27/2022 18:04,A1,On Time,139,Landed,254,Terminal 1
+2152,Southwest,Manguna Airport,12/9/2022 19:28,D4,Departed,115,Cancelled,63,Terminal 1
+1683,Southwest,General Abelardo L. Rodríguez International Airport,10/25/2022 05:39,D4,On Time,467,Scheduled,54,Terminal 3
+7231,Southwest,Grand Canyon National Park Airport,4/5/2022 21:26,A1,On Time,7,Landed,241,Terminal 2
+8659,JetBlue,N'zeto Airport,9/14/2022 03:17,B2,On Time,273,Cancelled,273,Terminal 2
+4731,United,Coronel Enrique Soto Cano Air Base,9/26/2022 23:34,A1,Departed,279,In Air,120,Terminal 1
+703,American,Provideniya Bay Airport,11/15/2022 09:26,D4,Delayed,139,In Air,252,Terminal 3
+408,American,Mehrabad International Airport,11/16/2022 04:31,B2,Delayed,30,Landed,70,Terminal 2
+3731,JetBlue,Saipan International Airport,4/26/2022 23:51,C3,Delayed,358,Cancelled,97,Terminal 4
+4189,Southwest,Columbus Lowndes County Airport,7/19/2022 05:34,D4,Delayed,232,Scheduled,60,Terminal 4
+5235,United,St Thomas Municipal Airport,1/28/2022 12:43,E5,Delayed,363,Cancelled,193,Terminal 4
+5400,Southwest,Imroz Airport,12/22/2022 15:11,C3,Departed,410,In Air,218,Terminal 2
+9790,United,Two Harbors Amphibious Terminal,11/26/2022 23:03,C3,On Time,452,Landed,66,Terminal 3
+5717,Delta,Qiqihar Sanjiazi Airport,5/6/2022 01:19,D4,On Time,273,Scheduled,214,Terminal 4
+5759,United,Geilenkirchen Air Base,2/19/2022 19:04,B2,Boarding,166,Cancelled,156,Terminal 2
+6223,Southwest,Black Tickle Airport,4/25/2022 11:00,C3,Boarding,500,In Air,315,Terminal 3
+5439,Southwest,Humberto Ghizzo Bortoluzzi Regional Airport,2/4/2022 14:24,B2,Delayed,40,In Air,291,Terminal 1
+7410,United,Ukunda Airstrip,7/18/2022 23:15,E5,Boarding,171,Scheduled,144,Terminal 4
+985,Southwest,Brigadier Mayor D Cesar Raul Ojeda Airport,4/26/2022 10:23,C3,On Time,207,Landed,340,Terminal 3
+2519,Southwest,Concord Municipal Airport,10/4/2022 14:27,C3,Delayed,55,Cancelled,296,Terminal 4
+4699,Southwest,Masset Airport,2/23/2022 00:40,D4,On Time,335,Scheduled,172,Terminal 2
+7709,Delta,Laoag International Airport,8/11/2022 20:23,D4,Boarding,474,Scheduled,265,Terminal 4
+1897,Southwest,Colon Airport,5/1/2022 02:09,D4,Delayed,436,In Air,229,Terminal 1
+8591,United,Port Meadville Airport,8/6/2022 16:41,C3,On Time,474,In Air,230,Terminal 2
+6661,JetBlue,Afonso Pena Airport,3/20/2022 11:46,B2,Departed,300,Cancelled,293,Terminal 4
+2240,Delta,Baie-Johan-Beetz Water Aerodrome,1/22/2022 10:47,D4,Departed,158,Cancelled,146,Terminal 1
+6690,United,Taiping Airport,10/14/2022 01:31,B2,Boarding,228,Scheduled,105,Terminal 1
+7056,JetBlue,Kuusamo Airport,2/10/2022 00:11,C3,On Time,56,Scheduled,33,Terminal 2
+9319,JetBlue,Muscat International Airport,8/28/2022 20:46,B2,Departed,159,Cancelled,66,Terminal 1
+3173,Delta,Lima Allen County Airport,3/4/2022 22:45,E5,Boarding,338,Scheduled,87,Terminal 4
+2284,United,Vatukoula Airport,12/3/2022 00:47,A1,Boarding,141,In Air,257,Terminal 1
+1311,Delta,El Tepual Airport,8/19/2022 13:01,C3,Boarding,444,Landed,39,Terminal 2
+732,Southwest,Norman Y. Mineta San Jose International Airport,3/16/2022 17:38,E5,Delayed,89,Landed,318,Terminal 4
+449,Delta,Mataiva Airport,3/2/2022 05:57,B2,Delayed,285,Scheduled,100,Terminal 1
+8151,JetBlue,Barnwell Regional Airport,5/22/2022 23:06,B2,On Time,461,Landed,128,Terminal 1
+1416,United,Rzeszów-Jasionka Airport,8/7/2022 16:50,E5,Departed,8,Landed,203,Terminal 3
+5248,United,Berlin-Tempelhof International Airport,11/24/2022 06:00,E5,Delayed,61,Landed,133,Terminal 2
+3587,Southwest,Sary Su Airport,8/3/2022 04:56,E5,Boarding,258,Scheduled,128,Terminal 3
+4672,American,Oyem Airport,6/10/2022 16:41,E5,On Time,431,Cancelled,287,Terminal 1
+1769,Southwest,Alxa Right Banner Badanjilin Airport,1/13/2022 02:04,A1,On Time,452,Cancelled,358,Terminal 4
+9759,American,Penzance Heliport,7/13/2022 17:53,D4,Departed,243,In Air,143,Terminal 3
+5290,Southwest,Rieti Airport,7/12/2022 14:08,C3,Delayed,91,Landed,72,Terminal 4
+5684,Southwest,Pécs-Pogány Airport,9/17/2022 14:53,C3,Delayed,166,In Air,143,Terminal 2
+4219,JetBlue,Bowerman Airport,8/26/2022 08:17,E5,Delayed,175,In Air,255,Terminal 2
+363,United,Iğdır Airport,10/19/2022 20:15,A1,Delayed,473,In Air,38,Terminal 3
+3417,JetBlue,Ulawa Airport,3/3/2022 01:59,A1,Boarding,388,In Air,247,Terminal 4
+7610,United,Powell Municipal Airport,11/24/2022 22:47,A1,Delayed,453,Cancelled,240,Terminal 3
+9102,Delta,"Szczecin-Goleniów ""Solidarność"" Airport",6/28/2022 19:48,C3,Delayed,246,Scheduled,5,Terminal 3
+1178,Southwest,Kelle Airport,11/22/2022 04:20,D4,Delayed,310,Landed,353,Terminal 4
+1024,JetBlue,Balıkesir Körfez Airport,8/8/2022 15:32,C3,On Time,165,Scheduled,94,Terminal 3
+7205,JetBlue,Persian Gulf International Airport,12/6/2022 16:13,C3,On Time,430,Cancelled,141,Terminal 3
+194,Delta,Fetlar Airport,9/28/2022 05:49,E5,On Time,350,Landed,77,Terminal 2
+6868,American,Giebelstadt Airport,6/7/2022 05:33,D4,On Time,45,Landed,4,Terminal 2
+841,American,Ende (H Hasan Aroeboesman) Airport,8/31/2022 08:08,B2,Delayed,66,Scheduled,82,Terminal 4
+453,United,Santa Rosalia Airport,2/25/2022 01:49,B2,Boarding,142,Landed,124,Terminal 1
+4004,American,Dakhla Airport,6/13/2022 08:04,B2,On Time,228,Cancelled,84,Terminal 1
+4291,United,Refuge Cove Seaplane Base,6/26/2022 10:19,B2,Departed,486,Cancelled,224,Terminal 1
+297,Southwest,Figari Sud-Corse Airport,5/5/2022 15:05,D4,Delayed,210,Cancelled,237,Terminal 2
+2679,Southwest,Wilkes Barre Wyoming Valley Airport,12/3/2022 13:10,D4,Departed,91,In Air,114,Terminal 4
+7182,Southwest,Inus Airport,5/18/2022 17:08,D4,Delayed,276,Cancelled,323,Terminal 3
+9949,JetBlue,Storm Lake Municipal Airport,2/13/2022 10:36,C3,On Time,93,Scheduled,133,Terminal 1
+7827,United,Coles County Memorial Airport,12/16/2022 05:13,E5,Departed,254,Scheduled,155,Terminal 3
+7103,American,Khaneh Airport,7/23/2022 04:03,D4,Departed,391,In Air,137,Terminal 3
+7032,Delta,Alfonso Bonilla Aragon International Airport,7/4/2022 04:17,E5,On Time,40,Landed,204,Terminal 1
+713,American,Shalz Field,10/12/2022 12:33,E5,Delayed,128,Landed,227,Terminal 4
+9881,United,Nellis Air Force Base,10/13/2022 01:21,E5,Departed,46,Landed,19,Terminal 2
+3873,Delta,Ciudad Acuña New International Airport,4/6/2022 13:17,E5,Delayed,401,Landed,87,Terminal 4
+8717,Southwest,Porter County Municipal Airport,8/23/2022 06:40,C3,Delayed,237,In Air,138,Terminal 4
+9964,JetBlue,Bacolod-Silay Airport,10/20/2022 09:23,B2,Boarding,305,Landed,189,Terminal 3
+3433,JetBlue,Richard Toll Airport,6/11/2022 22:58,B2,Boarding,123,Cancelled,307,Terminal 1
+3694,Southwest,Columbus Air Force Base,2/1/2022 11:11,E5,On Time,308,Landed,205,Terminal 1
+3575,United,Pompano Beach Airpark,11/12/2022 17:17,A1,On Time,38,In Air,7,Terminal 2
+9704,United,Miami University Airport,5/25/2022 23:23,C3,On Time,152,In Air,58,Terminal 2
+5684,JetBlue,Gral. Bernardo O´Higgins Airport,10/27/2022 12:45,E5,Departed,235,Cancelled,272,Terminal 2
+4918,United,Tokat Airport,6/20/2022 21:46,A1,Departed,377,Landed,266,Terminal 3
+8715,Southwest,Barra do Corda Airport,3/25/2022 20:38,C3,Departed,458,Landed,185,Terminal 4
+6768,JetBlue,Svetlaya Airport,9/2/2022 02:43,D4,Departed,447,Cancelled,15,Terminal 4
+839,United,São Miguel do Araguaia Airport,4/28/2022 00:39,D4,Delayed,185,Cancelled,325,Terminal 4
+6069,United,Antalya International Airport,11/2/2022 12:39,B2,Departed,121,Scheduled,306,Terminal 4
+7053,United,General Servando Canales International Airport,5/20/2022 01:31,D4,On Time,156,In Air,60,Terminal 3
+2948,JetBlue,Singleton Airport,6/17/2022 04:17,C3,Boarding,326,Landed,205,Terminal 3
+9609,Delta,Whitianga Airport,5/31/2022 22:15,C3,Delayed,455,Cancelled,317,Terminal 4
+8412,American,San Jose Airport,10/4/2022 18:56,C3,Delayed,238,Landed,293,Terminal 4
+8946,Southwest,Twentynine Palms Airport,9/5/2022 13:30,A1,Delayed,13,Landed,301,Terminal 1
+4930,Southwest,Tarapacá Airport,6/27/2022 07:06,B2,On Time,243,Landed,64,Terminal 2
+5204,Delta,Guyuan Liupanshan Airport,7/1/2022 13:06,B2,Delayed,498,Scheduled,57,Terminal 2
+5893,Southwest,Iloilo International Airport,8/7/2022 19:13,A1,Departed,313,Scheduled,8,Terminal 1
+2686,Southwest,Alert Bay Airport,7/22/2022 04:12,C3,Delayed,96,Cancelled,192,Terminal 1
+7481,Southwest,Reading Regional Carl A Spaatz Field,1/11/2022 07:40,C3,Boarding,470,Landed,100,Terminal 2
+8501,American,Emerald Airport,6/15/2022 04:05,A1,Departed,477,Cancelled,218,Terminal 4
+3419,Southwest,Aiambak Airport,2/4/2022 18:50,B2,Delayed,300,Scheduled,86,Terminal 2
+7494,JetBlue,Shubuling Airport,6/19/2022 17:39,D4,Delayed,63,Cancelled,261,Terminal 1
+3810,United,Erume Airport,8/22/2022 13:38,A1,Boarding,376,Landed,79,Terminal 4
+4013,American,Fatmawati Soekarno Airport,12/13/2022 08:06,D4,Boarding,226,In Air,18,Terminal 1
+3005,Delta,Pasighat Airport,12/19/2022 17:28,B2,Boarding,404,Scheduled,94,Terminal 4
+5014,American,Camiri Airport,7/28/2022 06:38,C3,Delayed,442,Cancelled,128,Terminal 3
+8561,United,Melbourne Moorabbin Airport,2/5/2022 00:21,B2,Boarding,138,In Air,233,Terminal 2
+6401,United,Hillside Airport,5/15/2022 12:14,A1,Departed,42,Cancelled,135,Terminal 4
+4946,United,Propriá Airport,11/23/2022 21:27,E5,On Time,48,In Air,119,Terminal 4
+7040,Southwest,Nashville International Airport,9/3/2022 20:55,B2,On Time,55,In Air,7,Terminal 2
+1105,Southwest,Innsbruck Airport,6/1/2022 13:23,C3,Boarding,288,In Air,55,Terminal 4
+8845,JetBlue,Amborovy Airport,1/14/2022 16:29,C3,Departed,81,In Air,323,Terminal 1
+2783,United,Garden City Regional Airport,5/2/2022 12:35,E5,On Time,307,Cancelled,189,Terminal 3
+8612,Southwest,William T. Piper Memorial Airport,9/22/2022 16:27,C3,Boarding,244,Landed,200,Terminal 2
+1797,United,Kaukura Airport,5/16/2022 09:01,A1,On Time,342,Landed,236,Terminal 2
+2461,American,Rennell/Tingoa Airport,9/2/2022 11:40,B2,Departed,423,Scheduled,314,Terminal 2
+9292,JetBlue,Kazan International Airport,10/14/2022 18:26,B2,Delayed,8,Cancelled,213,Terminal 1
+6400,Delta,Eagle Airport,10/6/2022 03:16,A1,Boarding,120,Scheduled,141,Terminal 3
+1678,United,Surin Airport,1/4/2022 18:59,E5,Departed,296,Cancelled,94,Terminal 1
+4979,Southwest,Farewell Airport,8/27/2022 14:36,A1,Boarding,465,In Air,331,Terminal 4
+3650,JetBlue,Montréal / Saint-Hubert Airport,1/18/2022 09:15,A1,On Time,301,Cancelled,333,Terminal 4
+2732,JetBlue,Gbadolite Airport,12/13/2022 05:48,C3,Boarding,175,Cancelled,241,Terminal 1
+2056,United,Ekwok Airport,10/3/2022 13:58,D4,Boarding,34,Landed,224,Terminal 4
+8241,JetBlue,Cengiz Topel Airport,3/5/2022 18:20,C3,Delayed,132,Landed,257,Terminal 3
+2720,JetBlue,Penang International Airport,4/16/2022 21:49,B2,Departed,122,Scheduled,333,Terminal 4
+9043,Delta,Buritirama Airport,2/18/2022 00:45,E5,On Time,413,In Air,92,Terminal 1
+6003,American,Po Airport,7/5/2022 16:11,E5,Boarding,337,Landed,119,Terminal 1
+3014,United,Sir Charles Gaetan Duval Airport,4/6/2022 19:27,C3,On Time,165,Cancelled,281,Terminal 3
+3,JetBlue,Entebbe International Airport,8/20/2022 00:03,C3,On Time,274,Cancelled,89,Terminal 4
+9115,United,Otjiwarongo Airport,7/4/2022 06:01,A1,Delayed,149,Landed,79,Terminal 4
+715,American,Parakou Airport,2/5/2022 23:32,B2,Boarding,28,In Air,16,Terminal 3
+6360,JetBlue,Holbrook Municipal Airport,12/23/2022 15:33,D4,Departed,216,In Air,11,Terminal 1
+7967,United,Boquira Airport,5/2/2022 21:17,E5,Delayed,284,Scheduled,230,Terminal 4
+466,Southwest,C David Campbell Field Corsicana Municipal Airport,7/29/2022 05:48,D4,Delayed,431,In Air,339,Terminal 4
+979,Southwest,Ugolny Airport,7/14/2022 10:49,A1,On Time,366,In Air,283,Terminal 2
+2993,JetBlue,La Grande-4 Airport,1/23/2022 21:34,B2,On Time,122,Scheduled,285,Terminal 2
+4334,Southwest,Catania-Fontanarossa Airport,10/31/2022 22:47,C3,Departed,494,Scheduled,63,Terminal 3
+9572,American,Barinas Airport,1/4/2022 04:32,E5,Boarding,80,In Air,341,Terminal 3
+4342,United,Batuna Aerodrome,5/2/2022 17:18,D4,Delayed,157,Landed,284,Terminal 3
+6709,American,Hercílio Luz International Airport,7/29/2022 17:52,B2,Delayed,177,Scheduled,305,Terminal 2
+9471,Delta,Burgas Airport,10/18/2022 00:30,D4,Delayed,67,Scheduled,126,Terminal 3
+1728,JetBlue,Baganga airport,5/30/2022 02:30,D4,Boarding,358,Landed,359,Terminal 4
+3387,Delta,Kostanay West Airport,11/9/2022 23:53,B2,On Time,428,Scheduled,64,Terminal 4
+4310,JetBlue,Zabré Airport,7/4/2022 11:54,E5,Boarding,180,Cancelled,240,Terminal 2
+2614,American,Khmelnytskyi Airport,2/27/2022 00:54,D4,Departed,377,In Air,66,Terminal 3
+5783,Southwest,Shaoyang Wugang Airport,11/27/2022 19:54,D4,On Time,317,Landed,33,Terminal 1
+1314,United,Kota Airport,12/6/2022 22:26,B2,Delayed,21,Cancelled,217,Terminal 4
+9253,American,Sulphur Springs Municipal Airport,10/10/2022 20:49,A1,On Time,466,Scheduled,76,Terminal 1
+4334,Southwest,Alfonso López Pumarejo Airport,10/12/2022 03:40,C3,On Time,494,Landed,129,Terminal 2
+9842,JetBlue,Erfurt Airport,11/4/2022 04:54,D4,Delayed,90,Landed,196,Terminal 3
+6357,JetBlue,Bhavnagar Airport,9/11/2022 08:30,E5,Delayed,341,In Air,222,Terminal 4
+2120,Delta,Tum Airport,3/30/2022 17:30,A1,Boarding,466,Landed,253,Terminal 1
+3250,United,Diagoras Airport,12/19/2022 07:39,A1,Delayed,37,Scheduled,131,Terminal 1
+3053,Southwest,Princeville Airport,7/28/2022 01:49,E5,Boarding,323,Cancelled,70,Terminal 1
+4037,JetBlue,Sanikiluaq Airport,5/11/2022 14:17,D4,Departed,428,Cancelled,321,Terminal 1
+7485,United,Makabana Airport,5/15/2022 22:15,E5,Boarding,454,In Air,331,Terminal 3
+3764,Southwest,São Pedro Airport,11/26/2022 01:02,A1,Boarding,418,In Air,109,Terminal 1
+4649,JetBlue,Chachapoyas Airport,6/5/2022 05:41,C3,On Time,419,Cancelled,53,Terminal 4
+3210,Delta,Sélibaby Airport,10/9/2022 00:24,E5,Boarding,16,Landed,234,Terminal 4
+1997,American,Fuvahmulah Airport,12/24/2022 09:20,A1,Boarding,207,Scheduled,25,Terminal 3
+5659,Southwest,Tolmachevo Airport,2/10/2022 14:40,C3,On Time,33,Landed,290,Terminal 4
+1073,Delta,Orinduik Airport,11/18/2022 13:06,C3,Boarding,289,Landed,249,Terminal 2
+5423,United,Arlit Airport,6/15/2022 07:29,C3,Delayed,101,In Air,201,Terminal 1
+511,JetBlue,Anapa Vityazevo Airport,7/29/2022 11:01,C3,Departed,184,In Air,116,Terminal 2
+8918,United,Necochea Airport,6/17/2022 04:33,B2,On Time,239,In Air,307,Terminal 1
+1257,American,Mariscal Sucre International Airport,11/3/2022 11:19,D4,Boarding,283,Landed,74,Terminal 4
+6240,Delta,Duxford Aerodrome,3/26/2022 19:01,D4,Boarding,124,Cancelled,192,Terminal 1
+5552,JetBlue,Kerau Airport,5/24/2022 12:52,A1,On Time,380,Cancelled,192,Terminal 3
+7303,United,Jindabyne Airport,5/30/2022 21:39,A1,Boarding,320,In Air,272,Terminal 2
+9767,Southwest,Orapa Airport,7/14/2022 14:27,E5,Boarding,72,Scheduled,91,Terminal 1
+3689,American,Port Bergé Airport,10/26/2022 06:39,B2,Delayed,361,Scheduled,95,Terminal 1
+6427,Delta,Jebel Ali Seaplane Base,8/12/2022 22:33,D4,On Time,61,Landed,87,Terminal 4
+9172,United,Trois-Rivières Airport,2/22/2022 21:02,D4,Departed,278,In Air,246,Terminal 2
+7086,United,Eneabba Airport,12/3/2022 00:47,C3,Departed,224,Landed,75,Terminal 1
+5609,Delta,Woja Airport,9/28/2022 21:53,C3,Boarding,452,Landed,320,Terminal 4
+3379,Southwest,Rodríguez Ballón International Airport,2/5/2022 08:23,E5,Departed,330,Landed,150,Terminal 1
+6708,Delta,La Cumbre Airport,6/27/2022 12:55,C3,On Time,257,Scheduled,125,Terminal 4
+6742,United,Sibiu International Airport,3/27/2022 16:37,C3,Boarding,492,In Air,360,Terminal 1
+5706,JetBlue,Emalamo Sanana Airport,7/10/2022 14:04,C3,Boarding,388,Landed,175,Terminal 1
+5838,Southwest,Ngot Nzoungou Airport,7/10/2022 17:23,D4,On Time,230,Landed,188,Terminal 1
+788,United,Capurganá Airport,7/21/2022 21:06,A1,Boarding,403,Landed,200,Terminal 3
+8329,Southwest,Sandnessjøen Airport (Stokka),8/31/2022 02:01,D4,Boarding,8,Scheduled,180,Terminal 4
+8097,Delta,Southwest Bay Airport,2/21/2022 08:11,B2,On Time,1,Landed,320,Terminal 2
+2726,United,Kos Airport,9/20/2022 09:51,B2,Boarding,56,In Air,63,Terminal 3
+3208,Southwest,Parry Sound/Frying Pan Island-Sans Souci Seaplane Base,3/21/2022 15:41,D4,On Time,456,In Air,199,Terminal 1
+7420,JetBlue,Impfondo Airport,1/19/2022 02:23,E5,Departed,171,Landed,6,Terminal 1
+4900,JetBlue,Ísafjörður Airport,5/9/2022 04:52,D4,Boarding,24,Cancelled,170,Terminal 2
+7851,Delta,Amery Municipal Airport,12/11/2022 19:43,D4,On Time,327,Cancelled,338,Terminal 4
+6314,American,Abaco I Walker C Airport,10/15/2022 22:11,A1,Departed,319,Cancelled,107,Terminal 1
+4985,Southwest,Rio Frio / Progreso Airport,8/19/2022 20:44,E5,On Time,74,Cancelled,266,Terminal 2
+4777,Southwest,Woodward Field,12/3/2022 01:10,C3,Boarding,45,Scheduled,312,Terminal 2
+8395,American,Sierra Vista Municipal Libby Army Air Field,1/12/2022 14:36,B2,Boarding,367,Landed,219,Terminal 1
+9495,JetBlue,Kent International Airport,9/11/2022 06:54,D4,Delayed,41,Scheduled,234,Terminal 2
+9808,JetBlue,Sultan Mahmud Badaruddin II Airport,11/27/2022 02:12,E5,On Time,301,In Air,109,Terminal 3
+4788,JetBlue,Vipingo Estate Airport,4/22/2022 12:36,B2,Departed,27,Scheduled,128,Terminal 2
+1941,American,Port Williams Seaplane Base,9/1/2022 21:03,D4,On Time,230,In Air,330,Terminal 2
+3045,American,Shaheed Benazirabad Airport,3/28/2022 05:40,B2,Delayed,222,Landed,142,Terminal 3
+4652,Delta,Charlottetown Airport,8/29/2022 10:57,C3,Delayed,497,Cancelled,128,Terminal 1
+335,JetBlue,Corrientes Airport,11/4/2022 13:39,A1,On Time,201,Scheduled,9,Terminal 4
+8772,United,Turtle Island Seaplane Base,11/26/2022 14:38,B2,Boarding,128,Scheduled,217,Terminal 4
+5961,American,Telida Airport,11/13/2022 20:26,D4,Delayed,290,Cancelled,306,Terminal 4
+521,JetBlue,Dr Ferdinand Lumban Tobing Airport,5/11/2022 08:37,E5,Boarding,293,Scheduled,253,Terminal 2
+265,American,Greenwood County Airport,7/6/2022 18:07,A1,Departed,25,In Air,162,Terminal 4
+4579,Delta,Chafei Amsei Airport,1/6/2022 17:09,B2,On Time,300,Scheduled,128,Terminal 4
+5914,United,Jose Maria Córdova International Airport,9/29/2022 01:48,B2,On Time,181,Cancelled,91,Terminal 2
+6963,United,Ouro Fino Airport,9/21/2022 15:30,B2,On Time,188,Scheduled,34,Terminal 1
+2905,Delta,Rolla Downtown Airport,3/5/2022 01:56,D4,On Time,47,Scheduled,342,Terminal 1
+8180,United,CFB Cold Lake,7/14/2022 05:40,D4,Departed,499,In Air,172,Terminal 3
+3043,Southwest,Henry Tift Myers Airport,4/24/2022 19:07,A1,Boarding,257,Landed,20,Terminal 3
+8520,Southwest,Scott AFB/Midamerica Airport,12/17/2022 12:16,A1,On Time,326,In Air,235,Terminal 2
+6496,JetBlue,Ordu Giresun Airport,2/25/2022 19:53,E5,On Time,449,Landed,32,Terminal 4
+8011,United,Niagara Falls International Airport,10/12/2022 00:16,A1,Delayed,452,In Air,194,Terminal 2
+854,American,New Bedford Regional Airport,12/17/2022 21:58,B2,Departed,45,Landed,79,Terminal 4
+7884,JetBlue,Dhaalu Atoll Airport,3/5/2022 12:49,C3,Departed,66,Scheduled,47,Terminal 2
+1968,Delta,El Minya Airport,7/4/2022 23:11,D4,Boarding,32,In Air,148,Terminal 4
+4503,Southwest,Lagoa Santa Airport,5/30/2022 11:22,C3,Departed,467,Scheduled,173,Terminal 2
+4653,JetBlue,Qiemo Yudu Airport,1/23/2022 17:53,A1,Departed,13,Landed,212,Terminal 3
+6764,Southwest,Seymour Johnson Air Force Base,12/22/2022 08:07,D4,Delayed,84,In Air,233,Terminal 1
+1189,Southwest,Jack Northrop Field Hawthorne Municipal Airport,7/29/2022 19:08,A1,Delayed,491,Cancelled,237,Terminal 2
+3577,United,Ivishak Airport,10/5/2022 16:59,B2,Delayed,199,Cancelled,180,Terminal 3
+7912,United,Loncopue Airport,6/5/2022 12:20,B2,Departed,486,Cancelled,261,Terminal 4
+4052,JetBlue,Arica Airport,1/30/2022 10:46,C3,On Time,382,In Air,152,Terminal 2
+1479,Delta,Estevan Airport,3/14/2022 01:37,B2,Boarding,445,Cancelled,74,Terminal 1
+3013,Southwest,Wakunai Airport,5/3/2022 13:38,A1,Boarding,407,In Air,276,Terminal 4
+3815,Delta,Whyalla Airport,11/18/2022 14:59,C3,Delayed,316,Landed,85,Terminal 1
+731,American,Kangiqsualujjuaq (Georges River) Airport,4/20/2022 09:02,B2,Boarding,321,Scheduled,19,Terminal 3
+5033,Southwest,Fakarava Airport,10/14/2022 21:41,C3,On Time,258,Scheduled,119,Terminal 4
+344,United,Harrison County Airport,3/1/2022 05:30,D4,Boarding,146,Cancelled,352,Terminal 3
+4942,United,Baramita Airport,11/30/2022 11:49,B2,On Time,203,In Air,260,Terminal 4
+4642,Southwest,Wantoat Airport,7/28/2022 04:13,E5,Departed,225,Scheduled,295,Terminal 2
+6014,Southwest,Falcon State Airport,12/20/2022 03:32,B2,Delayed,306,Landed,329,Terminal 3
+7712,JetBlue,Talhar Airport,10/8/2022 22:26,A1,Departed,42,Cancelled,151,Terminal 3
+7545,JetBlue,Syros Airport,11/6/2022 01:44,E5,Boarding,198,In Air,118,Terminal 3
+5596,American,Wright AAF (Fort Stewart)/Midcoast Regional Airport,9/10/2022 04:52,A1,Boarding,60,Cancelled,129,Terminal 4
+7218,American,São Lourenço Airport,10/6/2022 21:33,B2,Departed,418,Scheduled,118,Terminal 1
+8356,JetBlue,Josephstaal Airport,6/30/2022 02:32,D4,Departed,5,Scheduled,262,Terminal 1
+6599,Delta,Linden Airport,3/16/2022 03:15,E5,On Time,342,Scheduled,28,Terminal 4
+1481,United,RAF Bentwaters,7/10/2022 05:49,E5,Delayed,232,Landed,132,Terminal 1
+4829,JetBlue,Perpignan-Rivesaltes (Llabanère) Airport,5/16/2022 12:14,A1,Boarding,5,Scheduled,166,Terminal 4
+1331,Southwest,Soroti Airport,12/10/2022 09:49,B2,Boarding,334,Scheduled,151,Terminal 4
+3320,American,Santa Fe Municipal Airport,9/20/2022 01:46,D4,Departed,463,Landed,188,Terminal 3
+3133,United,Moises R. Espinosa Airport,3/22/2022 19:33,B2,Boarding,37,Cancelled,98,Terminal 3
+3349,American,Casper-Natrona County International Airport,3/4/2022 18:11,A1,On Time,245,Cancelled,308,Terminal 1
+3447,JetBlue,J F Mitchell Airport,1/9/2022 16:40,D4,Delayed,40,Cancelled,51,Terminal 2
+8991,Southwest,Franz Josef Aerodrome,3/1/2022 00:18,A1,Departed,99,In Air,185,Terminal 3
+5153,United,Rouen Airport,9/16/2022 03:19,A1,Departed,404,Landed,118,Terminal 1
+300,Delta,Mui River Airport,7/2/2022 22:06,A1,On Time,229,Landed,284,Terminal 1
+9524,United,Clarksville–Montgomery County Regional Airport,4/8/2022 23:28,E5,Boarding,316,Landed,335,Terminal 2
+2283,American,Port-de-Paix Airport,10/1/2022 07:16,B2,Delayed,63,In Air,240,Terminal 2
+2949,JetBlue,Kotlas Airport,9/4/2022 00:59,D4,Departed,316,Landed,277,Terminal 2
+628,JetBlue,Venice Municipal Airport,8/30/2022 15:59,A1,Delayed,456,Landed,205,Terminal 2
+8656,JetBlue,Chatham Seaplane Base,1/13/2022 18:19,C3,Departed,12,In Air,29,Terminal 1
+3617,United,Attawapiskat Airport,11/27/2022 21:23,C3,Departed,35,In Air,236,Terminal 2
+5607,Delta,Kasonombe Airport,5/27/2022 03:37,B2,Delayed,465,Scheduled,106,Terminal 2
+2313,JetBlue,Tagbilaran Airport,11/7/2022 08:24,E5,Departed,66,In Air,80,Terminal 4
+8891,United,Temora Airport,10/14/2022 07:01,B2,Boarding,189,Landed,110,Terminal 2
+8107,United,Southern Illinois Airport,11/5/2022 02:54,D4,Departed,330,Scheduled,67,Terminal 1
+4693,American,Ciudad del Carmen International Airport,4/20/2022 08:05,D4,Departed,32,In Air,51,Terminal 1
+5203,JetBlue,McGrath Airport,5/17/2022 03:08,D4,Delayed,301,In Air,324,Terminal 1
+9796,American,Derby Field,7/12/2022 16:23,E5,On Time,319,Landed,303,Terminal 4
+7544,American,Quartz Hill Airport,12/28/2022 08:32,E5,Departed,183,Scheduled,230,Terminal 2
+5216,American,Surin Airport,6/7/2022 11:23,E5,Departed,163,Landed,85,Terminal 2
+9589,American,Vidalia Regional Airport,2/2/2022 21:05,C3,Delayed,213,Scheduled,17,Terminal 2
+3338,JetBlue,Westray Airport,1/26/2022 05:44,D4,Departed,33,In Air,231,Terminal 3
+1267,Delta,Futaleufú Airport,5/17/2022 11:02,B2,On Time,417,Scheduled,131,Terminal 2
+1311,Southwest,Manga Airport,4/19/2022 11:06,C3,Delayed,212,Scheduled,216,Terminal 1
+2773,Southwest,Lakeland-Noble F. Lee Memorial field,8/28/2022 08:44,E5,On Time,326,Landed,68,Terminal 3
+3012,Delta,Cork Airport,5/22/2022 09:56,A1,On Time,82,Cancelled,316,Terminal 4
+5865,American,Ixtapa Zihuatanejo International Airport,10/26/2022 05:37,C3,Boarding,270,In Air,300,Terminal 1
+963,Southwest,Massawa International Airport,1/7/2022 00:12,D4,Departed,100,Scheduled,44,Terminal 4
+9661,Delta,Ormara Airport,5/31/2022 16:49,E5,Departed,49,In Air,193,Terminal 4
+8968,JetBlue,Kilimanjaro International Airport,4/28/2022 07:05,C3,Boarding,192,Cancelled,198,Terminal 1
+439,JetBlue,Tampa Padang Airport,9/28/2022 18:29,D4,Departed,183,Cancelled,64,Terminal 3
+4696,Southwest,Jebel Ali Seaplane Base,2/23/2022 21:42,D4,Departed,221,Cancelled,88,Terminal 4
+4311,United,Yamaguchi Ube Airport,2/17/2022 16:55,A1,Boarding,418,Cancelled,359,Terminal 4
+1835,Southwest,Galion Municipal Airport,10/12/2022 21:26,D4,Departed,70,In Air,189,Terminal 4
+1594,American,Gamboa Airport,4/28/2022 04:53,A1,On Time,45,Landed,235,Terminal 1
+1734,Southwest,Christmas Creek Station Airport,3/22/2022 12:37,C3,On Time,411,In Air,91,Terminal 2
+7688,JetBlue,Ramstein Air Base,5/8/2022 15:40,C3,Boarding,255,In Air,89,Terminal 2
